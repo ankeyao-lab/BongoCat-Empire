@@ -9,6 +9,7 @@ import { getInteractionPaw } from '@/data/interaction-paws'
 import type { SceneV6 } from './scene-v6'
 import type { SleeveArmConfig } from './sleeve-arm'
 
+import OriginalRaisedPaw from './OriginalRaisedPaw.vue'
 import PetEyes from './PetEyes.vue'
 import { catPointerPalm, interactionPalm, sleeveArmGeometry } from './sleeve-arm'
 import SleeveArm from './SleeveArm.vue'
@@ -24,10 +25,11 @@ const props = withDefaults(defineProps<{
   input: WizardInputState
   mirror?: boolean
   pointerMirror?: boolean
+  idlePointerRaised?: boolean
   blinkEyes?: boolean
   reducedMotion?: boolean
   expression?: 'normal' | 'happy' | 'sleepy'
-}>(), { mirror: false, pointerMirror: false, blinkEyes: true, reducedMotion: false, expression: 'normal' })
+}>(), { mirror: false, pointerMirror: false, idlePointerRaised: true, blinkEyes: true, reducedMotion: false, expression: 'normal' })
 const deviceOffset = 36
 const id = `scene-v6-${useId().replace(/:/g, '')}`
 const frame = computed(() => {
@@ -65,6 +67,10 @@ const leftStick = computed(() => props.mode === 'gamepad' && (Math.abs(props.inp
 const rightStick = computed(() => props.mode === 'gamepad' && (Math.abs(props.input.sticks?.right.x ?? 0) > 0.02 || Math.abs(props.input.sticks?.right.y ?? 0) > 0.02 || props.input.pressedButtons?.includes('RightThumb')))
 const leftStickPalm = computed(() => ({ x: 439 + (props.input.sticks?.left.x ?? 0) * 16, y: 477 + deviceOffset - (props.input.sticks?.left.y ?? 0) * 10 - 22 }))
 const rightStickPalm = computed(() => ({ x: 83 + (props.input.sticks?.right.x ?? 0) * 16, y: 411 + deviceOffset - (props.input.sticks?.right.y ?? 0) * 10 - 22 }))
+const keyboardRaised = computed(() => !latest('left') && !leftStick.value)
+const pointerRaised = computed(() => pointerMode.value
+  ? props.idlePointerRaised && props.input.rightMode !== 'trackpad' && !clicking.value && !props.input.scrolling
+  : !latest('right') && !rightStick.value)
 const keyboardPalm = computed(() => {
   const key = latest('left')
   if (key) return interactionPalm(key.src, deviceOffset)!
@@ -72,7 +78,7 @@ const keyboardPalm = computed(() => {
   return { x: props.scene.roots.keyboard.x - 5, y: 478 }
 })
 const otherPalm = computed(() => {
-  if (pointerMode.value) return pointer.value
+  if (pointerMode.value && !pointerRaised.value) return pointer.value
   const key = latest('right')
   if (key) return interactionPalm(key.src, deviceOffset)!
   if (rightStick.value) return rightStickPalm.value
@@ -124,7 +130,11 @@ const mouseTransform = computed(() => `translate(${pointer.value.x - 44} ${point
         x="0"
         y="0"
       >
-        <rect fill="white" height="580" width="612" />
+        <rect
+          fill="white"
+          height="580"
+          width="612"
+        />
         <rect
           fill="black"
           :height="bodyCleanup[3]"
@@ -268,15 +278,19 @@ const mouseTransform = computed(() => `translate(${pointer.value.x - 44} ${point
           ry="15"
         />
         <SleeveArm
+          v-if="!pointerRaised"
           class="pointer-sleeve"
           :config="pointerConfig"
+          data-pose="contact"
           :palm="otherPalm"
           :press-offset="pointerMode && clicking ? (reducedMotion ? 3 : 6) : 0"
           :show-cuff="!scene.cuffFront"
         />
         <SleeveArm
+          v-if="!keyboardRaised"
           class="keyboard-sleeve"
           :config="keyboardConfig"
+          data-pose="contact"
           :palm="keyboardPalm"
           :show-cuff="!scene.cuffFront"
         />
@@ -293,6 +307,18 @@ const mouseTransform = computed(() => `translate(${pointer.value.x - 44} ${point
             :width="scene.width"
           />
         </g>
+        <OriginalRaisedPaw
+          v-if="pointerRaised"
+          class="pointer-sleeve"
+          :config="pointerConfig"
+          side="pointer"
+        />
+        <OriginalRaisedPaw
+          v-if="keyboardRaised"
+          class="keyboard-sleeve"
+          :config="keyboardConfig"
+          side="keyboard"
+        />
         <path
           v-if="expression === 'happy'"
           d="M534 281 C524 271 519 285 534 295 C549 285 544 271 534 281Z"

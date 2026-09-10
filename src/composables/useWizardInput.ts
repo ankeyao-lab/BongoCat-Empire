@@ -90,6 +90,8 @@ export function keyboardPaw(key: string, mode: InteractionMode = 'trackpad'): 'l
   return resolveInteractionKey(mode, key)?.side ?? 'left'
 }
 const clamp = (value: number, min: number, max: number) => Math.max(min, Math.min(value, max))
+// macOS reports pointer activity, not a physical touch ending on the trackpad.
+const POINTER_IDLE_MS = 600
 
 /** Animates input only. Experience is counted independently by Rust, never here. */
 export function useWizardInput(options: {
@@ -138,7 +140,9 @@ export function useWizardInput(options: {
   }
   function trackpad() {
     input.rightMode = 'trackpad'
-    later('pointerIdle', 1800, () => input.rightMode = 'keyboard')
+    later('pointerIdle', POINTER_IDLE_MS, () => {
+      if (!input.mouseButtons.length && !input.scrolling) input.rightMode = 'keyboard'
+    })
   }
   function releaseKey(key: string) {
     heldKeys.delete(key)
@@ -204,7 +208,10 @@ export function useWizardInput(options: {
       return
     }
     if (event.kind === 'MouseRelease') {
+      const wasHeld = input.mouseButtons.includes(event.value)
       input.mouseButtons = input.mouseButtons.filter(button => button !== event.value)
+      // A stationary drag is still contact. Start the quiet period after release.
+      if (wasHeld && !input.mouseButtons.length) trackpad()
       return
     }
     if (toValue(options.ignorePointer) || !['standard', 'trackpad'].includes(currentMode())) return
@@ -245,14 +252,16 @@ export function useWizardInput(options: {
     input.rightMode = 'keyboard'
     input.scrolling = false
     input.mouseButtons = []
-    clearTimeout(timers.get('pointerVisual'))
-    timers.delete('pointerVisual')
+    for (const name of ['pointerVisual', 'pointerIdle', 'scroll']) {
+      clearTimeout(timers.get(name))
+      timers.delete(name)
+    }
+    cursor = undefined
     pointerTarget = { ...input.pointer }
   })
   watch(currentMode, () => {
+    resetDeviceInput()
     input.pressedButtons = []
-    input.mouseButtons = []
-    input.scrolling = false
     input.sticks = { left: { x: 0, y: 0 }, right: { x: 0, y: 0 } }
   })
   onMounted(async () => {

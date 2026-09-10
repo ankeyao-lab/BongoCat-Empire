@@ -10,6 +10,7 @@ export interface CatStore {
     /** Kept only to migrate version 1.2.0 preferences. */
     renderer: 'wizard' | 'legacy'
     interactionMode: InteractionMode
+    idlePointerRaised: boolean
     mirror: boolean
     mouseMirror: boolean
     motionSound: boolean
@@ -59,6 +60,7 @@ export const useCatStore = defineStore('cat', () => {
   const model = reactive<CatStore['model']>({
     renderer: 'wizard',
     interactionMode: 'trackpad',
+    idlePointerRaised: true,
     mirror: false,
     mouseMirror: false,
     motionSound: false,
@@ -81,6 +83,10 @@ export const useCatStore = defineStore('cat', () => {
   })
 
   const init = () => {
+    // Hydration happens before init. Keep an explicit single-paw preference,
+    // while older saves and invalid values use the default two-paw pose.
+    if (typeof model.idlePointerRaised !== 'boolean') model.idlePointerRaised = true
+
     if (!interactionMigrated.value) {
       model.interactionMode = model.renderer === 'legacy'
         ? useModelStore().currentModel?.mode ?? 'standard'

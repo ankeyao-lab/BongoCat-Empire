@@ -1,3 +1,12 @@
+# BongoCat Empire 1.8.3
+
+- Added a saved idle paw setting: A raises both paws by default; B raises the keyboard paw while the pointer paw stays on the trackpad or mouse. Applies to keyboard + trackpad/mouse modes.
+- Restored the original raised-paw artwork, with fixed sleeve connections. Keyboard presses, pointer movement, clicks, dragging, and scrolling retain their feedback.
+- Added Chinese and English controls; desktop and wardrobe previews share the selected pose. Existing settings without this preference default to A.
+- Published as GitHub release `v1.8.3` with the Apple Silicon macOS package and SHA-256 checksum.
+
+---
+
 # BongoCat Empire 1.8.1
 
 Release date: 2026-09-10

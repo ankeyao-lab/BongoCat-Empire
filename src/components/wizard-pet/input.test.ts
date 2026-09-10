@@ -112,7 +112,68 @@ it('scroll and tap use trackpad; ignoring pointer clears click and scroll state'
     ignore.value = true
     await nextTick()
     assert.equal(api.input.scrolling, false)
+    assert.equal(api.input.rightMode, 'keyboard')
     assert.deepEqual([...api.input.mouseButtons], [])
+  } finally {
+    dispose()
+  }
+})
+
+it('pointer and scroll contact returns to idle after a short quiet period', async () => {
+  const { api, dispose } = mountInput()
+  try {
+    assert.equal(api.input.rightMode, 'keyboard')
+    api.handleEvent({ kind: 'MouseMove', value: { x: 100, y: 100 } })
+    assert.equal(api.input.rightMode, 'trackpad')
+    await delay(350)
+    api.handleEvent({ kind: 'PointerScroll', value: { x: 0, y: 2 } })
+    await delay(350)
+    assert.equal(api.input.scrolling, false)
+    assert.equal(api.input.rightMode, 'trackpad', 'scroll extends contact beyond the original movement timeout')
+    await delay(300)
+    assert.equal(api.input.rightMode, 'keyboard')
+  } finally {
+    dispose()
+  }
+})
+
+it('stationary held mouse buttons retain contact until the final release becomes idle', async () => {
+  const { api, dispose } = mountInput()
+  try {
+    api.handleEvent({ kind: 'MousePress', value: 'Left' })
+    api.handleEvent({ kind: 'MousePress', value: 'Right' })
+    await delay(650)
+    assert.equal(api.input.rightMode, 'trackpad')
+    api.handleEvent({ kind: 'MouseRelease', value: 'Left' })
+    await delay(650)
+    assert.equal(api.input.rightMode, 'trackpad', 'the other held button keeps the paw down')
+    api.handleEvent({ kind: 'MouseRelease', value: 'Right' })
+    assert.equal(api.input.rightMode, 'trackpad')
+    await delay(650)
+    assert.equal(api.input.rightMode, 'keyboard')
+  } finally {
+    dispose()
+  }
+})
+
+it('changing interaction modes clears old contact and does not revive it on a late release', async () => {
+  const { api, mode, dispose } = mountInput()
+  try {
+    api.handleEvent({ kind: 'KeyboardPress', value: 'KeyA' })
+    api.handleEvent({ kind: 'MousePress', value: 'Left' })
+    api.handleEvent({ kind: 'PointerScroll', value: { x: 0, y: -4 } })
+    mode.value = 'keyboard'
+    await nextTick()
+    assert.equal(api.input.rightMode, 'keyboard')
+    assert.equal(api.input.leftTap, false)
+    assert.equal(api.input.rightTap, false)
+    assert.equal(api.input.scrolling, false)
+    assert.deepEqual([...api.input.pressedKeys], [])
+    assert.deepEqual([...api.input.mouseButtons], [])
+    api.handleEvent({ kind: 'MouseRelease', value: 'Left' })
+    mode.value = 'trackpad'
+    await nextTick()
+    assert.equal(api.input.rightMode, 'keyboard')
   } finally {
     dispose()
   }

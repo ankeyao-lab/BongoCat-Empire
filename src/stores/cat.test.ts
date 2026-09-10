@@ -59,3 +59,41 @@ it('input mode selection changes the device preset without changing unrelated se
     assert.equal(cat.window.scale, 75)
   }
 })
+
+it('new and pre-feature saves default to both idle paws raised', () => {
+  const { cat } = fixtures()
+  assert.equal(cat.model.idlePointerRaised, true)
+  // The Tauri Pinia plugin hydrates through $patch before App calls init.
+  cat.$patch({ model: { interactionMode: 'standard' }, interactionMigrated: true })
+  cat.init()
+  assert.equal(cat.model.idlePointerRaised, true)
+  assert.equal(cat.model.interactionMode, 'standard')
+})
+
+it('missing and invalid hydrated idle-paw values recover to both paws even after older migrations', () => {
+  for (const value of [undefined, null, 'false', 0, 1, {}]) {
+    const { cat } = fixtures()
+    cat.interactionMigrated = true
+    cat.model.idlePointerRaised = value as boolean
+    cat.init()
+    assert.equal(cat.model.idlePointerRaised, true)
+  }
+})
+
+it('the single-paw preference survives save hydration and repeated initialization', () => {
+  const { cat } = fixtures()
+  cat.init()
+  cat.model.idlePointerRaised = false
+  cat.window.scale = 75
+  const saved = JSON.parse(JSON.stringify(cat.$state))
+  const { cat: restored } = fixtures()
+  restored.$patch(saved)
+  restored.init()
+  restored.init()
+  assert.equal(restored.model.idlePointerRaised, false)
+  assert.equal(restored.window.scale, 75)
+  for (const mode of ['keyboard', 'gamepad', 'standard', 'trackpad'] as const) {
+    restored.setInteractionMode(mode)
+    assert.equal(restored.model.idlePointerRaised, false)
+  }
+})

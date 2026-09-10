@@ -39,6 +39,7 @@ const props = withDefaults(defineProps<{
   blinkEyes?: boolean
   mirror?: boolean
   pointerMirror?: boolean
+  idlePointerRaised?: boolean
   announcement?: string
   motion?: 'idle' | 'bounce' | 'stretch'
   expression?: 'normal' | 'happy' | 'sleepy'
@@ -54,6 +55,7 @@ const props = withDefaults(defineProps<{
   blinkEyes: true,
   mirror: false,
   pointerMirror: false,
+  idlePointerRaised: true,
   announcement: '',
   motion: 'idle',
   expression: 'normal',
@@ -105,7 +107,8 @@ const pointerPaw = computed(() => pointerArmPath(pointer.value, pressOffset.valu
 const pointerBody = computed(() => pointerBodyClip(pointer.value, pressOffset.value))
 const pointerBodyClipId = `pointer-cat-body-${useId().replace(/:/g, '')}`
 const mouseTransform = computed(() => `translate(${pointer.value.x - 44} ${pointer.value.y - 28}) rotate(-8 44 28)`)
-const pointerPawVisible = computed(() => props.mode === 'standard' || props.mode === 'trackpad')
+const pointerPawVisible = computed(() => (props.mode === 'standard' || props.mode === 'trackpad')
+  && (!props.idlePointerRaised || props.input.rightMode === 'trackpad' || pointerPressed.value || props.input.scrolling))
 const leftStickActive = computed(() => props.mode === 'gamepad' && (Math.abs(props.input.sticks?.left.x ?? 0) > 0.02 || Math.abs(props.input.sticks?.left.y ?? 0) > 0.02 || props.input.pressedButtons?.includes('LeftThumb')))
 const rightStickActive = computed(() => props.mode === 'gamepad' && (Math.abs(props.input.sticks?.right.x ?? 0) > 0.02 || Math.abs(props.input.sticks?.right.y ?? 0) > 0.02 || props.input.pressedButtons?.includes('RightThumb')))
 </script>
@@ -121,6 +124,7 @@ const rightStickActive = computed(() => props.mode === 'gamepad' && (Math.abs(pr
       v-if="v6Scene"
       :blink-eyes="blinkEyes"
       :expression="expression"
+      :idle-pointer-raised="idlePointerRaised"
       :input="input"
       :level="level"
       :mirror="mirror"

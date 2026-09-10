@@ -40,6 +40,43 @@ const catStore = useCatStore()
         </option>
       </select>
     </ProListItem>
+    <ProListItem
+      :description="tr('用于键盘＋触摸板或鼠标模式，决定没有输入时的举爪姿势。双手键盘和手柄模式保持原有动作。选择后立即生效并自动保存。', 'Choose the idle pose for keyboard + trackpad or mouse. Two-hand keyboard and gamepad gestures stay the same. Changes apply immediately and save automatically.')"
+      :title="tr('闲置举爪', 'Idle paw pose')"
+      vertical
+    >
+      <fieldset
+        :aria-label="tr('闲置举爪', 'Idle paw pose')"
+        class="idle-paw-options"
+      >
+        <label
+          class="idle-paw-option"
+          :class="{ selected: catStore.model.idlePointerRaised }"
+        >
+          <input
+            v-model="catStore.model.idlePointerRaised"
+            data-testid="idle-paw-a"
+            name="idle-paw-pose"
+            type="radio"
+            :value="true"
+          >
+          <span>{{ tr('A · 举双爪', 'A · Both paws raised') }}</span>
+        </label>
+        <label
+          class="idle-paw-option"
+          :class="{ selected: !catStore.model.idlePointerRaised }"
+        >
+          <input
+            v-model="catStore.model.idlePointerRaised"
+            data-testid="idle-paw-b"
+            name="idle-paw-pose"
+            type="radio"
+            :value="false"
+          >
+          <span>{{ tr('B · 仅举左爪', 'B · Left paw raised') }}</span>
+        </label>
+      </fieldset>
+    </ProListItem>
   </ProList>
   <ProList :title="$t('pages.preference.cat.labels.modelSettings')">
     <ProListItem
@@ -199,3 +236,40 @@ const catStore = useCatStore()
     </ProListItem>
   </ProList>
 </template>
+
+<style scoped>
+.idle-paw-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.idle-paw-option {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 44px;
+  padding: 10px 14px;
+  border: 1px solid var(--ant-color-border, #d9d9d9);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.idle-paw-option.selected {
+  border-color: var(--ant-color-primary, #1677ff);
+  background: var(--ant-color-primary-bg, #e6f4ff);
+}
+
+.idle-paw-option:focus-within {
+  outline: 2px solid var(--ant-color-primary, #1677ff);
+  outline-offset: 2px;
+}
+
+.idle-paw-option input {
+  margin: 0;
+  accent-color: var(--ant-color-primary, #1677ff);
+}
+</style>

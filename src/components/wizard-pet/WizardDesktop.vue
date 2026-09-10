@@ -169,6 +169,7 @@ function resizeGesture(event: MouseEvent) {
       :expression="expression"
       :growth-level="state?.roundLevel ?? 1"
       :growth-theme-id="state?.growthThemeId ?? 'wizard'"
+      :idle-pointer-raised="catStore.model.idlePointerRaised"
       :input="input"
       :level="equipped.level"
       :mirror="catStore.model.mirror"

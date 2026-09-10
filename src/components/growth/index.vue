@@ -17,9 +17,11 @@ import { levelAtPresses, validateThresholds } from '@/data/wizard-theme'
 import { getLocalizedGrowthThemeRegistry, getLocalizedOutfitThemeOptions } from '@/data/wizard-theme-localized'
 import { useEmpireLocale } from '@/locales/empire'
 import { translateEmpireError } from '@/locales/empire-errors'
+import { useCatStore } from '@/stores/cat'
 
 const props = withDefaults(defineProps<{ section?: PreferenceSection }>(), { section: 'themes' })
 const { tr, locale } = useEmpireLocale()
+const catStore = useCatStore()
 const growthThemeRegistry = computed(() => getLocalizedGrowthThemeRegistry(locale.value))
 const outfitThemeOptions = computed(() => getLocalizedOutfitThemeOptions(locale.value))
 
@@ -435,6 +437,7 @@ async function changeDemo(event: Event) {
               <WizardPet
                 :blink-eyes="false"
                 class="theme-art"
+                :idle-pointer-raised="catStore.model.idlePointerRaised"
                 :input="stillInput"
                 :level="option.id === 'none' ? 1 : 5"
                 :outfit-theme-id="option.id"
@@ -488,6 +491,7 @@ async function changeDemo(event: Event) {
                 <WizardPet
                   :blink-eyes="false"
                   class="wardrobe-render"
+                  :idle-pointer-raised="catStore.model.idlePointerRaised"
                   :input="stillInput"
                   :level="outfit.level"
                   :name="outfit.name"
@@ -508,6 +512,7 @@ async function changeDemo(event: Event) {
             <WizardPet
               :blink-eyes="false"
               class="original-preview"
+              :idle-pointer-raised="catStore.model.idlePointerRaised"
               :input="stillInput"
               :level="1"
               outfit-theme-id="none"
@@ -798,6 +803,7 @@ async function changeDemo(event: Event) {
         <WizardPet
           :blink-eyes="false"
           class="preview-art"
+          :idle-pointer-raised="catStore.model.idlePointerRaised"
           :input="stillInput"
           :level="selected.level"
           :name="selected.name"

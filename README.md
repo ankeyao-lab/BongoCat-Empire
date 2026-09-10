@@ -2,21 +2,22 @@
 
 macOS desktop companion with twelve wardrobe themes, nine collectible levels per theme, local growth tracking, and Chinese / English settings. This is an independent macOS-focused distribution built from [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) under its MIT license.
 
-## BongoCat Empire 1.8.1
+## BongoCat Empire 1.8.3
 
 - 12 themes × 9 levels: 108 outfits with full Chinese and English copy.
 - New "Road to the Throne" Emperor logo and the BongoCat Empire product name.
 - Compact desktop surface aligned to the cat's chest and input devices.
 - Keyboard, mouse, trackpad, and gamepad interaction modes; only valid non-modifier key presses add local growth.
 - Language selection persists across app restart. No account or network connection is required.
+- New idle-paw setting: default **A** raises both paws; **B** keeps the pointer paw on the trackpad or mouse. Find it in **Settings → More settings → Interaction & Window → Idle paw pose**. The choice applies immediately and persists after restart.
 
 ### Download and install
 
-The `empire-v1.8.1` GitHub Release provides `BongoCat-Empire-1.8.1-macos-arm64.zip` for Apple Silicon Macs. Unzip it, move **BongoCat Empire.app** to Applications, then enable **BongoCat Empire** in **System Settings → Privacy & Security → Input Monitoring**.
+The [`v1.8.3` GitHub Release](https://github.com/ankeyao-lab/BongoCat-Empire/releases/tag/v1.8.3) provides `BongoCat-Empire-1.8.3-macos-arm64.zip` for Apple Silicon Macs. Unzip it, move **BongoCat Empire.app** to Applications, then enable **BongoCat Empire** in **System Settings → Privacy & Security → Input Monitoring**.
 
 The app bundle is ad-hoc signed and is not notarized. macOS may require you to open it from Finder with Control-click → Open on the first launch. The release asset's SHA-256 is published alongside the download.
 
-See [RELEASE_NOTES.md](RELEASE_NOTES.md) for the 1.8.1 scope and validation record. The original upstream documentation follows.
+See [RELEASE_NOTES.md](RELEASE_NOTES.md) for the 1.8.3 scope and validation record. The original upstream documentation follows.
 
 ---
 
