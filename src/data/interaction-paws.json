@@ -1,0 +1,758 @@
+{
+  "standard/left/Alt": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Alt.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Alt.png",
+    "anchorY": 372,
+    "contactY": 428
+  },
+  "standard/left/AltGr": {
+    "pawSrc": "/interaction-separated/standard/left-paws/AltGr.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/AltGr.png",
+    "anchorY": 347,
+    "contactY": 405
+  },
+  "standard/left/BackQuote": {
+    "pawSrc": "/interaction-separated/standard/left-paws/BackQuote.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/BackQuote.png",
+    "anchorY": 361,
+    "contactY": 505
+  },
+  "standard/left/Backspace": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Backspace.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Backspace.png",
+    "anchorY": 365,
+    "contactY": 458
+  },
+  "standard/left/CapsLock": {
+    "pawSrc": "/interaction-separated/standard/left-paws/CapsLock.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/CapsLock.png",
+    "anchorY": 374,
+    "contactY": 473
+  },
+  "standard/left/Control": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Control.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Control.png",
+    "anchorY": 370,
+    "contactY": 446
+  },
+  "standard/left/ControlLeft": {
+    "pawSrc": "/interaction-separated/standard/left-paws/ControlLeft.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/ControlLeft.png",
+    "anchorY": 370,
+    "contactY": 446
+  },
+  "standard/left/ControlRight": {
+    "pawSrc": "/interaction-separated/standard/left-paws/ControlRight.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/ControlRight.png",
+    "anchorY": 350,
+    "contactY": 403
+  },
+  "standard/left/Delete": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Delete.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Delete.png",
+    "anchorY": 367,
+    "contactY": 443
+  },
+  "standard/left/Escape": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Escape.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Escape.png",
+    "anchorY": 362,
+    "contactY": 522
+  },
+  "standard/left/Fn": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Fn.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Fn.png",
+    "anchorY": 361,
+    "contactY": 512
+  },
+  "standard/left/KeyA": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyA.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyA.png",
+    "anchorY": 358,
+    "contactY": 464
+  },
+  "standard/left/KeyB": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyB.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyB.png",
+    "anchorY": 365,
+    "contactY": 426
+  },
+  "standard/left/KeyC": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyC.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyC.png",
+    "anchorY": 363,
+    "contactY": 435
+  },
+  "standard/left/KeyD": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyD.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyD.png",
+    "anchorY": 361,
+    "contactY": 455
+  },
+  "standard/left/KeyE": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyE.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyE.png",
+    "anchorY": 363,
+    "contactY": 469
+  },
+  "standard/left/KeyF": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyF.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyF.png",
+    "anchorY": 355,
+    "contactY": 452
+  },
+  "standard/left/KeyG": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyG.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyG.png",
+    "anchorY": 357,
+    "contactY": 447
+  },
+  "standard/left/KeyH": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyH.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyH.png",
+    "anchorY": 356,
+    "contactY": 445
+  },
+  "standard/left/KeyI": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyI.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyI.png",
+    "anchorY": 368,
+    "contactY": 456
+  },
+  "standard/left/KeyJ": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyJ.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyJ.png",
+    "anchorY": 363,
+    "contactY": 443
+  },
+  "standard/left/KeyK": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyK.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyK.png",
+    "anchorY": 357,
+    "contactY": 438
+  },
+  "standard/left/KeyL": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyL.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyL.png",
+    "anchorY": 356,
+    "contactY": 434
+  },
+  "standard/left/KeyM": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyM.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyM.png",
+    "anchorY": 362,
+    "contactY": 425
+  },
+  "standard/left/KeyN": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyN.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyN.png",
+    "anchorY": 366,
+    "contactY": 426
+  },
+  "standard/left/KeyO": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyO.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyO.png",
+    "anchorY": 368,
+    "contactY": 452
+  },
+  "standard/left/KeyP": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyP.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyP.png",
+    "anchorY": 368,
+    "contactY": 450
+  },
+  "standard/left/KeyQ": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyQ.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyQ.png",
+    "anchorY": 368,
+    "contactY": 483
+  },
+  "standard/left/KeyR": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyR.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyR.png",
+    "anchorY": 367,
+    "contactY": 466
+  },
+  "standard/left/KeyS": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyS.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyS.png",
+    "anchorY": 355,
+    "contactY": 460
+  },
+  "standard/left/KeyT": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyT.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyT.png",
+    "anchorY": 366,
+    "contactY": 462
+  },
+  "standard/left/KeyU": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyU.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyU.png",
+    "anchorY": 369,
+    "contactY": 455
+  },
+  "standard/left/KeyV": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyV.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyV.png",
+    "anchorY": 353,
+    "contactY": 428
+  },
+  "standard/left/KeyW": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyW.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyW.png",
+    "anchorY": 363,
+    "contactY": 475
+  },
+  "standard/left/KeyX": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyX.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyX.png",
+    "anchorY": 359,
+    "contactY": 441
+  },
+  "standard/left/KeyY": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyY.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyY.png",
+    "anchorY": 364,
+    "contactY": 458
+  },
+  "standard/left/KeyZ": {
+    "pawSrc": "/interaction-separated/standard/left-paws/KeyZ.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyZ.png",
+    "anchorY": 371,
+    "contactY": 448
+  },
+  "standard/left/Meta": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Meta.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Meta.png",
+    "anchorY": 377,
+    "contactY": 434
+  },
+  "standard/left/Num0": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Num0.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Num0.png",
+    "anchorY": 364,
+    "contactY": 457
+  },
+  "standard/left/Num1": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Num1.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Num1.png",
+    "anchorY": 363,
+    "contactY": 499
+  },
+  "standard/left/Num2": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Num2.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Num2.png",
+    "anchorY": 358,
+    "contactY": 493
+  },
+  "standard/left/Num3": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Num3.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Num3.png",
+    "anchorY": 358,
+    "contactY": 494
+  },
+  "standard/left/Num4": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Num4.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Num4.png",
+    "anchorY": 358,
+    "contactY": 483
+  },
+  "standard/left/Num5": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Num5.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Num5.png",
+    "anchorY": 385,
+    "contactY": 476
+  },
+  "standard/left/Num6": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Num6.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Num6.png",
+    "anchorY": 383,
+    "contactY": 471
+  },
+  "standard/left/Num7": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Num7.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Num7.png",
+    "anchorY": 375,
+    "contactY": 472
+  },
+  "standard/left/Num8": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Num8.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Num8.png",
+    "anchorY": 371,
+    "contactY": 466
+  },
+  "standard/left/Num9": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Num9.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Num9.png",
+    "anchorY": 369,
+    "contactY": 462
+  },
+  "standard/left/Return": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Return.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Return.png",
+    "anchorY": 371,
+    "contactY": 438
+  },
+  "standard/left/Shift": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Shift.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Shift.png",
+    "anchorY": 367,
+    "contactY": 455
+  },
+  "standard/left/ShiftLeft": {
+    "pawSrc": "/interaction-separated/standard/left-paws/ShiftLeft.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/ShiftLeft.png",
+    "anchorY": 367,
+    "contactY": 455
+  },
+  "standard/left/ShiftRight": {
+    "pawSrc": "/interaction-separated/standard/left-paws/ShiftRight.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/ShiftRight.png",
+    "anchorY": 363,
+    "contactY": 412
+  },
+  "standard/left/Slash": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Slash.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Slash.png",
+    "anchorY": 375,
+    "contactY": 428
+  },
+  "standard/left/Space": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Space.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Space.png",
+    "anchorY": 369,
+    "contactY": 416
+  },
+  "standard/left/Tab": {
+    "pawSrc": "/interaction-separated/standard/left-paws/Tab.png",
+    "surfaceSrc": "/interaction-separated/standard/left-pressed/Tab.png",
+    "anchorY": 376,
+    "contactY": 483
+  },
+  "keyboard/left/Alt": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Alt.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Alt.png",
+    "anchorY": 372,
+    "contactY": 428
+  },
+  "keyboard/left/AltGr": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/AltGr.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/AltGr.png",
+    "anchorY": 347,
+    "contactY": 405
+  },
+  "keyboard/left/BackQuote": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/BackQuote.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/BackQuote.png",
+    "anchorY": 361,
+    "contactY": 505
+  },
+  "keyboard/left/Backspace": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Backspace.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Backspace.png",
+    "anchorY": 365,
+    "contactY": 458
+  },
+  "keyboard/left/CapsLock": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/CapsLock.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/CapsLock.png",
+    "anchorY": 374,
+    "contactY": 473
+  },
+  "keyboard/left/Control": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Control.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Control.png",
+    "anchorY": 370,
+    "contactY": 446
+  },
+  "keyboard/left/ControlLeft": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/ControlLeft.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/ControlLeft.png",
+    "anchorY": 370,
+    "contactY": 446
+  },
+  "keyboard/left/ControlRight": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/ControlRight.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/ControlRight.png",
+    "anchorY": 350,
+    "contactY": 403
+  },
+  "keyboard/left/Delete": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Delete.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Delete.png",
+    "anchorY": 367,
+    "contactY": 443
+  },
+  "keyboard/left/Escape": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Escape.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Escape.png",
+    "anchorY": 362,
+    "contactY": 522
+  },
+  "keyboard/left/Fn": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Fn.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Fn.png",
+    "anchorY": 361,
+    "contactY": 512
+  },
+  "keyboard/left/KeyA": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyA.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyA.png",
+    "anchorY": 358,
+    "contactY": 464
+  },
+  "keyboard/left/KeyB": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyB.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyB.png",
+    "anchorY": 365,
+    "contactY": 426
+  },
+  "keyboard/left/KeyC": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyC.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyC.png",
+    "anchorY": 363,
+    "contactY": 435
+  },
+  "keyboard/left/KeyD": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyD.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyD.png",
+    "anchorY": 361,
+    "contactY": 455
+  },
+  "keyboard/left/KeyE": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyE.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyE.png",
+    "anchorY": 363,
+    "contactY": 469
+  },
+  "keyboard/left/KeyF": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyF.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyF.png",
+    "anchorY": 355,
+    "contactY": 452
+  },
+  "keyboard/left/KeyG": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyG.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyG.png",
+    "anchorY": 357,
+    "contactY": 447
+  },
+  "keyboard/left/KeyH": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyH.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyH.png",
+    "anchorY": 356,
+    "contactY": 445
+  },
+  "keyboard/left/KeyI": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyI.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyI.png",
+    "anchorY": 368,
+    "contactY": 456
+  },
+  "keyboard/left/KeyJ": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyJ.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyJ.png",
+    "anchorY": 363,
+    "contactY": 443
+  },
+  "keyboard/left/KeyK": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyK.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyK.png",
+    "anchorY": 357,
+    "contactY": 438
+  },
+  "keyboard/left/KeyL": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyL.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyL.png",
+    "anchorY": 356,
+    "contactY": 434
+  },
+  "keyboard/left/KeyM": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyM.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyM.png",
+    "anchorY": 362,
+    "contactY": 425
+  },
+  "keyboard/left/KeyN": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyN.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyN.png",
+    "anchorY": 366,
+    "contactY": 426
+  },
+  "keyboard/left/KeyO": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyO.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyO.png",
+    "anchorY": 368,
+    "contactY": 452
+  },
+  "keyboard/left/KeyP": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyP.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyP.png",
+    "anchorY": 368,
+    "contactY": 450
+  },
+  "keyboard/left/KeyQ": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyQ.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyQ.png",
+    "anchorY": 368,
+    "contactY": 483
+  },
+  "keyboard/left/KeyR": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyR.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyR.png",
+    "anchorY": 367,
+    "contactY": 466
+  },
+  "keyboard/left/KeyS": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyS.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyS.png",
+    "anchorY": 355,
+    "contactY": 460
+  },
+  "keyboard/left/KeyT": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyT.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyT.png",
+    "anchorY": 366,
+    "contactY": 462
+  },
+  "keyboard/left/KeyU": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyU.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyU.png",
+    "anchorY": 369,
+    "contactY": 455
+  },
+  "keyboard/left/KeyV": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyV.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyV.png",
+    "anchorY": 353,
+    "contactY": 428
+  },
+  "keyboard/left/KeyW": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyW.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyW.png",
+    "anchorY": 363,
+    "contactY": 475
+  },
+  "keyboard/left/KeyX": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyX.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyX.png",
+    "anchorY": 359,
+    "contactY": 441
+  },
+  "keyboard/left/KeyY": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyY.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyY.png",
+    "anchorY": 364,
+    "contactY": 458
+  },
+  "keyboard/left/KeyZ": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/KeyZ.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyZ.png",
+    "anchorY": 371,
+    "contactY": 448
+  },
+  "keyboard/left/Meta": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Meta.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Meta.png",
+    "anchorY": 377,
+    "contactY": 434
+  },
+  "keyboard/left/Num0": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Num0.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num0.png",
+    "anchorY": 364,
+    "contactY": 457
+  },
+  "keyboard/left/Num1": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Num1.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num1.png",
+    "anchorY": 363,
+    "contactY": 499
+  },
+  "keyboard/left/Num2": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Num2.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num2.png",
+    "anchorY": 358,
+    "contactY": 493
+  },
+  "keyboard/left/Num3": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Num3.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num3.png",
+    "anchorY": 358,
+    "contactY": 494
+  },
+  "keyboard/left/Num4": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Num4.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num4.png",
+    "anchorY": 358,
+    "contactY": 483
+  },
+  "keyboard/left/Num5": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Num5.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num5.png",
+    "anchorY": 385,
+    "contactY": 476
+  },
+  "keyboard/left/Num6": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Num6.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num6.png",
+    "anchorY": 383,
+    "contactY": 471
+  },
+  "keyboard/left/Num7": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Num7.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num7.png",
+    "anchorY": 375,
+    "contactY": 472
+  },
+  "keyboard/left/Num8": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Num8.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num8.png",
+    "anchorY": 371,
+    "contactY": 466
+  },
+  "keyboard/left/Num9": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Num9.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num9.png",
+    "anchorY": 369,
+    "contactY": 462
+  },
+  "keyboard/left/Return": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Return.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Return.png",
+    "anchorY": 371,
+    "contactY": 438
+  },
+  "keyboard/left/Shift": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Shift.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Shift.png",
+    "anchorY": 367,
+    "contactY": 455
+  },
+  "keyboard/left/ShiftLeft": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/ShiftLeft.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/ShiftLeft.png",
+    "anchorY": 367,
+    "contactY": 455
+  },
+  "keyboard/left/ShiftRight": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/ShiftRight.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/ShiftRight.png",
+    "anchorY": 363,
+    "contactY": 412
+  },
+  "keyboard/left/Slash": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Slash.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Slash.png",
+    "anchorY": 375,
+    "contactY": 428
+  },
+  "keyboard/left/Space": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Space.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Space.png",
+    "anchorY": 369,
+    "contactY": 416
+  },
+  "keyboard/left/Tab": {
+    "pawSrc": "/interaction-separated/keyboard/left-paws/Tab.png",
+    "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Tab.png",
+    "anchorY": 376,
+    "contactY": 483
+  },
+  "keyboard/right/DownArrow": {
+    "pawSrc": "/interaction-separated/keyboard/right-paws/DownArrow.png",
+    "surfaceSrc": "/interaction-separated/keyboard/right-pressed/DownArrow.png",
+    "anchorY": 322,
+    "contactY": 408
+  },
+  "keyboard/right/LeftArrow": {
+    "pawSrc": "/interaction-separated/keyboard/right-paws/LeftArrow.png",
+    "surfaceSrc": "/interaction-separated/keyboard/right-pressed/LeftArrow.png",
+    "anchorY": 327,
+    "contactY": 413
+  },
+  "keyboard/right/RightArrow": {
+    "pawSrc": "/interaction-separated/keyboard/right-paws/RightArrow.png",
+    "surfaceSrc": "/interaction-separated/keyboard/right-pressed/RightArrow.png",
+    "anchorY": 322,
+    "contactY": 402
+  },
+  "keyboard/right/UpArrow": {
+    "pawSrc": "/interaction-separated/keyboard/right-paws/UpArrow.png",
+    "surfaceSrc": "/interaction-separated/keyboard/right-pressed/UpArrow.png",
+    "anchorY": 326,
+    "contactY": 428
+  },
+  "gamepad/left/DPadDown": {
+    "pawSrc": "/interaction-separated/gamepad/left-paws/DPadDown.png",
+    "surfaceSrc": "/interaction-separated/gamepad/left-pressed/DPadDown.png",
+    "anchorY": 365,
+    "contactY": 437
+  },
+  "gamepad/left/DPadLeft": {
+    "pawSrc": "/interaction-separated/gamepad/left-paws/DPadLeft.png",
+    "surfaceSrc": "/interaction-separated/gamepad/left-pressed/DPadLeft.png",
+    "anchorY": 373,
+    "contactY": 456
+  },
+  "gamepad/left/DPadRight": {
+    "pawSrc": "/interaction-separated/gamepad/left-paws/DPadRight.png",
+    "surfaceSrc": "/interaction-separated/gamepad/left-pressed/DPadRight.png",
+    "anchorY": 365,
+    "contactY": 441
+  },
+  "gamepad/left/DPadUp": {
+    "pawSrc": "/interaction-separated/gamepad/left-paws/DPadUp.png",
+    "surfaceSrc": "/interaction-separated/gamepad/left-pressed/DPadUp.png",
+    "anchorY": 366,
+    "contactY": 457
+  },
+  "gamepad/left/LeftTrigger": {
+    "pawSrc": "/interaction-separated/gamepad/left-paws/LeftTrigger.png",
+    "surfaceSrc": "/interaction-separated/gamepad/left-pressed/LeftTrigger.png",
+    "anchorY": 372,
+    "contactY": 491
+  },
+  "gamepad/left/LeftTrigger2": {
+    "pawSrc": "/interaction-separated/gamepad/left-paws/LeftTrigger2.png",
+    "surfaceSrc": "/interaction-separated/gamepad/left-pressed/LeftTrigger2.png",
+    "anchorY": 375,
+    "contactY": 486
+  },
+  "gamepad/right/East": {
+    "pawSrc": "/interaction-separated/gamepad/right-paws/East.png",
+    "surfaceSrc": "/interaction-separated/gamepad/right-pressed/East.png",
+    "anchorY": 325,
+    "contactY": 402
+  },
+  "gamepad/right/North": {
+    "pawSrc": "/interaction-separated/gamepad/right-paws/North.png",
+    "surfaceSrc": "/interaction-separated/gamepad/right-pressed/North.png",
+    "anchorY": 311,
+    "contactY": 428
+  },
+  "gamepad/right/RightTrigger": {
+    "pawSrc": "/interaction-separated/gamepad/right-paws/RightTrigger.png",
+    "surfaceSrc": "/interaction-separated/gamepad/right-pressed/RightTrigger.png",
+    "anchorY": 313,
+    "contactY": 449
+  },
+  "gamepad/right/RightTrigger2": {
+    "pawSrc": "/interaction-separated/gamepad/right-paws/RightTrigger2.png",
+    "surfaceSrc": "/interaction-separated/gamepad/right-pressed/RightTrigger2.png",
+    "anchorY": 331,
+    "contactY": 458
+  },
+  "gamepad/right/South": {
+    "pawSrc": "/interaction-separated/gamepad/right-paws/South.png",
+    "surfaceSrc": "/interaction-separated/gamepad/right-pressed/South.png",
+    "anchorY": 326,
+    "contactY": 394
+  },
+  "gamepad/right/West": {
+    "pawSrc": "/interaction-separated/gamepad/right-paws/West.png",
+    "surfaceSrc": "/interaction-separated/gamepad/right-pressed/West.png",
+    "anchorY": 323,
+    "contactY": 415
+  }
+}

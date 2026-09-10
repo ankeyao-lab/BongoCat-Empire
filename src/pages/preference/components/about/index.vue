@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { getTauriVersion } from '@tauri-apps/api/app'
-import { emit } from '@tauri-apps/api/event'
 import { appLogDir } from '@tauri-apps/api/path'
 import { writeText } from '@tauri-apps/plugin-clipboard-manager'
 import { openPath, openUrl } from '@tauri-apps/plugin-opener'
@@ -11,8 +10,11 @@ import { useI18n } from 'vue-i18n'
 
 import ProListItem from '@/components/pro-list-item/index.vue'
 import ProList from '@/components/pro-list/index.vue'
-import { GITHUB_LINK, LISTEN_KEY } from '@/constants'
+import { GITHUB_LINK } from '@/constants'
+import { useEmpireLocale } from '@/locales/empire'
 import { useAppStore } from '@/stores/app'
+
+const { tr } = useEmpireLocale()
 
 const appStore = useAppStore()
 const logDir = ref('')
@@ -21,10 +23,6 @@ const { t } = useI18n()
 onMounted(async () => {
   logDir.value = await appLogDir()
 })
-
-function handleUpdate() {
-  emit(LISTEN_KEY.UPDATE_APP)
-}
 
 async function copyInfo() {
   const info = {
@@ -52,12 +50,7 @@ function feedbackIssue() {
       :description="`v${appStore.version}`"
       :title="appStore.name"
     >
-      <Button
-        type="primary"
-        @click="handleUpdate"
-      >
-        {{ $t('pages.preference.about.buttons.checkUpdate') }}
-      </Button>
+      <span>{{ tr('个人增强版 · 本地成长与触摸板', 'Personal edition · Local growth & trackpad support') }}</span>
     </ProListItem>
 
     <ProListItem

@@ -1,0 +1,1262 @@
+{
+  "wizard": {
+    "name": "Wizard",
+    "title": "From the first spark to masterful spells, breakfast still brings a few mishaps. A sleepy hat stays with you through all nine levels.",
+    "levels": [
+      {
+        "level": 1,
+        "name": "Apprentice Wizard",
+        "subtitle": "A patch and a first spark",
+        "hat": "Floppy pointed hat with a patch",
+        "cape": "Misty purple capelet with ties and a cream bow",
+        "prop": "Floating twig wand and a tiny spark",
+        "motion": "A late yellow star pops beside the hat tip, then settles back on it.",
+        "story": "The first tap is where the magic begins.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 2,
+        "name": "Spark Mage",
+        "subtitle": "Light a flame of your own",
+        "hat": "Amber hatband and star badge",
+        "cape": "Purple capelet with a round amber clasp",
+        "prop": "Polished wooden wand and a little flame",
+        "motion": "A small cream puff rises from the chimney and turns into a star.",
+        "story": "What once happened by chance now follows your lead.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 3,
+        "name": "Rune Mage",
+        "subtitle": "Give every symbol power",
+        "hat": "Upright pointed hat with three geometric runes",
+        "cape": "Silver-trimmed uniform capelet with a triangular clasp",
+        "prop": "Three floating rune stones",
+        "motion": "Three runes above the frame light up out of step; the last is upside down.",
+        "story": "Scattered taps have become your very first spell.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 4,
+        "name": "Elemental Mage",
+        "subtitle": "Bring fire and water into balance",
+        "hat": "Two-tone elemental hatband",
+        "cape": "Teal and blue capelet with a water-drop clasp",
+        "prop": "Double-ended wand with fire and water crystals",
+        "motion": "A water drop chases a warm star beside the spout, outside the input area.",
+        "story": "You are learning to make opposing forces work together.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 5,
+        "name": "Keeper of the Grimoire",
+        "subtitle": "A spellbook of your own",
+        "hat": "Gold-trimmed pointed hat with a square amethyst",
+        "cape": "Scholar's capelet with a cream collar and gold trim",
+        "prop": "Floating grimoire with a red bookmark",
+        "motion": "A star-shaped puff of burnt smoke rises from the recipe; the hat nods a beat late.",
+        "story": "Day by day, you have gathered enough to fill a book.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 6,
+        "name": "Starlight Mage",
+        "subtitle": "Turn ordinary days into constellations",
+        "hat": "Crescent hat with embroidered stars and a fine gold orbital arc",
+        "cape": "Constellation capelet with a star clasp",
+        "prop": "Small brass astrolabe",
+        "motion": "The astrolabe turns half a step and points straight at the fish biscuit.",
+        "story": "Looking back, all those ordinary days have become stars.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 7,
+        "name": "Sage of Time",
+        "subtitle": "Let time keep you company",
+        "hat": "Ivory hat with teal lining and a broken time ring",
+        "cape": "White sage's capelet with an hourglass clasp",
+        "prop": "Complete floating hourglass",
+        "motion": "A breadcrumb pauses, then drifts down; reduced motion uses a gentle fade.",
+        "story": "Time has never been rushing you. It has been beside you all along.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 8,
+        "name": "Archmage",
+        "subtitle": "Bring order to the arcane",
+        "hat": "Geometric gold hatband, floating crown and segmented arcane ring",
+        "cape": "Layered purple and white capelet with an amethyst clasp",
+        "prop": "Diamond-crystal staff",
+        "motion": "Two outer book pages each turn halfway, then stop.",
+        "story": "Even the most complicated magic now has its place.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 9,
+        "name": "Master of Magic",
+        "subtitle": "Many taps, a quiet confidence",
+        "hat": "White and gold crown hat with three crystals and a complete star ring",
+        "cape": "Layered white and gold capelet with a prism clasp",
+        "prop": "White and gold prism scepter",
+        "motion": "Nine panels glow warmly in turn; the burnt fish gives off one tiny star-shaped puff.",
+        "story": "A true master still makes progress one thoughtful tap at a time.",
+        "chapter": "Treasured Moments"
+      }
+    ]
+  },
+  "astronaut": {
+    "name": "Space Explorer",
+    "title": "From a cardboard telescope to distant galaxies, the most important mission is still delivering fish snacks on time.",
+    "levels": [
+      {
+        "level": 1,
+        "name": "Stargazer",
+        "subtitle": "Telescope with a biscuit in the lens",
+        "hat": "Folded paper hat with a star",
+        "cape": "Cream capelet with planet patches",
+        "prop": "Telescope with a biscuit in the lens",
+        "motion": "No additional animation.",
+        "story": "A fish biscuit has claimed the telescope's lens.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 2,
+        "name": "Space Cadet",
+        "subtitle": "Two-biscuit supply box",
+        "hat": "Soft blue cap with a star badge",
+        "cape": "Quilted blue capelet with planets",
+        "prop": "Two-biscuit supply box",
+        "motion": "A small orange star pops up above the supply bag.",
+        "story": "Two large fish biscuits line up in the supply box.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 3,
+        "name": "Astronaut Trainee",
+        "subtitle": "Open biscuit supply capsule",
+        "hat": "Soft space cap with a flip-up lid",
+        "cape": "Quilted cream capelet with pipe details",
+        "prop": "Open biscuit supply capsule",
+        "motion": "The fish indicator on the backpack lights up for a beat.",
+        "story": "Open the capsule and a fish biscuit peeks out.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 4,
+        "name": "Orbital Pilot",
+        "subtitle": "Orbit dial with two fish pointers",
+        "hat": "Goggle cap with large lenses",
+        "cape": "Blue star-patterned capelet with orange trim",
+        "prop": "Orbit dial with two fish pointers",
+        "motion": "No additional animation.",
+        "story": "Two fish-shaped pointers chase each other around the orbit.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 5,
+        "name": "Spacewalker",
+        "subtitle": "Fish-snack pouch with a coiled tether",
+        "hat": "Cream helmet with twin antennas",
+        "cape": "Supply capelet with a thick cream collar",
+        "prop": "Fish-snack pouch with a coiled tether",
+        "motion": "The supply box's fish-tail knob twitches; a small pouch floats up and returns.",
+        "story": "Even in space, snacks need a sturdy tether.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 6,
+        "name": "Moon Explorer",
+        "subtitle": "Moon-rock box with a stray cookie",
+        "hat": "Two-panel hat with lunar craters",
+        "cape": "Silver and blue capelet with lunar craters",
+        "prop": "Moon-rock box with a stray cookie",
+        "motion": "No additional animation.",
+        "story": "Someone has slipped a half-eaten cookie into the moon-rock samples.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 7,
+        "name": "Deep-Space Navigator",
+        "subtitle": "Star chart with a fish destination",
+        "hat": "Star-biscuit antenna hat",
+        "cape": "Star-patterned capelet with cream trim",
+        "prop": "Star chart with a fish destination",
+        "motion": "A dot lights at the end of the dashed line and stops beside the fish.",
+        "story": "The destination on this deep-space chart is a fish.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 8,
+        "name": "Starfleet Commander",
+        "subtitle": "Round supply mission dial",
+        "hat": "Hat with solar-panel antennas",
+        "cape": "Blue and white capelet with a planet clasp",
+        "prop": "Round supply mission dial",
+        "motion": "No additional animation.",
+        "story": "The mission dial revolves around its fish-shaped supply target.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 9,
+        "name": "Galactic Pioneer",
+        "subtitle": "Platter of fish and star biscuits",
+        "hat": "Soft hat with a comet arc",
+        "cape": "Blue and white capelet with a comet tail",
+        "prop": "Platter of fish and star biscuits",
+        "motion": "The backpack hatch flashes once; the nine-star chart ends at the center of the platter.",
+        "story": "This galaxy turns out to be a platter of fish and star biscuits.",
+        "chapter": "Treasured Moments"
+      }
+    ]
+  },
+  "pirate": {
+    "name": "Seafaring Pirate",
+    "title": "A very serious treasure map leads to an ever grander collection of bath toys. The captain treats every discovery with due ceremony.",
+    "levels": [
+      {
+        "level": 1,
+        "name": "Dockside Apprentice",
+        "subtitle": "Bath plug tied to a mooring post",
+        "hat": "Red bandana with a side knot",
+        "cape": "Red capelet with a rope knot",
+        "prop": "Bath plug tied to a mooring post",
+        "motion": "No additional animation.",
+        "story": "Every voyage begins by securing the bath plug.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 2,
+        "name": "Deckhand",
+        "subtitle": "Bath duck in a swim ring",
+        "hat": "Red and white striped bandana",
+        "cape": "Teal capelet with red and white stripes",
+        "prop": "Bath duck in a swim ring",
+        "motion": "A water drop beside the frame becomes a small dot.",
+        "story": "One swim ring is all this bath duck needs to declare itself a navy.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 3,
+        "name": "Treasure Seeker",
+        "subtitle": "Small chest holding a captain's hat",
+        "hat": "Soft paper-boat hat with a bath duck",
+        "cape": "Teal capelet with an anchor patch",
+        "prop": "Small chest holding a captain's hat",
+        "motion": "No additional animation.",
+        "story": "The chest's greatest treasure is another captain's hat.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 4,
+        "name": "Sea Navigator",
+        "subtitle": "Compass with a duck-bill pointer",
+        "hat": "Folded compass hat",
+        "cape": "Capelet with a compass map",
+        "prop": "Compass with a duck-bill pointer",
+        "motion": "The compass needle slips one step, then returns to the duck symbol.",
+        "story": "This compass finds its way with a duck's bill.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 5,
+        "name": "Independent Captain",
+        "subtitle": "Bath-duck bathtub sailboat",
+        "hat": "Captain's tricorn with red cord",
+        "cape": "Teal capelet with a red collar and gold trim",
+        "prop": "Bath-duck bathtub sailboat",
+        "motion": "A small bubble with an anchor appears beside the flagship.",
+        "story": "The bath duck sets sail in its bathtub flagship.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 6,
+        "name": "Ocean Captain",
+        "subtitle": "Barrel of bath-soap supplies",
+        "hat": "Hat with a folded sail corner",
+        "cape": "Teal capelet with cream wave trim",
+        "prop": "Barrel of bath-soap supplies",
+        "motion": "No additional animation.",
+        "story": "Supplies for the ocean crossing: three bubbling bottles of bath soap.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 7,
+        "name": "Storm Navigator",
+        "subtitle": "Rain-hat duck in an umbrella boat",
+        "hat": "Soft captain's hat with a red tip",
+        "cape": "Wave-patterned capelet with a red collar and rope clasp",
+        "prop": "Rain-hat duck in an umbrella boat",
+        "motion": "Two tiny raindrops travel sideways past the umbrella and disappear.",
+        "story": "A duck in a rain hat turns an upside-down umbrella into a boat.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 8,
+        "name": "Admiral of the Seven Seas",
+        "subtitle": "Fleet of three bath-duck boats",
+        "hat": "Fan-shaped pirate hat with waves",
+        "cape": "Red and white capelet with a teal collar",
+        "prop": "Fleet of three bath-duck boats",
+        "motion": "The last duck symbol lights up half a beat late.",
+        "story": "Three duck boats form a fleet. The last faces the wrong way.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 9,
+        "name": "Legendary Pirate King",
+        "subtitle": "Treasure chest turned duck hot spring",
+        "hat": "Captain's hat with a map and gold hook",
+        "cape": "Map-patchwork capelet with a large bow",
+        "prop": "Treasure chest turned duck hot spring",
+        "motion": "Three warm harbor lights glow in sequence, followed by one drifting bubble.",
+        "story": "The legendary treasure chest becomes a hot-spring harbor for bath ducks.",
+        "chapter": "Treasured Moments"
+      }
+    ]
+  },
+  "ninja": {
+    "name": "Moonshadow Ninja",
+    "title": "Stealth training keeps getting undone by sneezes, snack bags and noisy trinkets. Mastery begins with putting them away gently.",
+    "levels": [
+      {
+        "level": 1,
+        "name": "Dojo Apprentice",
+        "subtitle": "Practice board with an upright leaf",
+        "hat": "Blue headband with a wooden peg",
+        "cape": "Patched blue capelet",
+        "prop": "Practice board with an upright leaf",
+        "motion": "A fine mint line flicks beside the peg.",
+        "story": "During fallen-leaf stealth practice, one leaf insists on standing up.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 2,
+        "name": "Swift Novice",
+        "subtitle": "Practice board with a spring-loaded post",
+        "hat": "Side-tied headband with mended stitching",
+        "cape": "Dotted blue capelet with a large bow",
+        "prop": "Practice board with a spring-loaded post",
+        "motion": "The scarf tail sways for one beat, then stops.",
+        "story": "The quiet training floor has somehow acquired a giant spring.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 3,
+        "name": "Shadow-Step Student",
+        "subtitle": "Training post on wheels",
+        "hat": "Headband with a bamboo scroll",
+        "cape": "Blue capelet with bamboo tubes and leaf tassels",
+        "prop": "Training post on wheels",
+        "motion": "A small sweat drop fades in above the post.",
+        "story": "The training post has wheels and makes its escape first.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 4,
+        "name": "Night Scout",
+        "subtitle": "Spring-loaded stepping board",
+        "hat": "Headband with a silver cloud plate and raised tail",
+        "cape": "Folded blue capelet with a silver clasp",
+        "prop": "Spring-loaded stepping board",
+        "motion": "Two apricot zigzag lines flash beside the board, without sound.",
+        "story": "The shadow-step board has turned into a springboard.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 5,
+        "name": "Moonshadow Ninja",
+        "subtitle": "Giant bag of crunchy fish biscuits",
+        "hat": "Headband with a crescent and large bow",
+        "cape": "Capelet with cream fleece trim and a moon clasp",
+        "prop": "Giant bag of crunchy fish biscuits",
+        "motion": "Rustle lines flash on the bag; the scarf tail immediately stops.",
+        "story": "Stealth meets its match in one enormous bag of crunchy fish biscuits.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 6,
+        "name": "Silver-Blade Ninja",
+        "subtitle": "Biscuit bag sealed with a giant peg",
+        "hat": "Headband with a silver three-star plate",
+        "cape": "Blue capelet with silver-patterned trim",
+        "prop": "Biscuit bag sealed with a giant peg",
+        "motion": "No additional animation.",
+        "story": "A neatly trimmed biscuit bag is kept quiet by a very large wooden peg.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 7,
+        "name": "Hazy-Moon Mentor",
+        "subtitle": "Brass bell hidden behind a leaf",
+        "hat": "Headband with a leaf and wooden peg",
+        "cape": "Blue capelet with a leaf knot",
+        "prop": "Brass bell hidden behind a leaf",
+        "motion": "An apricot pollen dot pops beside the leaf, clear of the cat's face.",
+        "story": "One oversized leaf tries to conceal an entire brass bell.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 8,
+        "name": "Silent Master",
+        "subtitle": "Brass bell tucked under a blanket",
+        "hat": "Sleep headwrap with two soft bundles",
+        "cape": "Light blue sleep capelet with pompoms",
+        "prop": "Brass bell tucked under a blanket",
+        "motion": "A blanket corner lifts and settles; the bell stays silent.",
+        "story": "A little blanket has finally lulled the bell to sleep.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 9,
+        "name": "Moonshadow Legend",
+        "subtitle": "Blanketed training post and biscuit bag",
+        "hat": "Headband with a full moon and fan bow",
+        "cape": "Blue capelet with gold stars and moons",
+        "prop": "Blanketed training post and biscuit bag",
+        "motion": "A mint breathing arc gently fades beside the post, without movement.",
+        "story": "Ultimate stealth: the post sleeps under a blanket, its snack bag tied nearby.",
+        "chapter": "Treasured Moments"
+      }
+    ]
+  },
+  "hero": {
+    "name": "City Superhero",
+    "title": "The uniform looks ready to save the world. The actual missions are fixing taps, bringing in laundry and opening the neighbors' jam jars.",
+    "levels": [
+      {
+        "level": 1,
+        "name": "Neighborhood Helper",
+        "subtitle": "Upside-down cup and cleaning cloth",
+        "hat": "Red bandana with a clothes peg",
+        "cape": "Red capelet with a cream patch",
+        "prop": "Upside-down cup and cleaning cloth",
+        "motion": "A small yellow star appears beside the peg.",
+        "story": "A large peg holds up the bandana; an upside-down cup turns a cloth into a rescue scene.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 2,
+        "name": "Community Guardian",
+        "subtitle": "Laundry-line backpack rescuing a sock",
+        "hat": "Thick blue and red headband with two pegs",
+        "cape": "Blue capelet with a red collar and two pegs",
+        "prop": "Laundry-line backpack rescuing a sock",
+        "motion": "No additional animation.",
+        "story": "The padded headband and laundry-line backpack are ready to rescue one little sock.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 3,
+        "name": "Hero in Training",
+        "subtitle": "Tool bag carried by a balloon",
+        "hat": "Goggle hat with a balloon",
+        "cape": "Blue and red capelet with cream quilting",
+        "prop": "Tool bag carried by a balloon",
+        "motion": "A short yellow line lights up along the balloon string.",
+        "story": "One balloon lifts the goggles while another carries off the whole tool bag.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 4,
+        "name": "Night Patrol Hero",
+        "subtitle": "Tool bag with a dripping tap",
+        "hat": "Rain hat with a flashlight",
+        "cape": "Blue rain cape with cream dots",
+        "prop": "Tool bag with a dripping tap",
+        "motion": "A water drop becomes a yellow star, then fades.",
+        "story": "The rain hat has a flashlight, but the rescue bag comes with a dripping tap.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 5,
+        "name": "City Hero",
+        "subtitle": "Jam-jar rescue satchel",
+        "hat": "Rescue helmet made from a jam-jar lid",
+        "cape": "Red capelet with a blue collar and peg clasp",
+        "prop": "Jam-jar rescue satchel",
+        "motion": "Two effort lines glow beside the lid, followed by a tiny star.",
+        "story": "The jam lid becomes a large helmet; the entire jar is carefully packed for rescue.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 6,
+        "name": "Elite Guardian",
+        "subtitle": "Tool bag with a sock-grabbing arm",
+        "hat": "Soft cap with a sock-grabbing mechanical arm",
+        "cape": "Quilted silver and blue capelet with red trim",
+        "prop": "Tool bag with a sock-grabbing arm",
+        "motion": "No additional animation.",
+        "story": "The short arm on the hat and the long arm in the bag both specialize in socks.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 7,
+        "name": "Alliance Captain",
+        "subtitle": "Bucket of mop and cleaning tools",
+        "hat": "Captain's cap with mop fringe",
+        "cape": "Red and blue capelet with cleaning-cloth fringe",
+        "prop": "Bucket of mop and cleaning tools",
+        "motion": "A cream line drifts down beside the small brush.",
+        "story": "Mop strands become a captain's plume, and heroic gear becomes a bucket of cleaning tools.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 8,
+        "name": "Dawn Watcher",
+        "subtitle": "Washing-machine bag dispensing a long sock",
+        "hat": "Towel crown with a long sock",
+        "cape": "Blue capelet with a fleece collar and two pegs",
+        "prop": "Washing-machine bag dispensing a long sock",
+        "motion": "No additional animation.",
+        "story": "The towel crown holds down one long sock while the portable washer sends out another.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 9,
+        "name": "Legendary Guardian",
+        "subtitle": "Jam jar opened with a giant peg",
+        "hat": "Jam-jar rescue hat with an open lid",
+        "cape": "Cream, red and blue capelet with a clothes peg",
+        "prop": "Jam jar opened with a giant peg",
+        "motion": "Three warm stars appear by the thank-you banner; the original blue input glow remains.",
+        "story": "The hat lid finally opens, and a giant peg and rope pry open the jam jar.",
+        "chapter": "Treasured Moments"
+      }
+    ]
+  },
+  "wuxia": {
+    "name": "Wandering Hero",
+    "title": "Every good deed earns a better reputation and a longer noodle-shop bill. In the end, treating friends to a meal becomes the ultimate skill.",
+    "levels": [
+      {
+        "level": 1,
+        "name": "Mountain-School Novice",
+        "subtitle": "Empty woven bowl and large wooden spoon",
+        "hat": "Patched headscarf with an orange knot",
+        "cape": "Cream capelet with a teal collar and orange knot",
+        "prop": "Empty woven bowl and large wooden spoon",
+        "motion": "No additional animation.",
+        "story": "A large orange knot tops the patched scarf; the wooden spoon outshines the empty bowl.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 2,
+        "name": "Bamboo-Grove Youth",
+        "subtitle": "Bamboo tube hiding a steamed bun",
+        "hat": "Soft leaf-shaped hat with a bamboo tube",
+        "cape": "Cream capelet with teal trim and a bamboo clasp",
+        "prop": "Bamboo tube hiding a steamed bun",
+        "motion": "Two small apricot lines glow beside the lunchbox lid, without sound.",
+        "story": "The leaf hat carries a bamboo tube, and the travel tube hides a steamed bun.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 3,
+        "name": "Wandering Adventurer",
+        "subtitle": "Bamboo-framed map of noodle stops",
+        "hat": "Straw hat with a noodle-shop map",
+        "cape": "Gray and teal capelet with a map pocket",
+        "prop": "Bamboo-framed map of noodle stops",
+        "motion": "No additional animation.",
+        "story": "Both the hat map and the framed route chart mark only noodle bowls.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 4,
+        "name": "Roving Swordsman",
+        "subtitle": "Bamboo sword sheath with a wooden spoon",
+        "hat": "Bent-tip conical hat with a wooden spoon",
+        "cape": "Teal capelet with rolled edges and an orange knot",
+        "prop": "Bamboo sword sheath with a wooden spoon",
+        "motion": "A tiny warm-colored soup drop glows at the sheath opening.",
+        "story": "A spoon decorates the bent hat, and another peeks out of the bamboo sword sheath.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 5,
+        "name": "Bamboo Swordsman",
+        "subtitle": "Carried noodle bowl with trailing noodles",
+        "hat": "Tilted conical hat tied with noodle cord",
+        "cape": "Cream and teal capelet with long ties",
+        "prop": "Carried noodle bowl with trailing noodles",
+        "motion": "A question-mark curl of steam briefly fades in above the bowl.",
+        "story": "Thick noodle cord wraps the hat while noodles hang over the carried bowl.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 6,
+        "name": "Renowned Wanderer",
+        "subtitle": "Noodle bowl surrounded by bills",
+        "hat": "Soft rolled hat with noodle-shop bills",
+        "cape": "Deep teal capelet with a large pocket",
+        "prop": "Noodle bowl surrounded by bills",
+        "motion": "No additional animation.",
+        "story": "Bills wrap around both hat and bowl. The noodle kit keeps getting bigger.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 7,
+        "name": "Master of the Breeze",
+        "subtitle": "Vinegar pot and noodle bowl",
+        "hat": "Wind-swept conical hat with a vinegar pot",
+        "cape": "Wind-folded cream capelet with teal trim",
+        "prop": "Vinegar pot and noodle bowl",
+        "motion": "A short green breeze line slides beside the vinegar bottle, then stops.",
+        "story": "A tiny vinegar pot hangs from the hat; its companion seasons the noodle bowl.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 8,
+        "name": "Hero of the Land",
+        "subtitle": "Map weighed down by a noodle bowl",
+        "hat": "Fan-shaped conical hat with a noodle map",
+        "cape": "Deep teal capelet with cream cloud trim",
+        "prop": "Map weighed down by a noodle bowl",
+        "motion": "No additional animation.",
+        "story": "A noodle map opens on the hat, while a noodle bowl pins down the route chart.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 9,
+        "name": "A Living Legend",
+        "subtitle": "Shared noodle bowl with many spoons",
+        "hat": "Soft conical hat with a large noodle-cord knot",
+        "cape": "Cream and teal capelet with a large orange knot",
+        "prop": "Shared noodle bowl with many spoons",
+        "motion": "Three warm curls of steam fade in above the shared platter, one after another.",
+        "story": "A grand soft hat is tied with noodle cord. Many spoons gather around one bowl to share.",
+        "chapter": "Treasured Moments"
+      }
+    ]
+  },
+  "baker": {
+    "name": "Sweet Bakery",
+    "title": "The dough has never liked following instructions. It eventually becomes the bakery's biggest star, with all the fun in the food and tools.",
+    "levels": [
+      {
+        "level": 1,
+        "name": "Kitchen Helper",
+        "subtitle": "Flour sack with a bread snail",
+        "hat": "Patched cream chef's hat",
+        "cape": "Patched pink capelet",
+        "prop": "Flour sack with a bread snail",
+        "motion": "No additional animation.",
+        "story": "A patched chef's hat meets a bread snail peeking from the flour sack.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 2,
+        "name": "Cookie Apprentice",
+        "subtitle": "Basket with an enormous croissant",
+        "hat": "Soft pink croissant hat",
+        "cape": "Pink and white checked capelet",
+        "prop": "Basket with an enormous croissant",
+        "motion": "No additional animation.",
+        "story": "A soft croissant hat pairs with a croissant that fills the entire basket.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 3,
+        "name": "Bread Baker",
+        "subtitle": "Mixing bowl overflowing with cream",
+        "hat": "Chef's hat with a pointed cream swirl",
+        "cape": "Capelet with cream scallops and a pink bow",
+        "prop": "Mixing bowl overflowing with cream",
+        "motion": "The domed dough gently puffs up once, then rests.",
+        "story": "The hat has a cream peak; the bowl has a whole cream mountain.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 4,
+        "name": "Cake Baker",
+        "subtitle": "Basket overflowing with dough",
+        "hat": "Puffed-dough chef's hat",
+        "cape": "Buttoned capelet with flour spots",
+        "prop": "Basket overflowing with dough",
+        "motion": "No additional animation.",
+        "story": "The hat has overproofed, and the dough is climbing out of its basket.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 5,
+        "name": "Pastry Chef",
+        "subtitle": "Breakfast bucket stacked with pancakes",
+        "hat": "Strawberry-pancake chef's hat",
+        "cape": "Pink capelet with sprinkles",
+        "prop": "Breakfast bucket stacked with pancakes",
+        "motion": "A cream star appears beside the whisk; the dough keeps its expression even at rest.",
+        "story": "A strawberry-pancake hat accompanies a breakfast stacked much too high.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 6,
+        "name": "Chocolatier",
+        "subtitle": "Mixing bowl full of bread snails",
+        "hat": "Bread-snail chef's hat",
+        "cape": "Cream capelet with fine pink trim",
+        "prop": "Mixing bowl full of bread snails",
+        "motion": "One mold cavity glows warmly, then settles.",
+        "story": "One bread snail rests on the hat while its friends fill the mixing bowl.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 7,
+        "name": "Sugar Artist",
+        "subtitle": "Basket of strawberry jelly",
+        "hat": "Cherry-jelly chef's hat",
+        "cape": "Quilted pink capelet with a cherry clasp",
+        "prop": "Basket of strawberry jelly",
+        "motion": "No additional animation.",
+        "story": "A jelly hat comes with a delightfully wobbly strawberry pudding.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 8,
+        "name": "Celebrated Pastry Chef",
+        "subtitle": "Basket carrying a strawberry party cake",
+        "hat": "Strawberry cream-cake hat",
+        "cape": "Cream capelet with a large pink bow",
+        "prop": "Basket carrying a strawberry party cake",
+        "motion": "The display light flashes once; a breathing arc appears beside the sleeping dough.",
+        "story": "A cream-cake hat and a celebration cake ready to travel.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 9,
+        "name": "Master Patisserie Chef",
+        "subtitle": "Fish-biscuit basket with one burnt biscuit",
+        "hat": "Chef's hat with fish-biscuit fan pleats",
+        "cape": "Cream capelet with a fish-biscuit clasp",
+        "prop": "Fish-biscuit basket with one burnt biscuit",
+        "motion": "Three groups of warm dots glow along the tray; the sleepy dough never wakes.",
+        "story": "A master's fish-biscuit hat, with one burnt biscuit saved for yourself.",
+        "chapter": "Treasured Moments"
+      }
+    ]
+  },
+  "garden": {
+    "name": "Four Seasons Garden",
+    "title": "The more skilled the gardener becomes, the more jobs the plants find to assign. By the end, every season has a devoted caretaker.",
+    "levels": [
+      {
+        "level": 1,
+        "name": "Seed Keeper",
+        "subtitle": "Seed bag with an enormous sprout",
+        "hat": "Worn-brim straw hat with a crooked sprout",
+        "cape": "Patched olive-green capelet",
+        "prop": "Seed bag with an enormous sprout",
+        "motion": "A yellow earth-colored dot glows beside the label.",
+        "story": "A crooked sprout on the hat meets a giant sprout emerging from the seed bag.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 2,
+        "name": "Budding Gardener",
+        "subtitle": "Watering-can basket under a leaf umbrella",
+        "hat": "Straw sunhat shaded by a large leaf",
+        "cape": "Green capelet with a leaf collar",
+        "prop": "Watering-can basket under a leaf umbrella",
+        "motion": "No additional animation.",
+        "story": "A big leaf shelters the hat, while a little leaf shelters the watering can.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 3,
+        "name": "Flowerbed Keeper",
+        "subtitle": "Potted plant and ceramic snail",
+        "hat": "Straw hat with a snail shell",
+        "cape": "Green capelet with straps and a pocket",
+        "prop": "Potted plant and ceramic snail",
+        "motion": "No additional animation.",
+        "story": "A snail hat and a ceramic snail keep a slowly growing plant company.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 4,
+        "name": "Florist Apprentice",
+        "subtitle": "Watering can watering itself",
+        "hat": "Soft watering-can hat with a daisy",
+        "cape": "Deep green rain cape with a water-drop clasp",
+        "prop": "Watering can watering itself",
+        "motion": "The outermost flower in the bouquet dips once.",
+        "story": "The watering-can hat comes with a can that waters itself.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 5,
+        "name": "All-Season Gardener",
+        "subtitle": "Self-watering seedling pot",
+        "hat": "Straw hat with pegged leaves",
+        "cape": "Beige capelet with a daisy clasp",
+        "prop": "Self-watering seedling pot",
+        "motion": "Four planning cards glow out of step; the last is half a beat late.",
+        "story": "Pegs hold leaves into a hat brim while a seedling waters itself.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 6,
+        "name": "Greenhouse Keeper",
+        "subtitle": "Basket bursting with mushrooms",
+        "hat": "Straw hat covered by a red mushroom",
+        "cape": "Leaf-patterned capelet with a mushroom clasp",
+        "prop": "Basket bursting with mushrooms",
+        "motion": "Two mint mist dots fade from the outer nozzle, away from the cat's face.",
+        "story": "One mushroom covers the hat; another fills the carrying basket.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 7,
+        "name": "Garden Designer",
+        "subtitle": "Lotus bowl holding a giant dewdrop",
+        "hat": "Soft leaf hat with a dewdrop",
+        "cape": "Capelet of layered green leaves",
+        "prop": "Lotus bowl holding a giant dewdrop",
+        "motion": "No additional animation.",
+        "story": "A dewdrop hat pairs with a lotus bowl holding one enormous drop.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 8,
+        "name": "Head Gardener",
+        "subtitle": "Basket with a plump pumpkin",
+        "hat": "Straw hat with a plump pumpkin",
+        "cape": "Wheat-colored capelet with a leaf knot",
+        "prop": "Basket with a plump pumpkin",
+        "motion": "A pale yellow ring gently appears along the wooden-stamp umbrella's edge.",
+        "story": "A pumpkin hat and a pumpkin so plump it stretches its basket.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 9,
+        "name": "Master of Gardens",
+        "subtitle": "Sunflower and seedling backpack",
+        "hat": "Large leaf hat with a sunflower",
+        "cape": "Layered leaf capelet with a yellow flower clasp",
+        "prop": "Sunflower and seedling backpack",
+        "motion": "A dot glows on each seasonal flower; a breathing arc fades quietly beside the snail.",
+        "story": "A sunflower rests on the brim, and one more seedling grows in the backpack.",
+        "chapter": "Treasured Moments"
+      }
+    ]
+  },
+  "performer": {
+    "name": "Music Stage",
+    "title": "From bedroom practice to the grandest stage, the original row of clothes-peg fans still sits in front. The show gets bigger; the cat stays calm.",
+    "levels": [
+      {
+        "level": 1,
+        "name": "Bedroom Trainee",
+        "subtitle": "Comb microphone held by a peg",
+        "hat": "Purple-bow headscarf with a clothes peg",
+        "cape": "Light purple capelet with cream trim",
+        "prop": "Comb microphone held by a peg",
+        "motion": "No additional animation.",
+        "story": "A peg accents the purple headscarf and clips a comb onto a microphone stand.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 2,
+        "name": "Street Newcomer",
+        "subtitle": "Tip box with a button",
+        "hat": "Berry-purple beret with a button",
+        "cape": "Berry-purple and mint capelet with a button",
+        "prop": "Tip box with a button",
+        "motion": "No additional animation.",
+        "story": "The soft beret wears a large button; the open tip box holds just one more.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 3,
+        "name": "Band Rookie",
+        "subtitle": "Metal-bucket drum with whisk beaters",
+        "hat": "Soft headphone hat with a whisk",
+        "cape": "Purple capelet with musical notes",
+        "prop": "Metal-bucket drum with whisk beaters",
+        "motion": "Two warm beat dots glow outside the paper drum.",
+        "story": "A whisk rises from the headphone hat; two more become beaters for a bucket drum.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 4,
+        "name": "Resident Singer",
+        "subtitle": "Microphone stand held by a peg",
+        "hat": "Tilted top hat with a cue card",
+        "cape": "Purple capelet with rolled mint edges",
+        "prop": "Microphone stand held by a peg",
+        "motion": "No additional animation.",
+        "story": "The tilted hat carries a microphone cue card; the real microphone still needs a peg.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 5,
+        "name": "Lead Singer",
+        "subtitle": "Stand of five clothes-peg fans",
+        "hat": "Beret covered in clothes-peg fans",
+        "cape": "Berry-purple capelet with a gold collar",
+        "prop": "Stand of five clothes-peg fans",
+        "motion": "Three beat dots light up beside the speaker in sequence, without sound.",
+        "story": "The fluffy beret wears clothes pegs, while five ribbon-tied pegs form a fan club.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 6,
+        "name": "Touring Artist",
+        "subtitle": "Tour case full of cables",
+        "hat": "Soft hat with ticket rolls and cables",
+        "cape": "Purple and green patchwork capelet with a ticket clasp",
+        "prop": "Tour case full of cables",
+        "motion": "A point glows at the cable tip, then retreats within the decoration.",
+        "story": "Ticket rolls and audio cables cover the hat; more cable coils fill the tour case.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 7,
+        "name": "Rising Superstar",
+        "subtitle": "Star stage light supported by pegs",
+        "hat": "Soft hat with a star fan",
+        "cape": "Berry-purple capelet with colored beads and gold trim",
+        "prop": "Star stage light supported by pegs",
+        "motion": "Three groups of peg light signs alternate once at low brightness.",
+        "story": "A star-fan crown meets a colorful capelet; clothes pegs still support the giant star light.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 8,
+        "name": "Center Stage",
+        "subtitle": "Cue board with a no-microphone sign",
+        "hat": "Curtain-bow hat",
+        "cape": "Curtain capelet with a large mint bow",
+        "prop": "Cue board with a no-microphone sign",
+        "motion": "No additional animation.",
+        "story": "The hat becomes an enormous curtain bow, but the cue board says no microphone.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 9,
+        "name": "Hall of Fame Star",
+        "subtitle": "Golden trophy holding a button",
+        "hat": "Large soft hat with a gold star and button",
+        "cape": "Berry-purple capelet with gold trim and a large peg",
+        "prop": "Golden trophy holding a button",
+        "motion": "Audience lights glow warmly in sequence; the button flashes last, without music.",
+        "story": "Gold stars adorn the hat, but the grand golden trophy still holds that very first button.",
+        "chapter": "Treasured Moments"
+      }
+    ]
+  },
+  "cultivation": {
+    "name": "Way of the Immortal",
+    "title": "Spiritual power keeps growing, but the cloud companion only wants a timely nap. Ascension becomes the art of helping everyone rest comfortably.",
+    "levels": [
+      {
+        "level": 1,
+        "name": "Novice of Qi",
+        "subtitle": "Little cloud sleeping on a scroll",
+        "hat": "Soft headscarf with a cloud knot",
+        "cape": "Overlapping pale teal capelet with a cloud clasp",
+        "prop": "Little cloud sleeping on a scroll",
+        "motion": "A pale teal breathing arc fades in beside the sleeping cloud.",
+        "story": "The cloud uses a scroll as its pillow.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 2,
+        "name": "Foundation Disciple",
+        "subtitle": "Cloud pillow on a meditation cushion",
+        "hat": "Nightcap with two cloud puffs",
+        "cape": "Overlapping pale teal cloud capelet",
+        "prop": "Cloud pillow on a meditation cushion",
+        "motion": "No additional animation.",
+        "story": "The cloud pillow has flattened the meditation cushion.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 3,
+        "name": "Golden Core Adept",
+        "subtitle": "Little cloud with an upside-down gold bell",
+        "hat": "Soft cloud hat with a gold bell",
+        "cape": "Cloud-patterned capelet with a teacup clasp",
+        "prop": "Little cloud with an upside-down gold bell",
+        "motion": "A round bead glows once; the small cloud cloth stays in place.",
+        "story": "The cloud turns the gold bell upside down and goes back to sleep.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 4,
+        "name": "Nascent Soul Sage",
+        "subtitle": "Scroll mat with one cloud leaning on another",
+        "hat": "Lotus-petal hat with curled clouds",
+        "cape": "Cloud capelet with a purple collar and wavy edges",
+        "prop": "Scroll mat with one cloud leaning on another",
+        "motion": "No additional animation.",
+        "story": "The big cloud leans on the little cloud for a nap.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 5,
+        "name": "Spirit Master",
+        "subtitle": "Teacup tray on a cloud cushion",
+        "hat": "Tall lotus-petal cloud hat",
+        "cape": "Capelet with rounded cloud trim",
+        "prop": "Teacup tray on a cloud cushion",
+        "motion": "An apricot curl of tea steam fades in; the clouds stay settled.",
+        "story": "The cloud cushions are hosting a tea break.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 6,
+        "name": "Sage of the Void",
+        "subtitle": "Little cloud hiding a teacup",
+        "hat": "Floating cloud circlet with hanging beads",
+        "cape": "Open-front pale teal capelet embroidered with clouds",
+        "prop": "Little cloud hiding a teacup",
+        "motion": "The cloud outline briefly fades in; the teacup remains visible.",
+        "story": "The invisibility spell forgot to hide the teacup.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 7,
+        "name": "Master of Unity",
+        "subtitle": "Long cloud pillow and scroll",
+        "hat": "Hat shaped as two rolled cloud pillows",
+        "cape": "Overlapping cream and purple cloud capelet",
+        "prop": "Long cloud pillow and scroll",
+        "motion": "A soft arc glows and fades beside the cloud sofa.",
+        "story": "The long cloud pillow uses its scroll as an armrest.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 8,
+        "name": "Exalted Immortal",
+        "subtitle": "Three cloud pillows around a teacup",
+        "hat": "Layered rainbow-cloud hat",
+        "cape": "Layered cloud capelet with purple trim",
+        "prop": "Three cloud pillows around a teacup",
+        "motion": "No additional animation.",
+        "story": "Three stacked cloud pillows have trapped the teacup.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 9,
+        "name": "Ascended Immortal",
+        "subtitle": "Cloud-patterned teapot and lotus cup",
+        "hat": "Purple lotus hat with cloud puffs",
+        "cape": "Cream capelet with a purple cloud knot",
+        "prop": "Cloud-patterned teapot and lotus cup",
+        "motion": "A small apricot lightning bolt turns into tea steam beside the pot, with no thunder or screen flash.",
+        "story": "A cloud-patterned pot and lotus cup turn heavenly practice into a peaceful tea break.",
+        "chapter": "Treasured Moments"
+      }
+    ]
+  },
+  "shaolin": {
+    "name": "Shaolin Arts",
+    "title": "No hats at any level. Sweeping, carrying water and caring for tools become daily martial practice, with gentle humor in the props.",
+    "levels": [
+      {
+        "level": 1,
+        "name": "New Arrival",
+        "subtitle": "Broom with a stubborn leaf",
+        "hat": "No hat",
+        "cape": "Short gray robe with a cloth knot",
+        "prop": "Broom with a stubborn leaf",
+        "motion": "A small apricot line glows beside the leaf.",
+        "story": "The last leaf is stuck to the back of the broom.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 2,
+        "name": "Martial Novice",
+        "subtitle": "Overflowing wooden bucket",
+        "hat": "No hat",
+        "cape": "Gray robe with a golden diagonal sash",
+        "prop": "Overflowing wooden bucket",
+        "motion": "No additional animation.",
+        "story": "The water in the little bucket is trying to escape.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 3,
+        "name": "Staff Disciple",
+        "subtitle": "Long wooden staff with a yellow cloth knot and a leaf",
+        "hat": "No hat",
+        "cape": "Short golden wrap robe with gray trim",
+        "prop": "Long wooden staff with a yellow cloth knot and a leaf",
+        "motion": "A paper leaf dips once at the outer end of the staff.",
+        "story": "The first move is ready, and a leaf has already claimed the staff tip.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 4,
+        "name": "Fist Disciple",
+        "subtitle": "Towel bucket with one last drip",
+        "hat": "No hat",
+        "cape": "Short gray robe with a golden cloth knot",
+        "prop": "Towel bucket with one last drip",
+        "motion": "An apricot water drop fades in beside the towel; the original paw remains unchanged.",
+        "story": "The towel gives up its very last drop of water.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 5,
+        "name": "Arhat Monk",
+        "subtitle": "Small broom and a leaf hiding under a bucket",
+        "hat": "No hat",
+        "cape": "Patched golden robe with prayer beads",
+        "prop": "Small broom and a leaf hiding under a bucket",
+        "motion": "A wood-colored arc glows beside the bucket; the leaf stays away from the devices.",
+        "story": "The leaf has found a hiding place under the bucket.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 6,
+        "name": "Temple Guardian",
+        "subtitle": "Bound practice staffs and a crooked-bristle broom",
+        "hat": "No hat",
+        "cape": "Warm orange robe with a red diagonal collar and coarse cloth clasp",
+        "prop": "Bound practice staffs and a crooked-bristle broom",
+        "motion": "No additional animation.",
+        "story": "Even the head instructor still has to put the broom away neatly.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 7,
+        "name": "Zen Martial Mentor",
+        "subtitle": "Wooden bucket with a leaf on its rim",
+        "hat": "No hat",
+        "cape": "Red patched robe with large brown prayer beads",
+        "prop": "Wooden bucket with a leaf on its rim",
+        "motion": "A horizontal wood-colored line fades in along the bucket rim.",
+        "story": "The beads are neatly strung, and the patches are worn with pride.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 8,
+        "name": "Zen Martial Master",
+        "subtitle": "Ringed staff with a leaf on a small metal ring",
+        "hat": "No hat",
+        "cape": "Paneled red and gold robe with a thick rope knot",
+        "prop": "Ringed staff with a leaf on a small metal ring",
+        "motion": "No additional animation.",
+        "story": "The staff rings jingle, but the last leaf still refuses to leave.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 9,
+        "name": "Venerable Master",
+        "subtitle": "Wooden fish block on a leaf cushion, with a mallet",
+        "hat": "No hat",
+        "cape": "Ceremonial red and gold robe with large golden-brown prayer beads",
+        "prop": "Wooden fish block on a leaf cushion, with a mallet",
+        "motion": "A warm wood-colored line fades along the leaf edge, with no sacred halo.",
+        "story": "However grand the robe, there is always a little cushion for the last leaf.",
+        "chapter": "Treasured Moments"
+      }
+    ]
+  },
+  "emperor": {
+    "name": "Road to the Throne",
+    "title": "From owing a bowl of rice to reading mountains of snack petitions, grander robes bring ever more serious little office problems.",
+    "levels": [
+      {
+        "level": 1,
+        "name": "Commoner",
+        "subtitle": "Document pouch full of bowl sketches",
+        "hat": "Cream headscarf with a side knot",
+        "cape": "Cream capelet with a cloth knot",
+        "prop": "Document pouch full of bowl sketches",
+        "motion": "No additional animation.",
+        "story": "The document pouch is stuffed with IOUs for bowls of rice.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 2,
+        "name": "County Clerk",
+        "subtitle": "Fish-blot paper scroll and ink bottle",
+        "hat": "Soft black hat holding an ink-stained sheet",
+        "cape": "Gray capelet with cream lapels",
+        "prop": "Fish-blot paper scroll and ink bottle",
+        "motion": "No additional animation.",
+        "story": "That ink blot looks remarkably like a fish.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 3,
+        "name": "County Magistrate",
+        "subtitle": "Paper stack with crooked fish seals",
+        "hat": "Square soft hat with red trim",
+        "cape": "Patched red capelet with a diagonal collar",
+        "prop": "Paper stack with crooked fish seals",
+        "motion": "A thin vermilion edge glows beside the stamped paper.",
+        "story": "The fish seals land crookedly on the paper pile.",
+        "chapter": "First Steps"
+      },
+      {
+        "level": 4,
+        "name": "Prefect",
+        "subtitle": "Scroll serving as a teacup stand",
+        "hat": "Soft black hat topped with a scroll",
+        "cape": "Black capelet with red trim and knotted buttons",
+        "prop": "Scroll serving as a teacup stand",
+        "motion": "No additional animation.",
+        "story": "The scroll has become a teacup stand.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 5,
+        "name": "Provincial Governor",
+        "subtitle": "Thick documents hiding a flatbread",
+        "hat": "Red and black hat with a giant paper clip",
+        "cape": "Red and black capelet with a gold cord knot",
+        "prop": "Thick documents hiding a flatbread",
+        "motion": "A catalog corner glows, revealing one late little pastry symbol.",
+        "story": "A large flatbread is tucked inside the thick paperwork.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 6,
+        "name": "Royal Prince",
+        "subtitle": "Snack jar wrapped in ceremonial beads",
+        "hat": "Flat, rounded red-topped hat with beads",
+        "cape": "Black capelet with a red collar and gold clasp",
+        "prop": "Snack jar wrapped in ceremonial beads",
+        "motion": "Small gold marks beside the jar light once as decoration, not an actual count.",
+        "story": "Ceremonial beads are put to work measuring the snack jar.",
+        "chapter": "Finding Your Stride"
+      },
+      {
+        "level": 7,
+        "name": "Prince Regent",
+        "subtitle": "Fish-stamped papers stuck in a chain",
+        "hat": "Layered soft hat holding an ink-stained sheet",
+        "cape": "Open-front black capelet with red trim",
+        "prop": "Fish-stamped papers stuck in a chain",
+        "motion": "No additional animation.",
+        "story": "The fish seals have stuck the papers into one long chain.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 8,
+        "name": "Founding Emperor",
+        "subtitle": "Schedule book full of teacups",
+        "hat": "Red-topped hat with gold trim and hanging beads",
+        "cape": "Red capelet with a black mountain pattern",
+        "prop": "Schedule book full of teacups",
+        "motion": "A gold ring glows around the teacup symbol, without sound.",
+        "story": "Tea breaks have taken over the entire schedule.",
+        "chapter": "Treasured Moments"
+      },
+      {
+        "level": 9,
+        "name": "Emperor of a Golden Age",
+        "subtitle": "Fish biscuits and a mountain of petition scrolls",
+        "hat": "Gold-trimmed hat with a fish ornament and hanging beads",
+        "cape": "Layered capelet with gold trim and a red knot",
+        "prop": "Fish biscuits and a mountain of petition scrolls",
+        "motion": "A gold dot lights the top petition's corner, announcing one more small matter.",
+        "story": "The mountain of petitions is still requesting more biscuits.",
+        "chapter": "Treasured Moments"
+      }
+    ]
+  }
+}

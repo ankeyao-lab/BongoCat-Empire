@@ -1,12 +1,12 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "BongoCat",
+  "productName": "BongoCat Empire",
   "version": "../package.json",
-  "identifier": "com.ayangweb.BongoCat",
+  "identifier": "com.harry.bongocat.arcana",
   "build": {
-    "beforeDevCommand": "pnpm dev",
+    "beforeDevCommand": "node node_modules/vite/bin/vite.js",
     "devUrl": "http://localhost:1420",
-    "beforeBuildCommand": "pnpm build",
+    "beforeBuildCommand": "node node_modules/vite/bin/vite.js build",
     "frontendDist": "../dist"
   },
   "app": {
@@ -14,7 +14,7 @@
     "windows": [
       {
         "label": "main",
-        "title": "BongoCat",
+        "title": "BongoCat Empire",
         "url": "index.html/#/",
         "shadow": false,
         "alwaysOnTop": true,
@@ -22,7 +22,9 @@
         "decorations": false,
         "acceptFirstMouse": true,
         "skipTaskbar": true,
-        "maximizable": false
+        "maximizable": false,
+        "width": 400,
+        "height": 379
       },
       {
         "label": "preference",
@@ -31,8 +33,11 @@
         "titleBarStyle": "Overlay",
         "hiddenTitle": true,
         "minWidth": 800,
-        "minHeight": 600,
-        "skipTaskbar": true
+        "minHeight": 620,
+        "skipTaskbar": true,
+        "title": "BongoCat Empire · Settings",
+        "width": 1000,
+        "height": 780
       }
     ],
     "security": {
@@ -41,7 +46,9 @@
       "assetProtocol": {
         "enable": true,
         "scope": {
-          "allow": ["**/*"],
+          "allow": [
+            "**/*"
+          ],
           "requireLiteralLeadingDot": false
         }
       }
@@ -50,9 +57,11 @@
   "bundle": {
     "active": true,
     "category": "Entertainment",
-    "createUpdaterArtifacts": true,
-    "targets": ["nsis", "dmg", "app", "appimage", "deb", "rpm"],
-    "shortDescription": "BongoCat",
+    "createUpdaterArtifacts": false,
+    "targets": [
+      "app"
+    ],
+    "shortDescription": "BongoCat Empire: nine-level wardrobes and local growth",
     "icon": [
       "icons/32x32.png",
       "icons/128x128.png",
@@ -60,17 +69,12 @@
       "icons/icon.icns",
       "icons/icon.ico"
     ],
-    "resources": ["assets/tray.png", "assets/models"]
+    "resources": [
+      "assets/tray.png",
+      "assets/models"
+    ]
   },
   "plugins": {
-    "updater": {
-      "dangerousInsecureTransportProtocol": true,
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEVBRjJFMzE3MjEwMUZEMTAKUldRUS9RRWhGK1B5NmdkemhKcUFrVjZBQXlzdExpakdWVEJDeU9XckVsbzV2cFIycVJOempWa2UK",
-      "endpoints": [
-        "http://api.upgrade.toolsetlink.com/v1/tauri/upgrade?tauriKey=KtGlsZUVXmWfjkRKCuqpfw&versionName={{current_version}}&target={{target}}&arch={{arch}}&appointVersionName=&devModelKey=&devKey=",
-        "https://gh-proxy.com/github.com/ayangweb/BongoCat/releases/latest/download/latest.json"
-      ]
-    },
     "fs": {
       "requireLiteralLeadingDot": false
     }

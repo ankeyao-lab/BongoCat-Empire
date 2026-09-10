@@ -1,0 +1,5156 @@
+{
+  "schemaVersion": 2,
+  "stage": [
+    612,
+    580
+  ],
+  "themes": {
+    "wizard": {
+      "levels": [
+        {
+          "level": 1,
+          "gag": "第一次落爪，魔法就开始了。",
+          "hat": {
+            "src": "/wardrobe/v4/wizard/01-hat.png",
+            "rect": [
+              153,
+              115.02,
+              365,
+              202.98
+            ],
+            "fit": "none",
+            "sha256": "cc932e1618131f555b0808f07e7032ebd650cc75e65f392bb82cbcdd8903c06e"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wizard/01-cape.png",
+            "rect": [
+              151,
+              280,
+              420,
+              140
+            ],
+            "fit": "none",
+            "sha256": "0271005b2082d5c6e33dac7da944c48d8798379b56d594f1ee9503b3e32204d9"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wizard/01-cape.png",
+            "rect": [
+              170,
+              310,
+              360,
+              108
+            ],
+            "fit": "none",
+            "sha256": "0271005b2082d5c6e33dac7da944c48d8798379b56d594f1ee9503b3e32204d9"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wizard/01-prop.png",
+            "rect": [
+              25,
+              135,
+              150,
+              212
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "36a3d7c3572ae95d685ebee82c84b3a42fc1657c2695cb073043d6a1124f482c"
+          }
+        },
+        {
+          "level": 2,
+          "gag": "曾经偶然的火花，现在听你指挥。",
+          "hat": {
+            "src": "/wardrobe/v4/wizard/02-hat.png",
+            "rect": [
+              153,
+              95.71,
+              365,
+              222.29
+            ],
+            "fit": "none",
+            "sha256": "ae2e4a1bd2828129f426743c878da733487cac0982a0ab8fe3526cb38f38a95a"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wizard/02-cape.png",
+            "rect": [
+              151,
+              280,
+              420,
+              140
+            ],
+            "fit": "none",
+            "sha256": "8e269ac49dad1743a79918cc8c4e6bf4f724ad7febb92297f8974aef7d6ab071"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wizard/02-cape.png",
+            "rect": [
+              170,
+              310,
+              360,
+              108
+            ],
+            "fit": "none",
+            "sha256": "8e269ac49dad1743a79918cc8c4e6bf4f724ad7febb92297f8974aef7d6ab071"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wizard/02-prop.png",
+            "rect": [
+              25,
+              135,
+              150,
+              212
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "1d93bc0968afd7590f737d05dda945e499ced0c09a13c88e2486dc7d31e8aa01"
+          }
+        },
+        {
+          "level": 3,
+          "gag": "零散的敲击，终于写成了第一道咒语。",
+          "hat": {
+            "src": "/wardrobe/v4/wizard/03-hat.png",
+            "rect": [
+              153,
+              72.55,
+              365,
+              245.45
+            ],
+            "fit": "none",
+            "sha256": "b1418d2fbb4c1a0d321351e69ff8cd7ca6cdd6655fe3b45358bb6a8baec192a1"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wizard/03-cape.png",
+            "rect": [
+              151,
+              280,
+              420,
+              140
+            ],
+            "fit": "none",
+            "sha256": "de2d6ece401586324181f230876cfb2bf00694c21733d9c7507f884787be297b"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wizard/03-cape.png",
+            "rect": [
+              170,
+              310,
+              360,
+              108
+            ],
+            "fit": "none",
+            "sha256": "de2d6ece401586324181f230876cfb2bf00694c21733d9c7507f884787be297b"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wizard/03-prop.png",
+            "rect": [
+              25,
+              135,
+              150,
+              212
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "c3803454c44d48e5e5ecb81f6bff1645505cb4c4f0dca58dcb0eb8692a895e77"
+          }
+        },
+        {
+          "level": 4,
+          "gag": "你开始让相反的力量一起工作。",
+          "hat": {
+            "src": "/wardrobe/v4/wizard/04-hat.png",
+            "rect": [
+              153,
+              111.09,
+              365,
+              206.91
+            ],
+            "fit": "none",
+            "sha256": "1881715f336692182298e64a3c862882a8cd62d00bef8507aeec802132e8f606"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wizard/04-cape.png",
+            "rect": [
+              151,
+              280,
+              420,
+              140
+            ],
+            "fit": "none",
+            "sha256": "8c14cfcaa33135aeea1762f5ad209c757d316ecb39d4e0b4417aa0290cf4c938"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wizard/04-cape.png",
+            "rect": [
+              170,
+              310,
+              360,
+              108
+            ],
+            "fit": "none",
+            "sha256": "8c14cfcaa33135aeea1762f5ad209c757d316ecb39d4e0b4417aa0290cf4c938"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wizard/04-prop.png",
+            "rect": [
+              25,
+              135,
+              150,
+              212
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "01574dd8e1c2f51a6b818803083a2ff08f9a84ad2c416fef8ab756376a13e6da"
+          }
+        },
+        {
+          "level": 5,
+          "gag": "日复一日的积累，已经足够写成一本书。",
+          "hat": {
+            "src": "/wardrobe/v4/wizard/05-hat.png",
+            "rect": [
+              153,
+              45.3,
+              365,
+              272.7
+            ],
+            "fit": "none",
+            "sha256": "6cffdf2ea4a2edc319eb5d9a700fb73efc4167cd10e97e848a4b3449bf9bf9db"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wizard/05-cape.png",
+            "rect": [
+              151,
+              280,
+              420,
+              140
+            ],
+            "fit": "none",
+            "sha256": "00cbe8009212dc8110396a0a4a56e98478eb0486769081c40b03fafe5c65ca8c"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wizard/05-cape.png",
+            "rect": [
+              170,
+              310,
+              360,
+              108
+            ],
+            "fit": "none",
+            "sha256": "00cbe8009212dc8110396a0a4a56e98478eb0486769081c40b03fafe5c65ca8c"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wizard/05-prop.png",
+            "rect": [
+              25,
+              135,
+              150,
+              212
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "08d98ebd4899fa0ef1961b67e39b24fe86e620caa968d7df3eb6fcc0c9c80573"
+          }
+        },
+        {
+          "level": 6,
+          "gag": "回头看，那些普通日子都成了星星。",
+          "hat": {
+            "src": "/wardrobe/v4/wizard/06-hat.png",
+            "rect": [
+              153,
+              81.2,
+              365,
+              236.8
+            ],
+            "fit": "none",
+            "sha256": "91f62df2b9e9d99be865aff95b1160d9db8f0b70019e834ebb28d5a47e68e338"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wizard/06-cape.png",
+            "rect": [
+              151,
+              280,
+              420,
+              140
+            ],
+            "fit": "none",
+            "sha256": "2eb4c2a72aea25ba045a1c8fc8a357fde16394eb42e16629a74aca670c8138a4"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wizard/06-cape.png",
+            "rect": [
+              170,
+              310,
+              360,
+              108
+            ],
+            "fit": "none",
+            "sha256": "2eb4c2a72aea25ba045a1c8fc8a357fde16394eb42e16629a74aca670c8138a4"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wizard/06-prop.png",
+            "rect": [
+              25,
+              135,
+              150,
+              212
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "5983be284862df057d0585ac3c281ba65687aba47d54efa9abaaddebd34789c8"
+          }
+        },
+        {
+          "level": 7,
+          "gag": "时间没有催促你，它一直陪着你。",
+          "hat": {
+            "src": "/wardrobe/v4/wizard/07-hat.png",
+            "rect": [
+              153,
+              80.73,
+              365,
+              237.27
+            ],
+            "fit": "none",
+            "sha256": "1dad7cc102b2fa0c68ebb4c3632efc14dbab46b4b5c288aff7e4777fb022ea65"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wizard/07-cape.png",
+            "rect": [
+              151,
+              280,
+              420,
+              140
+            ],
+            "fit": "none",
+            "sha256": "8405ea537cca2fb1d6ae1e0f35c4c45897d6e0856de140abea1c794cadf996b1"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wizard/07-cape.png",
+            "rect": [
+              170,
+              310,
+              360,
+              108
+            ],
+            "fit": "none",
+            "sha256": "8405ea537cca2fb1d6ae1e0f35c4c45897d6e0856de140abea1c794cadf996b1"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wizard/07-prop.png",
+            "rect": [
+              25,
+              135,
+              150,
+              212
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "0241488a14a5e121f2fa0dc23b71ce405633db280cadc402b7503fde86fbdb04"
+          }
+        },
+        {
+          "level": 8,
+          "gag": "你已经能够把复杂的魔法安排得井井有条。",
+          "hat": {
+            "src": "/wardrobe/v4/wizard/08-hat.png",
+            "rect": [
+              153,
+              43.49,
+              365,
+              274.51
+            ],
+            "fit": "none",
+            "sha256": "64116648a4513313cbd68149e907b975f6692da4801922f50a0054f785750541"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wizard/08-cape.png",
+            "rect": [
+              151,
+              280,
+              420,
+              140
+            ],
+            "fit": "none",
+            "sha256": "f5469ad9358e25d24f22aba7fe1d60a3c993cdfffdaca1362058b78ee5a59721"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wizard/08-cape.png",
+            "rect": [
+              170,
+              310,
+              360,
+              108
+            ],
+            "fit": "none",
+            "sha256": "f5469ad9358e25d24f22aba7fe1d60a3c993cdfffdaca1362058b78ee5a59721"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wizard/08-prop.png",
+            "rect": [
+              25,
+              135,
+              150,
+              212
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "03a9581bb41f281f9411d68940bf0114f450d1a54169c10b3e1fefb4263ae80d"
+          }
+        },
+        {
+          "level": 9,
+          "gag": "真正的宗师，也只是每天认真敲下一点点。",
+          "hat": {
+            "src": "/wardrobe/v4/wizard/09-hat.png",
+            "rect": [
+              153,
+              30.9,
+              365,
+              287.1
+            ],
+            "fit": "none",
+            "sha256": "408d831e07ae0ae03818cd433d6268e1ffb85d3aa95e948e05874100e072f023"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wizard/09-cape.png",
+            "rect": [
+              151,
+              280,
+              420,
+              140
+            ],
+            "fit": "none",
+            "sha256": "d978c7265cf55b15d26607c12d1ba823788d68ea592d0be7c97de75ac24249c7"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wizard/09-cape.png",
+            "rect": [
+              170,
+              310,
+              360,
+              108
+            ],
+            "fit": "none",
+            "sha256": "d978c7265cf55b15d26607c12d1ba823788d68ea592d0be7c97de75ac24249c7"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wizard/09-prop.png",
+            "rect": [
+              25,
+              135,
+              150,
+              212
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "76c6bb47b873c8cf12be59e2f2cf29f703f061e302122d278fffe329ab9c3e7d"
+          }
+        }
+      ]
+    },
+    "astronaut": {
+      "levels": [
+        {
+          "level": 1,
+          "gag": "望远镜被一块鱼饼占了镜口",
+          "hat": {
+            "src": "/wardrobe/v4/astronaut/01-hat.png",
+            "rect": [
+              164,
+              47,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "8b41fa9a662f219d307b70957b35873985784e99bbc3dde04d577030aca3b082"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/astronaut/01-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "213878563f983273d726951e442c7c1ef5c3887c9834e211c4dafeed59fa8652"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/astronaut/01-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "213878563f983273d726951e442c7c1ef5c3887c9834e211c4dafeed59fa8652"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/astronaut/01-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "c0749b78fdbc924b1323c423dd2583a286a8e09d462e982eb11e06bf8a028633"
+          }
+        },
+        {
+          "level": 2,
+          "gag": "补给盒里两块大鱼饼排着队",
+          "hat": {
+            "src": "/wardrobe/v4/astronaut/02-hat.png",
+            "rect": [
+              164,
+              60,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "ad026b518d8bcdfbdf131a2ad4d03c5a2d882164f88292287c2aed803f5dd071"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/astronaut/02-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "a6e74b7dcb3fa310b3f1e6e46995ebe5b8f109438923510fcc2b52c6e8d15b26"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/astronaut/02-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "a6e74b7dcb3fa310b3f1e6e46995ebe5b8f109438923510fcc2b52c6e8d15b26"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/astronaut/02-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "bfac8fa5941c73c3527548c63a0c1f9f722b221e459aaee7ea6bb71e3b4119c0"
+          }
+        },
+        {
+          "level": 3,
+          "gag": "补给舱一开盖，鱼饼就探出头",
+          "hat": {
+            "src": "/wardrobe/v4/astronaut/03-hat.png",
+            "rect": [
+              164,
+              59,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "a31bae5f05b33fa5afdb56151239f1c2066092648ea71892f45a0b0ddc5375d5"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/astronaut/03-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "f93733017ec46988b42284ad0338bde99c9c1dab2046f80d67e3bd6b1fc6adeb"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/astronaut/03-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "f93733017ec46988b42284ad0338bde99c9c1dab2046f80d67e3bd6b1fc6adeb"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/astronaut/03-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "0ca9dd7dbd8a0525178160b70b3216c932ae3bcbf40b2730be022ceb1341b472"
+          }
+        },
+        {
+          "level": 4,
+          "gag": "两条鱼形指针沿轨道追尾",
+          "hat": {
+            "src": "/wardrobe/v4/astronaut/04-hat.png",
+            "rect": [
+              164,
+              54,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "c495e078f4bf4a40e6e7cd317d89973971e978f51f47edbd789afaaa8a82acce"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/astronaut/04-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "465ebf4f6a47515157171d65fb7a72be3c26b5f6c9028b94a6ff2602ad5bb4c8"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/astronaut/04-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "465ebf4f6a47515157171d65fb7a72be3c26b5f6c9028b94a6ff2602ad5bb4c8"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/astronaut/04-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "79b86e0f7d7aa29199807fc7c5f4ecee80536dca36a146f29011cdff18489e09"
+          }
+        },
+        {
+          "level": 5,
+          "gag": "鱼干袋带着粗卷绳，太空也不能丢零食",
+          "hat": {
+            "src": "/wardrobe/v4/astronaut/05-hat.png",
+            "rect": [
+              164,
+              72,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "ae992e81d830d87ca59cd90b283aaa2626a091f395eb93059a47b8f96103bd7e"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/astronaut/05-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "957f916162b07ec11534ade6c8880b7f41554d0afb40cfd73b62f008577f2f0a"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/astronaut/05-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "957f916162b07ec11534ade6c8880b7f41554d0afb40cfd73b62f008577f2f0a"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/astronaut/05-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "ef713582e861aff6ee62b96d1ea6fd3a95ecad826a826d3b993c18d351ca22aa"
+          }
+        },
+        {
+          "level": 6,
+          "gag": "月石标本里混入了一块咬过的饼干",
+          "hat": {
+            "src": "/wardrobe/v4/astronaut/06-hat.png",
+            "rect": [
+              164,
+              59,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "fd17427fd281fc9411ad6114f0b8a8983940cd76856cef06a6b32bd98e77c4d6"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/astronaut/06-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "5519edc42f5eafc6a9fc8f7cad3f93530224e4ee2ca6f586b54a4efb1abbf62f"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/astronaut/06-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "5519edc42f5eafc6a9fc8f7cad3f93530224e4ee2ca6f586b54a4efb1abbf62f"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/astronaut/06-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "fa92425ba6c6e03d651417a317f7ccb89d809cb54168cb68bf81934b968b5a2e"
+          }
+        },
+        {
+          "level": 7,
+          "gag": "深空星图的目的地是一条鱼",
+          "hat": {
+            "src": "/wardrobe/v4/astronaut/07-hat.png",
+            "rect": [
+              164,
+              66,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "0bdb22be9ef6da444a61e1c712501d82c7c09fb92095f06b02efb430ceded9ef"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/astronaut/07-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "a2c1f94bb6abf9c072ec24aeb7dcf49509ffd8ab96ac01db5d02666b42f2aceb"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/astronaut/07-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "a2c1f94bb6abf9c072ec24aeb7dcf49509ffd8ab96ac01db5d02666b42f2aceb"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/astronaut/07-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "08bf0383dfc39f33d1113914742c785f2b0ef9c5005849ace67af624b3939a12"
+          }
+        },
+        {
+          "level": 8,
+          "gag": "任务盘围着鱼形补给指标旋转",
+          "hat": {
+            "src": "/wardrobe/v4/astronaut/08-hat.png",
+            "rect": [
+              164,
+              72,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "631a26b10155aee6319b149459eb40b9c1b663428df1f26130e3e3a548af488e"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/astronaut/08-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "628845bdb43821c4902bf1a30952e152650977c15d42671cdd295f74d7680d84"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/astronaut/08-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "628845bdb43821c4902bf1a30952e152650977c15d42671cdd295f74d7680d84"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/astronaut/08-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "f4fd1f29db4ae75d371b3db46e9e5764dc93d59eba4246663e895cdd03c9a1dc"
+          }
+        },
+        {
+          "level": 9,
+          "gag": "星系其实是一张鱼饼与星饼餐盘",
+          "hat": {
+            "src": "/wardrobe/v4/astronaut/09-hat.png",
+            "rect": [
+              164,
+              79,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "9e5880fbaec217888c2787ed5dc440285807aac5f54b2465d446ed7479140278"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/astronaut/09-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "69e239fc9d7260223e6f6a9c21e6f59f174246630c4aac33a3f36e9091693f9a"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/astronaut/09-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "69e239fc9d7260223e6f6a9c21e6f59f174246630c4aac33a3f36e9091693f9a"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/astronaut/09-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "6cc3d1f66041da60fcdab53962298fa0c24d6470fc1d70a2a6b2be1bf3c6a2f3"
+          }
+        }
+      ]
+    },
+    "pirate": {
+      "levels": [
+        {
+          "level": 1,
+          "gag": "航海从拴住澡盆塞开始",
+          "hat": {
+            "src": "/wardrobe/v4/pirate/01-hat.png",
+            "rect": [
+              233.56,
+              119.236,
+              350,
+              277.618
+            ],
+            "fit": "none",
+            "sha256": "00aee2ac3cc4153abfd59eead794af38835316ffae3753f0c58faa39a5a6ea22"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/pirate/01-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "535500179528191ebe6393bb2768638319b8b7e0398984761fb37a30eba10e6a"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/pirate/01-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "535500179528191ebe6393bb2768638319b8b7e0398984761fb37a30eba10e6a"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/pirate/01-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "bfbc021362e9c3b274dee4c226f9f7a26c1db944c4a1ecf2ea29eca8172f59d1"
+          }
+        },
+        {
+          "level": 2,
+          "gag": "浴鸭坐上浮圈就自封海军",
+          "hat": {
+            "src": "/wardrobe/v4/pirate/02-hat.png",
+            "rect": [
+              248.401,
+              109.184,
+              355,
+              308.821
+            ],
+            "fit": "none",
+            "sha256": "a085df51882d1236ab5cb91a8a8b454755976198d8e1c5c6725c1014c82bb546"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/pirate/02-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "0515884b79e68ae9845b5e96b555e62cf50624727ea9b3abeb3cb914e201e2b4"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/pirate/02-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "0515884b79e68ae9845b5e96b555e62cf50624727ea9b3abeb3cb914e201e2b4"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/pirate/02-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "781e64f918973eddf87b02f08e87aa7443e8b79523407a4b258dbad8bf26cbe3"
+          }
+        },
+        {
+          "level": 3,
+          "gag": "宝箱里最珍贵的只是另一顶船长帽",
+          "hat": {
+            "src": "/wardrobe/v4/pirate/03-hat.png",
+            "rect": [
+              164,
+              26,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "bcb63087b798f3d0c5aeece22258e34c75cbba4deb5d7125adbb1489dbb1fdc7"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/pirate/03-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "5e640df2a8245cccb3fab6746fdba422d266eb0a192c9139eeea082645091b75"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/pirate/03-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "5e640df2a8245cccb3fab6746fdba422d266eb0a192c9139eeea082645091b75"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/pirate/03-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "4ad7bac35700222eebda4fdf23936800f5d83d6736b13cc03ef44c9d2328da87"
+          }
+        },
+        {
+          "level": 4,
+          "gag": "航海罗盘的指针是一张鸭嘴",
+          "hat": {
+            "src": "/wardrobe/v4/pirate/04-hat.png",
+            "rect": [
+              164,
+              78,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "5a7d0b777dba18d4e5d3939aaacf5986231f09f4e03c5bea9a2ea6f8d944a5ad",
+            "rotation": [
+              18,
+              360,
+              275
+            ]
+          },
+          "cape": {
+            "src": "/wardrobe/v4/pirate/04-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "875c4d4843aa45094422d5ce6456eecf8ab28ce39a61687c8599d4b45a926587"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/pirate/04-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "875c4d4843aa45094422d5ce6456eecf8ab28ce39a61687c8599d4b45a926587"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/pirate/04-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "69feddd4368e3e7ee2692156519754a944501e67f7e996519767daeb38492625"
+          }
+        },
+        {
+          "level": 5,
+          "gag": "浴鸭开着澡盆旗舰出发",
+          "hat": {
+            "src": "/wardrobe/v4/pirate/05-hat.png",
+            "rect": [
+              164,
+              34,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "fd7175506bbfb6eab0ea22f274e2cc491bce3c63600638732befcc1fdf5f8a66"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/pirate/05-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "34acc963d7bd39ce676942daeec56b765afe0e08ad0c3e168123e6b02d5d9bf1"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/pirate/05-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "34acc963d7bd39ce676942daeec56b765afe0e08ad0c3e168123e6b02d5d9bf1"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/pirate/05-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "1508aa010bc62424807b64d86eb22c34fa93bd5c9f4ea1cde90819bb087ac3ba"
+          }
+        },
+        {
+          "level": 6,
+          "gag": "远洋补给是三瓶冒泡的洗澡液",
+          "hat": {
+            "src": "/wardrobe/v4/pirate/06-hat.png",
+            "rect": [
+              164,
+              26,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "61a0890b65d318486b7cd8e733b6c0d76f52053df60a81f5d30cf8178d2d0c6b"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/pirate/06-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "1a2f9857a9e85cecffefb158e571ac1ec86b46c07dd07250f3d63b59eba30ddf"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/pirate/06-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "1a2f9857a9e85cecffefb158e571ac1ec86b46c07dd07250f3d63b59eba30ddf"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/pirate/06-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "b271061d003bad7ca4a82a438f0749c93d7921f0b401e703d707a67a21f93a8a"
+          }
+        },
+        {
+          "level": 7,
+          "gag": "雨帽鸭把倒置的雨伞当成船",
+          "hat": {
+            "src": "/wardrobe/v4/pirate/07-hat.png",
+            "rect": [
+              164,
+              55,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "b8ce26d565a63a56ecc018ace20235afa889731a05c2f2e460ba40398e742f86"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/pirate/07-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "e2f64aa93f63768dea75806a7c8774064fccbecb1b708ef748058baadf68424b"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/pirate/07-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "e2f64aa93f63768dea75806a7c8774064fccbecb1b708ef748058baadf68424b"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/pirate/07-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "3395268bb93001e6509ab587897286bdeb7e22bfa2b9b485c5ce1f8143779ebe"
+          }
+        },
+        {
+          "level": 8,
+          "gag": "三艘浴鸭船列队，最后一只背对航向",
+          "hat": {
+            "src": "/wardrobe/v4/pirate/08-hat.png",
+            "rect": [
+              195.867,
+              149.981,
+              365,
+              266.52
+            ],
+            "fit": "none",
+            "sha256": "1deaeeb2252f65a462c976a609ce9afb57ed686bfb4e1636e905818a26a2c818"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/pirate/08-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "2959e5882e79f9f19479744c0bb54ccfa78f4b34b0352e7246bd8a46c082f74a"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/pirate/08-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "2959e5882e79f9f19479744c0bb54ccfa78f4b34b0352e7246bd8a46c082f74a"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/pirate/08-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "4d7bdc004efeb3cbea03ed784ab456fed595798258f82cc30614508ef07c4166"
+          }
+        },
+        {
+          "level": 9,
+          "gag": "传奇宝箱被改造成浴鸭温泉港",
+          "hat": {
+            "src": "/wardrobe/v4/pirate/09-hat.png",
+            "rect": [
+              164,
+              53,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "2ffbed7924e47ae7228e36f3ef3da3225226776bc24ae6d5a5e4b170e04655dd"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/pirate/09-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "602ac321f6c07bfd72f51ac58693e9f2d31242fe0cf0c3c63d2fbf6489db482b"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/pirate/09-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "602ac321f6c07bfd72f51ac58693e9f2d31242fe0cf0c3c63d2fbf6489db482b"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/pirate/09-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "7bd4becf7ea4f9481b96b820c5fe32500a10da2314949e2ec5fe52ca024a3c02"
+          }
+        }
+      ]
+    },
+    "ninja": {
+      "levels": [
+        {
+          "level": 1,
+          "gag": "练习落叶潜行，有一片叶子偏要站起来",
+          "hat": {
+            "src": "/wardrobe/v4/ninja/01-hat.png",
+            "rect": [
+              234.139,
+              123.028,
+              340,
+              282.314
+            ],
+            "fit": "none",
+            "sha256": "17d66652fc7b674b0b1c84eb77de0e181353f3c4cda760e8454b4b89b8b3f4dd"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/ninja/01-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "98b6da4ed10373bb44b266e4838e19b6849731a4742f2ba101647225c9cf7261"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/ninja/01-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "98b6da4ed10373bb44b266e4838e19b6849731a4742f2ba101647225c9cf7261"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/ninja/01-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "a1d63fa002462ce0a8acbd8bc6a0f0347274ac8d4bf61ff48d48336ffa0aa667"
+          }
+        },
+        {
+          "level": 2,
+          "gag": "安静训练的木地板装了一根大弹簧",
+          "hat": {
+            "src": "/wardrobe/v4/ninja/02-hat.png",
+            "rect": [
+              229.043,
+              146.498,
+              340,
+              251.34
+            ],
+            "fit": "none",
+            "sha256": "6fcf3f24223a2f83717977a89bd6a114a0f667dbdccfa146dc6b773a8301d787"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/ninja/02-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "cb38b6e247cff6641369b9e57377baa0e966284975f87408baa8b44f45d51776"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/ninja/02-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "cb38b6e247cff6641369b9e57377baa0e966284975f87408baa8b44f45d51776"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/ninja/02-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "84cbceacf2ed6f7bf8c086b1ac4ca6629ab2b8a02160337ce5e605bb72105136"
+          }
+        },
+        {
+          "level": 3,
+          "gag": "训练木桩装了滚轮，自己先溜走",
+          "hat": {
+            "src": "/wardrobe/v4/ninja/03-hat.png",
+            "rect": [
+              193.504,
+              73.488,
+              350,
+              276.598
+            ],
+            "fit": "none",
+            "sha256": "e9b6ce5cbe297d7d7dc2b139b46ecfd69d5acc0496b210a21edea341a0803498"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/ninja/03-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "ea956eefde419dbc21385e755d3d180600735172746b1fa616a70484fded5f83"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/ninja/03-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "ea956eefde419dbc21385e755d3d180600735172746b1fa616a70484fded5f83"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/ninja/03-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "73bddbe3d86a2223bf067089cf54addce132c912b5ac85fc7a4f42f7d26df370"
+          }
+        },
+        {
+          "level": 4,
+          "gag": "影步练习板成了会弹起来的踏板",
+          "hat": {
+            "src": "/wardrobe/v4/ninja/04-hat.png",
+            "rect": [
+              185.0,
+              29.75,
+              350,
+              379.75
+            ],
+            "fit": "none",
+            "sha256": "51b6172873fecb507e9ee9fe3a3d9cfcf6f3636a33a0ac79c1aea556e436e174"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/ninja/04-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "b78bfb7919ff9647758e8c857c51460ef0d3fabd5bb1b3f5ccb6db6d406e91a9"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/ninja/04-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "b78bfb7919ff9647758e8c857c51460ef0d3fabd5bb1b3f5ccb6db6d406e91a9"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/ninja/04-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "b60c3049e91a4b0250f279878c1ace2f98560f2797f86cda5ebd6e24c759b20a"
+          }
+        },
+        {
+          "level": 5,
+          "gag": "潜行失败在一袋巨大脆鱼饼",
+          "hat": {
+            "src": "/wardrobe/v4/ninja/05-hat.png",
+            "rect": [
+              235.629,
+              85.751,
+              340,
+              291.544
+            ],
+            "fit": "none",
+            "sha256": "6baad334c469be39246fb20d347d5ba7cfdeb54cd21c402f9368e178224f3664"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/ninja/05-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "0e9aea1b849637282c1d414257502fb7fed26604bed6f8f703fc994a42afb916"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/ninja/05-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "0e9aea1b849637282c1d414257502fb7fed26604bed6f8f703fc994a42afb916"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/ninja/05-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "20f5edf317b52070c074840d6f52de7ea850800e15a5572bf19ad68c8324f5c7"
+          }
+        },
+        {
+          "level": 6,
+          "gag": "剪齐的脆饼袋被大木夹强行保持安静",
+          "hat": {
+            "src": "/wardrobe/v4/ninja/06-hat.png",
+            "rect": [
+              203.208,
+              131.624,
+              340,
+              255.639
+            ],
+            "fit": "none",
+            "sha256": "b9cb42b7e9e51b09b87657a9235251f3a688a9169d520ab344d04fdc71b65732"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/ninja/06-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "0491e181267f321ec245d0dbd41fb29284944b1e50b04297bc32ae9e6a91284e"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/ninja/06-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "0491e181267f321ec245d0dbd41fb29284944b1e50b04297bc32ae9e6a91284e"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/ninja/06-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "5a0f66d8f9562efe6d1fa2811a3ccb5c9c47b854981366388d3ce7f8fff3570b"
+          }
+        },
+        {
+          "level": 7,
+          "gag": "一大片叶子试图藏住整只铜铃",
+          "hat": {
+            "src": "/wardrobe/v4/ninja/07-hat.png",
+            "rect": [
+              200.237,
+              93.926,
+              350,
+              402.639
+            ],
+            "fit": "none",
+            "sha256": "655da08704390f59195498c762cc8a7759612a08cb475b9f988657a8d0d263f1"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/ninja/07-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "b95cc9cda6998258574f9d3bf6558f760c85fabf858cb7554067dd7136114d79"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/ninja/07-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "b95cc9cda6998258574f9d3bf6558f760c85fabf858cb7554067dd7136114d79"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/ninja/07-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "8b9725d838199d85b3ff037f1fd42dc5ff5e1592750d289306eba428ae3e2434"
+          }
+        },
+        {
+          "level": 8,
+          "gag": "铜铃终于被小被子哄睡了",
+          "hat": {
+            "src": "/wardrobe/v4/ninja/08-hat.png",
+            "rect": [
+              184.151,
+              115.523,
+              355,
+              284.0
+            ],
+            "fit": "none",
+            "sha256": "a0008718ebf9fb97ca0416d5c62fe09f6a11f88eb75fd00f606e57a726bd9262"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/ninja/08-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "bab49446818a20199ed3cd74308f084ea32c71c4ea0a9997b26a11d642646767"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/ninja/08-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "bab49446818a20199ed3cd74308f084ea32c71c4ea0a9997b26a11d642646767"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/ninja/08-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "a10866964550a20888b8bf5d329c372bbd50fd118ae7af59e55aeb82074f0976"
+          }
+        },
+        {
+          "level": 9,
+          "gag": "终极潜行：木桩盖被睡觉，饼袋系在身旁",
+          "hat": {
+            "src": "/wardrobe/v4/ninja/09-hat.png",
+            "rect": [
+              184.608,
+              82.549,
+              355,
+              366.805
+            ],
+            "fit": "none",
+            "sha256": "c9263b28c14620afbfc511fe0c3e3432add1f29585e076107982ef1541c4516d"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/ninja/09-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "e4f86e056932e1d05aab7de39f56b3fa5df69802a273940f1214b3a00b531a50"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/ninja/09-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "e4f86e056932e1d05aab7de39f56b3fa5df69802a273940f1214b3a00b531a50"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/ninja/09-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "b4e67c3e78b0d63bbedeedd1a9a211df42b655dd904255407af792533a9e756d"
+          }
+        }
+      ]
+    },
+    "hero": {
+      "levels": [
+        {
+          "level": 1,
+          "gag": "一枚大衣夹撑起红头巾，倒扣杯子把小抹布变成救援现场。",
+          "hat": {
+            "src": "/wardrobe/v4/hero/01-hat.png",
+            "rect": [
+              164,
+              45.648,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "e94848f8b7e3c90a7f81b39a9c8bf0d9d54532d513a286c3d4a87bf4067b0c27"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/hero/01-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "0782df8ddcfcbaf41c98a02380cffe6cbb154266815f72a343262d30248a69d7"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/hero/01-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "0782df8ddcfcbaf41c98a02380cffe6cbb154266815f72a343262d30248a69d7"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/hero/01-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "68a04452ed8beae1224ca23f60595526ce1e3bd609451bb2150ef7757972399c"
+          }
+        },
+        {
+          "level": 2,
+          "gag": "双夹加厚头带配洗衣绳背袋，正在营救一只小袜子。",
+          "hat": {
+            "src": "/wardrobe/v4/hero/02-hat.png",
+            "rect": [
+              164,
+              45.44,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "ce0d4df219c4f6fa0fc12de3be93b7eb3a8260c159806f987782ff2d3e2f2198"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/hero/02-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "9a28aa28b82e4f9845a7e25c75649101ac4ea5c6a32af86d815041b47c7c29cf"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/hero/02-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "9a28aa28b82e4f9845a7e25c75649101ac4ea5c6a32af86d815041b47c7c29cf"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/hero/02-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "8fbe37f936ae4db583b08e4156a3996d1f9820faf2712bcf08ee4ea5a99df9d2"
+          }
+        },
+        {
+          "level": 3,
+          "gag": "气球牵着头顶护目镜，另一颗气球连工具包一起带走。",
+          "hat": {
+            "src": "/wardrobe/v4/hero/03-hat.png",
+            "rect": [
+              164,
+              36.154,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "6cff4834d36f081faf115caa69f054a2d1e9d5e5a7abda7fc578cbeda32e2796"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/hero/03-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "5b065e5085fd537b0152475404c4158a62d5af9922d0b701b657d66ef8084968"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/hero/03-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "5b065e5085fd537b0152475404c4158a62d5af9922d0b701b657d66ef8084968"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/hero/03-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "f06a7747bf41e9887bf6559a6c54182fb320bfbfd8416485fae76fb04b178025"
+          }
+        },
+        {
+          "level": 4,
+          "gag": "雨帽装了手电，救援包却接上一只滴水龙头。",
+          "hat": {
+            "src": "/wardrobe/v4/hero/04-hat.png",
+            "rect": [
+              164,
+              42.241,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "6b791b47bbd84c2f3d377973bf5af4148bfa36cfd37be5b56899fc3a920e239a"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/hero/04-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "41fb7b8509f5f9e83b283a5b80c1fb86553c1a084ec5da057fe7f8a5d1441822"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/hero/04-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "41fb7b8509f5f9e83b283a5b80c1fb86553c1a084ec5da057fe7f8a5d1441822"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/hero/04-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "bb3249ccda43b67dd9c6a25f767317a5bcad5b43a750aec199458a5ef537421d"
+          }
+        },
+        {
+          "level": 5,
+          "gag": "果酱瓶盖卡成大头盔，整罐果酱被郑重装进救援挎包。",
+          "hat": {
+            "src": "/wardrobe/v4/hero/05-hat.png",
+            "rect": [
+              164,
+              41.857,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "9b703b3d6d99603f8589570e580b9ecfdd2d7fe6c88c2c87a8bddae01a1001f8"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/hero/05-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "72a12cb71bd621e968a7f372dbab6936b473131ee209c3bbd247d25d07e99b38"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/hero/05-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "72a12cb71bd621e968a7f372dbab6936b473131ee209c3bbd247d25d07e99b38"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/hero/05-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "b5bd6e2e1b480ffed51fb9b5c88a9c42d0c85fd47f9c2b456180f8ecce0a0865"
+          }
+        },
+        {
+          "level": 6,
+          "gag": "帽上的短机械臂和包里的长机械臂都只在夹袜子。",
+          "hat": {
+            "src": "/wardrobe/v4/hero/06-hat.png",
+            "rect": [
+              164,
+              33.983,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "b4a76ccab4a54355e022b8934d427a980dd8dc107c50a46b0445807c08e21324"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/hero/06-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "922beddee2b4a76ea5d5d12e00e03502bf3a5ab09e31207c8192c1f890b1240a"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/hero/06-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "922beddee2b4a76ea5d5d12e00e03502bf3a5ab09e31207c8192c1f890b1240a"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/hero/06-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "3732069b8fee17342190e8c55ee46fd1c121a68de1372006160f70051d013fbd"
+          }
+        },
+        {
+          "level": 7,
+          "gag": "拖把流苏长成队长帽穗，英雄装备升级成满桶清洁工具。",
+          "hat": {
+            "src": "/wardrobe/v4/hero/07-hat.png",
+            "rect": [
+              164,
+              34.811,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "d9655cb5f994894df366f0d8ba543763f5f2684e9284fd9fd7ce551b6a16a448"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/hero/07-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "27b97e460c1e4a648e4901e68fb6a09e76958ad78c459c21a0ebe53f1ad8ba67"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/hero/07-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "27b97e460c1e4a648e4901e68fb6a09e76958ad78c459c21a0ebe53f1ad8ba67"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/hero/07-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "df1f1036b6e4fc02b2e42af36d6b963b48577d2be85a1fe81e9a6439930dad3a"
+          }
+        },
+        {
+          "level": 8,
+          "gag": "大浴巾头冠压着长袜子，随身洗衣机还在吐出另一只。",
+          "hat": {
+            "src": "/wardrobe/v4/hero/08-hat.png",
+            "rect": [
+              164,
+              32.614,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "c4c43083c6dd2aafe767a59c22c68b29b843627c9551299ec14659b5161b4e04"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/hero/08-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "3b46cfe2d085ca57e2549cfe6d732363efffeda971038751b9616d1d8e5ac08f"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/hero/08-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "3b46cfe2d085ca57e2549cfe6d732363efffeda971038751b9616d1d8e5ac08f"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/hero/08-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "3618f45cd78a37bef2c2389db6089897355c74659f1cce3076607e8a6b274ad9"
+          }
+        },
+        {
+          "level": 9,
+          "gag": "头顶罐盖终于翻开，巨型衣夹和绳索把果酱罐撬开。",
+          "hat": {
+            "src": "/wardrobe/v4/hero/09-hat.png",
+            "rect": [
+              164,
+              37.645,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "d51761bf8414baa7ffbc2727ff850cc70d7c3c24adbb5ea117c4b944dc7bcbce"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/hero/09-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "8a90b9090ec533b4800c34c4e9e7b7c199c575364edcfcb96d8abecaecc2b2b6"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/hero/09-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "8a90b9090ec533b4800c34c4e9e7b7c199c575364edcfcb96d8abecaecc2b2b6"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/hero/09-prop.png",
+            "rect": [
+              0,
+              110,
+              184,
+              190
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "0a9bf37d8842a90cac31235b44b5278f3f51537945749435fce1fab18e04cbb8"
+          }
+        }
+      ]
+    },
+    "wuxia": {
+      "levels": [
+        {
+          "level": 1,
+          "gag": "补丁头巾系大橙结，竹编空碗挂着比碗还显眼的木勺。",
+          "hat": {
+            "src": "/wardrobe/v4/wuxia/01-hat.png",
+            "rect": [
+              164,
+              59.684,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "e659b73ea53aa2992315ad74c2da3f78f99812097e7d075a19feaca54f756a57"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wuxia/01-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "6d2bf72c8e2fa826c6d6536ffde10129b4003ee84e2168105325d42cfbf8d7d5"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wuxia/01-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "6d2bf72c8e2fa826c6d6536ffde10129b4003ee84e2168105325d42cfbf8d7d5"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wuxia/01-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "d05774a1df8dd5465be01f3e2115672ac1ff989751e6b721fb4ef6201ecabf89"
+          }
+        },
+        {
+          "level": 2,
+          "gag": "叶形软帽插着竹筒，随身竹筒打开竟是一只包子。",
+          "hat": {
+            "src": "/wardrobe/v4/wuxia/02-hat.png",
+            "rect": [
+              164,
+              48.875,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "17b8d8450ada87a6e068e10ccda4680706c0e8ee9e3f2f43a16f2f3877810bb7"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wuxia/02-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "31f8d2978d79cd41a1106c8893664b5c8901046518663177b9a007ea441f8aad"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wuxia/02-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "31f8d2978d79cd41a1106c8893664b5c8901046518663177b9a007ea441f8aad"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wuxia/02-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "e6ffcd3cd4b00bd19b55f8555b12e6f1d99a4e7b6fdea05f8a6b49f2d224dcbf"
+          }
+        },
+        {
+          "level": 3,
+          "gag": "帽上插的地图和竹框路线图，都只标着面碗。",
+          "hat": {
+            "src": "/wardrobe/v4/wuxia/03-hat.png",
+            "rect": [
+              164,
+              68.525,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "583c717210ac290acb6137e91f645fadda7328227ddc665756b2b9043b1c0e66"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wuxia/03-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "3eb701ffc89a5c2cbcff4045a7ce8cea4adda5df90639dc332049e8649064df8"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wuxia/03-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "3eb701ffc89a5c2cbcff4045a7ce8cea4adda5df90639dc332049e8649064df8"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wuxia/03-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "3ddc7a64d7f4a6d3618fed91a8ccea9ad4a39c8088c5543e289e0525b2586c26"
+          }
+        },
+        {
+          "level": 4,
+          "gag": "弯尖斗笠夹着木勺，竹制剑鞘里露出的也是木勺。",
+          "hat": {
+            "src": "/wardrobe/v4/wuxia/04-hat.png",
+            "rect": [
+              164,
+              57.2,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "f938f1184256d6b02de5e8d6415095f4ce6851aac74a6d9de54bf0651a3a8400"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wuxia/04-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "fc2f82389a7852cdacc359bd5d6379d48fd60605e79b347a631dac41cd5a8472"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wuxia/04-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "fc2f82389a7852cdacc359bd5d6379d48fd60605e79b347a631dac41cd5a8472"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wuxia/04-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "926af883671cb9a4e446f6ccc6d4ac986a51dfe1e532e0d01d5e10196487588e"
+          }
+        },
+        {
+          "level": 5,
+          "gag": "斗笠被粗面条绳缠住，背挂面碗的面条还搭在碗外。",
+          "hat": {
+            "src": "/wardrobe/v4/wuxia/05-hat.png",
+            "rect": [
+              164,
+              43.01,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "f024ef30b492e2ccd70ea86f6dc9f3bdaea559c68a837633aad4937ecde2e04d"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wuxia/05-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "aafcc2a28e6537b00003d097c5b2415a2f57c2a89c98611f974c21a79376b3ff"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wuxia/05-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "aafcc2a28e6537b00003d097c5b2415a2f57c2a89c98611f974c21a79376b3ff"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wuxia/05-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "b8de3138b3c0cca44b055f56c7604eb31915c13927024763b75dbb0732632cfd"
+          }
+        },
+        {
+          "level": 6,
+          "gag": "软卷帽和面碗都绕上面馆图案账单，吃面装备越背越多。",
+          "hat": {
+            "src": "/wardrobe/v4/wuxia/06-hat.png",
+            "rect": [
+              164,
+              62.466,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "9fdd133179cc388700562a61f2f1a63881642ac828bcb17377fc1dd30daf37f7"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wuxia/06-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "84f1f65f048b692db533049789f4c093d31f2d5d7779ead9c49dc1b2beb2aac7"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wuxia/06-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "84f1f65f048b692db533049789f4c093d31f2d5d7779ead9c49dc1b2beb2aac7"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wuxia/06-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "4fbe619651f87e8f1a84669b2d2dc0948f01c745749f9748ab784d3e5987c629"
+          }
+        },
+        {
+          "level": 7,
+          "gag": "迎风斗笠挂小醋壶，身边醋壶正在给面碗倒醋。",
+          "hat": {
+            "src": "/wardrobe/v4/wuxia/07-hat.png",
+            "rect": [
+              164,
+              65.997,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "00f0ef73dcbf2aaaded062e71c76e639684ce6fa352d957f9380409685ec790a"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wuxia/07-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "d1765d4d130cfc69e595c623699178faed2010413b42d10ae0fcc58f76a70371"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wuxia/07-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "d1765d4d130cfc69e595c623699178faed2010413b42d10ae0fcc58f76a70371"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wuxia/07-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "9511b1feb7627b8537fb036c7e0b4af470c08de63f52b353888cd012340728bf"
+          }
+        },
+        {
+          "level": 8,
+          "gag": "帽上展开找面地图，竹框地图最后直接被面碗压住。",
+          "hat": {
+            "src": "/wardrobe/v4/wuxia/08-hat.png",
+            "rect": [
+              164,
+              57.364,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "45724fbdea4f3f225570213a3010457bb9750188eb0af52c7f7950c9ab19471d"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wuxia/08-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "32a6bdb959071bce50b44c17726bb75f2db9b61c202661fc0feb3fd98b80bebe"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wuxia/08-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "32a6bdb959071bce50b44c17726bb75f2db9b61c202661fc0feb3fd98b80bebe"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wuxia/08-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "484267aa54fd97309a0c825bebdd5bca9c837f81c0a469b3d6090fcc44d3d193"
+          }
+        },
+        {
+          "level": 9,
+          "gag": "大面绳扎起豪华软帽，多把木勺围住一碗面，一起分享。",
+          "hat": {
+            "src": "/wardrobe/v4/wuxia/09-hat.png",
+            "rect": [
+              164,
+              57.23,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "629722c260a6a2384fc5aec1ac3110be158247c408c3aa607f86b2533646ee7a"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/wuxia/09-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "1ff6712c7811b3fe8304bcb27b423154f7d31d717afeb1fca22c159fd3ce8e1e"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/wuxia/09-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "1ff6712c7811b3fe8304bcb27b423154f7d31d717afeb1fca22c159fd3ce8e1e"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/wuxia/09-prop.png",
+            "rect": [
+              0,
+              110,
+              184,
+              190
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "e4b0383b4002351e9a5cb828323cb22206a4adccb7647d733a7c1e9732d4f4aa"
+          }
+        }
+      ]
+    },
+    "baker": {
+      "levels": [
+        {
+          "level": 1,
+          "gag": "补丁厨帽和探出面粉袋的面包蜗牛",
+          "hat": {
+            "src": "/wardrobe/v4/baker/01-hat.png",
+            "rect": [
+              164,
+              30,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "23e287d7ae141470eab73a41b24b97fbb8546b8be2e136f3fe851004ddfe449b"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/baker/01-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "e16c133fe4dd7b15fab2038d3b10f3a1a8e5bd38b15a193ea013c9e4a5005143"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/baker/01-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "e16c133fe4dd7b15fab2038d3b10f3a1a8e5bd38b15a193ea013c9e4a5005143"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/baker/01-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "8a12b4db6b36d14774c6bbb97a47eb48a61ab82e57b5d34f7b638c5d00452794"
+          }
+        },
+        {
+          "level": 2,
+          "gag": "牛角软帽，巨型牛角包挤满篮子",
+          "hat": {
+            "src": "/wardrobe/v4/baker/02-hat.png",
+            "rect": [
+              164,
+              32,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "eba15134da5074ee195a3f7cfc8740f8f7c47c0af391aafce997643869623433"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/baker/02-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "394bd74e7192448227026eaf86b67a3353cdc92599bffefd2b2bafbfdd79eb14"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/baker/02-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "394bd74e7192448227026eaf86b67a3353cdc92599bffefd2b2bafbfdd79eb14"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/baker/02-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "d451187915da2068d8aa1930f299f7fe7db1a1736c72d047f97f99a08a14f790"
+          }
+        },
+        {
+          "level": 3,
+          "gag": "奶油尖帽和溢出搅拌碗的奶油山",
+          "hat": {
+            "src": "/wardrobe/v4/baker/03-hat.png",
+            "rect": [
+              164,
+              31,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "e651253178f52d386f3dc38b71f3f520e33217aa362c46e55284ff67055e6d85"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/baker/03-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "c21ba79f981f3db6414e16b4303ef270d7c51d1c26944a591109259dcc9d458b"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/baker/03-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "c21ba79f981f3db6414e16b4303ef270d7c51d1c26944a591109259dcc9d458b"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/baker/03-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "fcb34d52c44b69e7aca1f3a8d8257944f4f4771fd3afb65fca08e30c05086f48"
+          }
+        },
+        {
+          "level": 4,
+          "gag": "发过头的面团帽和爬出篮子的面团",
+          "hat": {
+            "src": "/wardrobe/v4/baker/04-hat.png",
+            "rect": [
+              164,
+              29,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "49c88e4bd4d575e65cfb977e619c7fc483e8b63aead2aa8a191fb7c8966c2da6"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/baker/04-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "1f6b685d3bf0d38a5dd26760e0e860ca6655c9bb5ca461e809330907a2c00853"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/baker/04-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "1f6b685d3bf0d38a5dd26760e0e860ca6655c9bb5ca461e809330907a2c00853"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/baker/04-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "9da4dde489b719e04288baa307e0a206c74268cd96269c4f79f2eba8a0f6f709"
+          }
+        },
+        {
+          "level": 5,
+          "gag": "草莓松饼帽与一份堆得过高的早餐",
+          "hat": {
+            "src": "/wardrobe/v4/baker/05-hat.png",
+            "rect": [
+              164,
+              32,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "db3af77c3c46c84d8ce43916509fc7c181247452d5ca406a614cf9af108afbc8"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/baker/05-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "0eb3347f198ef2288b7207aaa8df6b7d56e6586dd56c98c1af6f6cf29eb0c591"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/baker/05-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "0eb3347f198ef2288b7207aaa8df6b7d56e6586dd56c98c1af6f6cf29eb0c591"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/baker/05-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "5ae4faa00db8097cd5483ca553306a5cc0e9ae058ef5761b0d7a54beb9a25e3f"
+          }
+        },
+        {
+          "level": 6,
+          "gag": "面包蜗牛趴厨帽，同伴占满搅拌碗",
+          "hat": {
+            "src": "/wardrobe/v4/baker/06-hat.png",
+            "rect": [
+              164,
+              29,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "199168cb4bdac0592700bd9664c5e7e774938697b2168954840c66ead4de31ea"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/baker/06-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "43828fe9bf5a900b7a87e6eb96c3e51b4f0a91ba021329ef7bfc2065451bfb68"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/baker/06-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "43828fe9bf5a900b7a87e6eb96c3e51b4f0a91ba021329ef7bfc2065451bfb68"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/baker/06-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "a65ed6471b940734cbd92b388466c6ced615d2071f2f82dc64c5188f3f37f889"
+          }
+        },
+        {
+          "level": 7,
+          "gag": "果冻厨帽配摇摇晃晃的草莓布丁",
+          "hat": {
+            "src": "/wardrobe/v4/baker/07-hat.png",
+            "rect": [
+              164,
+              33,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "cc39ccb742d56ed1f4566972816a5659ead83bbf0e055118928129894dd0cc1c"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/baker/07-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "58e765e7614be7ae9198911e2ce99779f2157d85b52397ec5956e3b2f085332c"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/baker/07-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "58e765e7614be7ae9198911e2ce99779f2157d85b52397ec5956e3b2f085332c"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/baker/07-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "68151e2c268cf640253e4696563fc56800781c8883da04a9887c4eb04ab97da3"
+          }
+        },
+        {
+          "level": 8,
+          "gag": "奶油蛋糕帽和背着走的庆祝蛋糕",
+          "hat": {
+            "src": "/wardrobe/v4/baker/08-hat.png",
+            "rect": [
+              164,
+              31,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "c26c0e05f141fff01cb719d6bc9e34a3a10109db79a55066fc5fee9054e8cc0d"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/baker/08-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "4e62a161ae9b27197fcc9adf8a33585240dc90baad4fe8f29d7bf665f88022b7"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/baker/08-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "4e62a161ae9b27197fcc9adf8a33585240dc90baad4fe8f29d7bf665f88022b7"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/baker/08-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "87185ec84606d5ff9d7f8c69daba6dff745ea9459e619a4701cbe2c0931db321"
+          }
+        },
+        {
+          "level": 9,
+          "gag": "鱼饼宗师帽，留一枚焦鱼饼给自己",
+          "hat": {
+            "src": "/wardrobe/v4/baker/09-hat.png",
+            "rect": [
+              164,
+              29,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "b8e93054e30a24520f72b4741fbc5f64ca8ea4f7c9242935176423cebb83d292"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/baker/09-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "442bd88fc84916d64c11e50b4536bef45fd6e7417fc9cedb39d04c79365e3e27"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/baker/09-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "442bd88fc84916d64c11e50b4536bef45fd6e7417fc9cedb39d04c79365e3e27"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/baker/09-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "249435e72c09963ad41c6a1270b546e9eaabaa8a6723d790a9d2323385a02c92"
+          }
+        }
+      ]
+    },
+    "garden": {
+      "levels": [
+        {
+          "level": 1,
+          "gag": "歪苗草帽配探出种子袋的巨苗",
+          "hat": {
+            "src": "/wardrobe/v4/garden/01-hat.png",
+            "rect": [
+              164,
+              27,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "ace1ebbb3c0810f72e0bb770c6e591b4bd9409b440efa3679d5d4001301064d3"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/garden/01-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "c67c71e90e54f41bd1de116820c5b99cb56d2682c8f50d37ba18d21be65cafa2"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/garden/01-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "c67c71e90e54f41bd1de116820c5b99cb56d2682c8f50d37ba18d21be65cafa2"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/garden/01-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "2d2d136721c8319a47c8b354d2dc992071fb60e1f5b3c1d7e3f373b8e825d3e3"
+          }
+        },
+        {
+          "level": 2,
+          "gag": "大叶替草帽撑伞，小叶替水壶撑伞",
+          "hat": {
+            "src": "/wardrobe/v4/garden/02-hat.png",
+            "rect": [
+              164,
+              30,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "f47e0231434bf04e714668adbff1ea41a7e443b404c330afdb33dc2273411fe4"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/garden/02-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "c8dd12fc3cf87c521eeb07bbec7498e769fc9606fe9944ab3c9de20a37046eb5"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/garden/02-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "c8dd12fc3cf87c521eeb07bbec7498e769fc9606fe9944ab3c9de20a37046eb5"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/garden/02-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "51ca7c47935bdf5a78383459908c521f863964d3ab1a08e416842b6a1e5ec77d"
+          }
+        },
+        {
+          "level": 3,
+          "gag": "蜗牛草帽和陪盆栽慢慢长大的陶蜗牛",
+          "hat": {
+            "src": "/wardrobe/v4/garden/03-hat.png",
+            "rect": [
+              164,
+              29,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "f9566dbfed3dfa7dff80f2bb45ade6a871a46e949de6536f7dc8c474e5851cf1"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/garden/03-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "6501d236a8f4f2dc5d14ac092bd3bf405efd7db499b76374a940864ff2887e0a"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/garden/03-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "6501d236a8f4f2dc5d14ac092bd3bf405efd7db499b76374a940864ff2887e0a"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/garden/03-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "5e62013b9d7c322ff09e71c8de42909a0143c35ede32af561501b9e573ff96cb"
+          }
+        },
+        {
+          "level": 4,
+          "gag": "水壶软帽配自己浇自己的水壶",
+          "hat": {
+            "src": "/wardrobe/v4/garden/04-hat.png",
+            "rect": [
+              164,
+              26,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "124dacb08db97a67ac312818b950121883bef336223d40de58cca77e4e0528df"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/garden/04-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "821fedf452dcc561d355da88ecc2f15b905af64d12c4c05a2e371d0bea8755d6"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/garden/04-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "821fedf452dcc561d355da88ecc2f15b905af64d12c4c05a2e371d0bea8755d6"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/garden/04-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "b15841a7030654bf0c45503c4ad83f9b409a296c0f24413eda83d4455e5127cd"
+          }
+        },
+        {
+          "level": 5,
+          "gag": "木夹把叶子夹成帽檐，小苗给自己浇水",
+          "hat": {
+            "src": "/wardrobe/v4/garden/05-hat.png",
+            "rect": [
+              164,
+              32,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "1ee811474335293767b27d37a4db1b09342dc0a1e9329ac30b04b2b6e934f0c6"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/garden/05-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "69f2d3898e3bc173db3bfe058ce1ebcbbfd0ade560135135cb54c452078e0f78"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/garden/05-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "69f2d3898e3bc173db3bfe058ce1ebcbbfd0ade560135135cb54c452078e0f78"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/garden/05-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "ad43a4a96da24282e147180fe43be48e6a6c225fa11ad865fe18a0d14d8ca412"
+          }
+        },
+        {
+          "level": 6,
+          "gag": "蘑菇盖住草帽，另一朵挤满背篓",
+          "hat": {
+            "src": "/wardrobe/v4/garden/06-hat.png",
+            "rect": [
+              164,
+              31,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "242365d56c0a2b9c449dd8dbca4a95da00ff4560d4553c21da2f5ed92e901769"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/garden/06-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "b202b3978948b37b07c510e753b33745d267519b0b56c1fa69cbb332755f9353"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/garden/06-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "b202b3978948b37b07c510e753b33745d267519b0b56c1fa69cbb332755f9353"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/garden/06-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "e688af31752277edd224d1f21ba06b58b3e708bf15778cc9d42d3651c4ed5bd7"
+          }
+        },
+        {
+          "level": 7,
+          "gag": "露珠叶帽和收集一整颗大露珠的莲碗",
+          "hat": {
+            "src": "/wardrobe/v4/garden/07-hat.png",
+            "rect": [
+              164,
+              27,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "7a1bbd8b118075d38277e02d52804bf662bee533f3c35757c6223cc1ceca16db"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/garden/07-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "74c0ff786d27b6569a0a880bd819d7165a5013ac1e8122e9c06e766ff948b4c7"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/garden/07-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "74c0ff786d27b6569a0a880bd819d7165a5013ac1e8122e9c06e766ff948b4c7"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/garden/07-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "3058087f6a2616d94da5123ceb728dbdb4de79dee05686184ef67fa023469da7"
+          }
+        },
+        {
+          "level": 8,
+          "gag": "南瓜草帽配胖到撑开篮子的南瓜",
+          "hat": {
+            "src": "/wardrobe/v4/garden/08-hat.png",
+            "rect": [
+              164,
+              31,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "c89e5a74564a61ddd6f2dd57913a064eea558ecaeb94bd1ee1f41c8009cc5366"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/garden/08-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "8fd10e267e11c87cb2def0a8ccdd576632d7c392a8c14a204da4e36da775265a"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/garden/08-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "8fd10e267e11c87cb2def0a8ccdd576632d7c392a8c14a204da4e36da775265a"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/garden/08-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "31ce1fdd819c1821b3b1bb20ef1b19c9c0dd803cced2ecbc820938344495eb3a"
+          }
+        },
+        {
+          "level": 9,
+          "gag": "向日葵趴帽檐，背包里再养一株小苗",
+          "hat": {
+            "src": "/wardrobe/v4/garden/09-hat.png",
+            "rect": [
+              164,
+              34,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "1b3b0a57428d215fbba639fa2b9ecca579db3c8b1df72c6ffe4a65f6443fc4e5"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/garden/09-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "d178d48cd1a5d84b428281e54c339f3e34a76a2003826068efaf69490fd6c33c"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/garden/09-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "d178d48cd1a5d84b428281e54c339f3e34a76a2003826068efaf69490fd6c33c"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/garden/09-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "d658451cfde16f78acb23b0b3913db311a6500be0a4b25f391ae614b4f15bc5c"
+          }
+        }
+      ]
+    },
+    "performer": {
+      "levels": [
+        {
+          "level": 1,
+          "gag": "紫色大结头巾配衣夹，梳子被夹在支架上当麦克风。",
+          "hat": {
+            "src": "/wardrobe/v4/performer/01-hat.png",
+            "rect": [
+              164,
+              63.08,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "1e9719aadfa60fcd56025884ed041749fe1642899ece91b1e36ffc0c9f611f5d"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/performer/01-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "1df7e5fc56ea1d7f3fd0564a6a7ac34aad835931bcf818eae06637ccc89783e4"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/performer/01-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "1df7e5fc56ea1d7f3fd0564a6a7ac34aad835931bcf818eae06637ccc89783e4"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/performer/01-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "df69c90b23faa91859bc7b314c3bd5d98c7a69b4750f47ee39af44aa7ead6b72"
+          }
+        },
+        {
+          "level": 2,
+          "gag": "软贝雷帽戴大纽扣，打开的打赏盒里也只有一枚纽扣。",
+          "hat": {
+            "src": "/wardrobe/v4/performer/02-hat.png",
+            "rect": [
+              164,
+              52.868,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "3d0a698446f8b96e0ca3e817b00741d34488f79236fbc8f1f48e5f6a42e068df"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/performer/02-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "93c78f54f79945b8406f98eedb6f81d4070b4eee63cddd22f5911586c224338d"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/performer/02-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "93c78f54f79945b8406f98eedb6f81d4070b4eee63cddd22f5911586c224338d"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/performer/02-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "086f58abf93e2fd7632ff24069012ba06dd8eb00e6c6ccb89b1efb590bcfccc7"
+          }
+        },
+        {
+          "level": 3,
+          "gag": "软耳机帽顶起小打蛋器，双打蛋器成了铁桶鼓槌。",
+          "hat": {
+            "src": "/wardrobe/v4/performer/03-hat.png",
+            "rect": [
+              164,
+              80.493,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "9531ae67486270e6de600ff2416de9b4dd12e5bfe29078530c4ab67283cc0a77"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/performer/03-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "2cff67072c1e3ef4aca6bec9092cecccd8962d8e78ddc58c96bca332d3ed1d31"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/performer/03-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "2cff67072c1e3ef4aca6bec9092cecccd8962d8e78ddc58c96bca332d3ed1d31"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/performer/03-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "8cbe03b0615cb5aa89c3fe42cb086f7dc698e326556e506762782da044adbee9"
+          }
+        },
+        {
+          "level": 4,
+          "gag": "歪高礼帽夹着话筒提示卡，真正的话筒仍靠衣夹固定。",
+          "hat": {
+            "src": "/wardrobe/v4/performer/04-hat.png",
+            "rect": [
+              164,
+              24.86,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "d5b7ff7e874d637bd47f8229a2882a6eb0c72cd4d7a7daef17dadb2e553fed9e"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/performer/04-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "353c1166deb62596d381048fb4fa05330e91534238fff2583ea1afb5f8d88913"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/performer/04-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "353c1166deb62596d381048fb4fa05330e91534238fff2583ea1afb5f8d88913"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/performer/04-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "9b01b04677037353e900c9bd65ca47615c3731d7a6fc08ea25225ef878926f65"
+          }
+        },
+        {
+          "level": 5,
+          "gag": "蓬松贝雷帽别满衣夹，五枚系彩带的衣夹排成粉丝团。",
+          "hat": {
+            "src": "/wardrobe/v4/performer/05-hat.png",
+            "rect": [
+              164,
+              76.612,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "852a1280f2276215de264e41c49b4c66873ac80cb4248e50cf767b1ab413d212"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/performer/05-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "7442150f2407e16068b25024400d4313b0c0258b56337d888ed268beac68cde6"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/performer/05-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "7442150f2407e16068b25024400d4313b0c0258b56337d888ed268beac68cde6"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/performer/05-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "70e70c4fcd8e5f94182fe29d1556a79f8360799d2b89636bff903eb0a8c4431b"
+          }
+        },
+        {
+          "level": 6,
+          "gag": "帽上缠满票卷与音频线，巡演箱里线缆又绕成一圈。",
+          "hat": {
+            "src": "/wardrobe/v4/performer/06-hat.png",
+            "rect": [
+              164,
+              65.031,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "c631b0a4128473f0b4a2f138cd02729cb5478c86204ab3c955345dd2ec06b4e9"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/performer/06-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "d55dc33ce8ada0ae28801e4d69c92520b1918de6e56abedd85029f4d4fec958d"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/performer/06-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "d55dc33ce8ada0ae28801e4d69c92520b1918de6e56abedd85029f4d4fec958d"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/performer/06-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "e45e4d7ce34ffcf441fb82c5d502d1ff13e37f0f800c3698662d8c8ef9fc0c7e"
+          }
+        },
+        {
+          "level": 7,
+          "gag": "星星扇冠配彩色舞台披肩，大星灯的支架还由衣夹撑着。",
+          "hat": {
+            "src": "/wardrobe/v4/performer/07-hat.png",
+            "rect": [
+              164,
+              69.059,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "66263226bbc66cb8c39be4bd0b89f8689e8f81c7751ab99e11cb34930baa6537"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/performer/07-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "9483823dc22dc5b480d7e473346f021239008058a7cef0efcac2076977761f7b"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/performer/07-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "9483823dc22dc5b480d7e473346f021239008058a7cef0efcac2076977761f7b"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/performer/07-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "6ab292273f4b8c3f5bb41fec1fc0d485f95114cd984fff0e5c9c35bba4b7e8e2"
+          }
+        },
+        {
+          "level": 8,
+          "gag": "帽子变成大幕布蝴蝶结，台词提示板却画着不要话筒。",
+          "hat": {
+            "src": "/wardrobe/v4/performer/08-hat.png",
+            "rect": [
+              164,
+              61.69,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "f614a99294d6bcceb52b7c3ddd7baebc2f4f3f312ef035131650293fc128b10e"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/performer/08-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "bab40132e1566d90124f844195b2e13be78be11856e997af3b9e6140ea94a95e"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/performer/08-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "bab40132e1566d90124f844195b2e13be78be11856e997af3b9e6140ea94a95e"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/performer/08-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "81ce2e73af73e3cb418f0d454c9d59a211b7890fa755f5c0db0d97085258324b"
+          }
+        },
+        {
+          "level": 9,
+          "gag": "大软帽戴金星和纽扣，金色大奖杯的奖品仍是最初的纽扣。",
+          "hat": {
+            "src": "/wardrobe/v4/performer/09-hat.png",
+            "rect": [
+              164,
+              80.246,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "d4682feea4a992acf19ad10eb590c52ce1c2870097b1ddb8cf65229ce9264385"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/performer/09-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "d94cdc054653c3805fbfef222d023dc1758f63f9d42c59f73365b0025412abef"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/performer/09-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "d94cdc054653c3805fbfef222d023dc1758f63f9d42c59f73365b0025412abef"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/performer/09-prop.png",
+            "rect": [
+              0,
+              110,
+              184,
+              190
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "7445277e31289468c363a5e6b53811fd8cc5820077a811e4c8da1edf3f2beb2b"
+          }
+        }
+      ]
+    },
+    "cultivation": {
+      "levels": [
+        {
+          "level": 1,
+          "gag": "云朵把卷轴当枕头",
+          "hat": {
+            "src": "/wardrobe/v4/cultivation/01-hat.png",
+            "rect": [
+              164,
+              28,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "199a96dfb88f4724e4f9cc593a13106289bd287ed8face053956e2405b20590d"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/cultivation/01-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "db664b41ee00684d7de71b68c2c6a54aaf56a073c38d2bae4defec4ef6fe2d9e"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/cultivation/01-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "db664b41ee00684d7de71b68c2c6a54aaf56a073c38d2bae4defec4ef6fe2d9e"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/cultivation/01-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "45bb573f03198b7b26268d9971ea5aef9f416e818c18402f1d31b6bd5209600a"
+          }
+        },
+        {
+          "level": 2,
+          "gag": "云枕压扁蒲团",
+          "hat": {
+            "src": "/wardrobe/v4/cultivation/02-hat.png",
+            "rect": [
+              164,
+              25,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "48ee23d82fba05a127372fb2d58a8cd00756cb1869e2613135d72a62a61dbcdb"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/cultivation/02-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "0a4044dd2d3a57c96faf48ec76828a947c146f12e127975c20ef8a66a8b76314"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/cultivation/02-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "0a4044dd2d3a57c96faf48ec76828a947c146f12e127975c20ef8a66a8b76314"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/cultivation/02-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "f27c97b74deaa44afb84629f57b9ab9c8a107be05758f762c6f9e31f251d7132"
+          }
+        },
+        {
+          "level": 3,
+          "gag": "云朵倒扣金铃补觉",
+          "hat": {
+            "src": "/wardrobe/v4/cultivation/03-hat.png",
+            "rect": [
+              164,
+              31,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "6a30d46e1f2376cef402e028c37dd55aa38fdef23f8ee13042ec9ae05f4b66c2"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/cultivation/03-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "7b6852e1f13781d53e901ba74cb4b150d909519b013994a5962cf4bfe2ec57a4"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/cultivation/03-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "7b6852e1f13781d53e901ba74cb4b150d909519b013994a5962cf4bfe2ec57a4"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/cultivation/03-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "ed08e2d9fe6bf3ca8b9cc690d90fef5030dca69652d6f53baa7ffec25d3a02f8"
+          }
+        },
+        {
+          "level": 4,
+          "gag": "大云靠小云睡觉",
+          "hat": {
+            "src": "/wardrobe/v4/cultivation/04-hat.png",
+            "rect": [
+              164,
+              27,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "05e8438829ae9891fbebaf853373475c489f8e3644f59b16f99c55c37c9c74e1"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/cultivation/04-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "0c20f3af1febecf5780cdf00a4544e989543a5dece5f5876900db815f0534dfa"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/cultivation/04-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "0c20f3af1febecf5780cdf00a4544e989543a5dece5f5876900db815f0534dfa"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/cultivation/04-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "3985aa43eab6cde5351d99debe57d653084f811ff7aeecfe0414fbbe19ea0d2a"
+          }
+        },
+        {
+          "level": 5,
+          "gag": "云垫开茶歇会",
+          "hat": {
+            "src": "/wardrobe/v4/cultivation/05-hat.png",
+            "rect": [
+              164,
+              28,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "e3ffc7a9ba33dc7065c714a5609ceb4ddfcf25f397ba5932eafa4c1a7e9a22a9"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/cultivation/05-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "3693cc5e921150d8c0627ed88b551ce2764cbba52f52484e8ef6065cc3a37a31"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/cultivation/05-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "3693cc5e921150d8c0627ed88b551ce2764cbba52f52484e8ef6065cc3a37a31"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/cultivation/05-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "4ffdb2150ecf1ba119a39fca0eccecb3925c315c8b39cd78a933a4d8dcf762cf"
+          }
+        },
+        {
+          "level": 6,
+          "gag": "隐身忘了藏茶杯",
+          "hat": {
+            "src": "/wardrobe/v4/cultivation/06-hat.png",
+            "rect": [
+              164,
+              100,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "6d9eb401d95e0ed7e6e878f93b92c899cf3a50cfff57468ef724a251f8df0db2"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/cultivation/06-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "2794676b4c743174ca75da0f28bf39603da5d267d917dff6126d4660673a8e5e"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/cultivation/06-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "2794676b4c743174ca75da0f28bf39603da5d267d917dff6126d4660673a8e5e"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/cultivation/06-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "b4c770560d00d30609b2e53dc95a5a929471f3728e440d30010f6af4d8a3608e"
+          }
+        },
+        {
+          "level": 7,
+          "gag": "长云枕把卷轴当扶手",
+          "hat": {
+            "src": "/wardrobe/v4/cultivation/07-hat.png",
+            "rect": [
+              164,
+              31,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "2efd26b5da4a6820636b4622b29bb95830413b50f20e598579c4882cc1327a81"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/cultivation/07-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "4473e94e5b64f317b44b843cfd9daaa4f0ed90f1b97f6f9d1a6aebb90155c8a8"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/cultivation/07-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "4473e94e5b64f317b44b843cfd9daaa4f0ed90f1b97f6f9d1a6aebb90155c8a8"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/cultivation/07-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "f3aaadb466e535346f7e38da73748145ea6d62ac9bc859f64a6fedd1a36e95a2"
+          }
+        },
+        {
+          "level": 8,
+          "gag": "三层云枕夹住茶杯",
+          "hat": {
+            "src": "/wardrobe/v4/cultivation/08-hat.png",
+            "rect": [
+              164,
+              34,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "7d28947d7a1075dbf7148481d992c495abf86938c44cb34565ec850c0afad91d"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/cultivation/08-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "f30434c47a6ae900ab6a10f01a35a8a60615d39f33cdfb906585b9e86e227a4c"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/cultivation/08-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "f30434c47a6ae900ab6a10f01a35a8a60615d39f33cdfb906585b9e86e227a4c"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/cultivation/08-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "389368c62d3f6e887e30e92e54486ed30af2dceb47a2ec64c9113218b2a033f5"
+          }
+        },
+        {
+          "level": 9,
+          "gag": "雷电壶嘴安心泡茶",
+          "hat": {
+            "src": "/wardrobe/v4/cultivation/09-hat.png",
+            "rect": [
+              164,
+              30,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "2c3f8f76299c1189352d012340e163330f9747b63522615d52dc0beca23e3b3f"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/cultivation/09-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "32a0b545839bad49881a91061241d23ac0c54c3886397f74b2eadece16a68f78"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/cultivation/09-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "32a0b545839bad49881a91061241d23ac0c54c3886397f74b2eadece16a68f78"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/cultivation/09-prop.png",
+            "rect": [
+              17,
+              129,
+              154,
+              163
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "9281dee842a92a9e49c62645dcd4f2463b5a2037507106f46c507eaec5bad91e"
+          }
+        }
+      ]
+    },
+    "shaolin": {
+      "levels": [
+        {
+          "level": 1,
+          "gag": "最后一叶黏在扫帚背面",
+          "hat": null,
+          "cape": {
+            "src": "/wardrobe/v4/shaolin/01-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "0de9ec6e9f875c1df3dfd68b0fd478bd10c4a85f50a740c50c2044ac3a3187af"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/shaolin/01-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "0de9ec6e9f875c1df3dfd68b0fd478bd10c4a85f50a740c50c2044ac3a3187af"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/shaolin/01-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "1b4c21776e489f7051666aba75edbb688482901712a0fd35940d5338c7357cad"
+          }
+        },
+        {
+          "level": 2,
+          "gag": "小桶里的水想逃跑",
+          "hat": null,
+          "cape": {
+            "src": "/wardrobe/v4/shaolin/02-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "df2de2b8d2c64eacd96db35f634119d376948a64f04bc93a25357a4b9ab02441"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/shaolin/02-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "df2de2b8d2c64eacd96db35f634119d376948a64f04bc93a25357a4b9ab02441"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/shaolin/02-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "9f35f5ccd7408b41f84338ded4ed335bae892171ab096f4b3bd546feae9a4cc2"
+          }
+        },
+        {
+          "level": 3,
+          "gag": "刚练好第一招，叶子先挂上了棍头。",
+          "hat": null,
+          "cape": {
+            "src": "/wardrobe/v4/shaolin/03-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "8f76b5039d1f4eb97797836ebe636f05a640f95568878d1b55399b60b503f8cc"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/shaolin/03-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "8f76b5039d1f4eb97797836ebe636f05a640f95568878d1b55399b60b503f8cc"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/shaolin/03-prop.png",
+            "rect": [
+              42,
+              87,
+              115,
+              260
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "3af7a8144851e83f6c6385babad5a73c5df407ba5b577e2f36b4ae4a6d685544"
+          }
+        },
+        {
+          "level": 4,
+          "gag": "毛巾拧出最后一滴水",
+          "hat": null,
+          "cape": {
+            "src": "/wardrobe/v4/shaolin/04-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "53d2bcf8282524cd3fa4ed8bfe07b33545f74d03947e1d92891292c7d5db0519"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/shaolin/04-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "53d2bcf8282524cd3fa4ed8bfe07b33545f74d03947e1d92891292c7d5db0519"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/shaolin/04-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "d0ce996ce8b76e4d7d64e314cd6707d8ccdf34a01f0c7c1398511812ba740516"
+          }
+        },
+        {
+          "level": 5,
+          "gag": "叶子藏到桶底",
+          "hat": null,
+          "cape": {
+            "src": "/wardrobe/v4/shaolin/05-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "714cbc6388ba5a0a4d84b700d3ac677f6374bf6bb989fcd605d919aa4ab47f05"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/shaolin/05-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "714cbc6388ba5a0a4d84b700d3ac677f6374bf6bb989fcd605d919aa4ab47f05"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/shaolin/05-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "660f7f90fa73c8255233a52323ec8bff272c9edd0ac7bfd9030c0f55ae457560"
+          }
+        },
+        {
+          "level": 6,
+          "gag": "当了教头，也得把扫帚收整齐。",
+          "hat": null,
+          "cape": {
+            "src": "/wardrobe/v4/shaolin/06-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "ead75d344ff8086896c5fbb3acf675454b8f876e504c315ee4c31f001ce5e6c7"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/shaolin/06-cape.png",
+            "rect": [
+              218,
+              303,
+              181,
+              118
+            ],
+            "fit": "none",
+            "sha256": "ead75d344ff8086896c5fbb3acf675454b8f876e504c315ee4c31f001ce5e6c7"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/shaolin/06-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "82030ba9fa52a500bdb6fb4bb520475bc977c505ed8c1d69ed5819330629be93"
+          }
+        },
+        {
+          "level": 7,
+          "gag": "佛珠串得整齐，补丁缝得大大方方。",
+          "hat": null,
+          "cape": {
+            "src": "/wardrobe/v4/shaolin/07-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "976f78d821d19c08b91f075d3976b9fedb39f6b10f513e6314ce7c0b71b6e1da"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/shaolin/07-cape.png",
+            "rect": [
+              218,
+              303,
+              181,
+              118
+            ],
+            "fit": "none",
+            "sha256": "976f78d821d19c08b91f075d3976b9fedb39f6b10f513e6314ce7c0b71b6e1da"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/shaolin/07-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "e22be7bf7a1eec335817decaa3b72a6b098a4f06b6fe6303a788ceb62a3c25ee"
+          }
+        },
+        {
+          "level": 8,
+          "gag": "禅杖叮当响，最后一片叶子还不肯走。",
+          "hat": null,
+          "cape": {
+            "src": "/wardrobe/v4/shaolin/08-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "3349a6230e1f0157a59c3f3aa832f04c3fbde1dedfb435e775a3a69954d99b2b"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/shaolin/08-cape.png",
+            "rect": [
+              218,
+              303,
+              181,
+              118
+            ],
+            "fit": "none",
+            "sha256": "3349a6230e1f0157a59c3f3aa832f04c3fbde1dedfb435e775a3a69954d99b2b"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/shaolin/08-prop.png",
+            "rect": [
+              42,
+              73,
+              115,
+              274
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "52889b97f439fe10ba332cfdd140d9362cb927d68437954c7c93e9f8db9fc460"
+          }
+        },
+        {
+          "level": 9,
+          "gag": "袈裟再隆重，也给最后一片叶子留个坐垫。",
+          "hat": null,
+          "cape": {
+            "src": "/wardrobe/v4/shaolin/09-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "4be6a02c43b176e56acf8442ea0d79e3d320a2b0490779bab3da6b0e8de43b18"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/shaolin/09-cape.png",
+            "rect": [
+              218,
+              303,
+              181,
+              118
+            ],
+            "fit": "none",
+            "sha256": "4be6a02c43b176e56acf8442ea0d79e3d320a2b0490779bab3da6b0e8de43b18"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/shaolin/09-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "f12ef0036f1f71cbe162fa327e0267005dea4766436770492c8fdf54a4ef3401"
+          }
+        }
+      ]
+    },
+    "emperor": {
+      "levels": [
+        {
+          "level": 1,
+          "gag": "饭碗欠条塞满文袋",
+          "hat": {
+            "src": "/wardrobe/v4/emperor/01-hat.png",
+            "rect": [
+              227.2,
+              120.161,
+              355,
+              289.034
+            ],
+            "fit": "none",
+            "sha256": "ec5c2c1890687718746b26cf37ea9716377ddd0f55c4b8d64f36a840983bbeea"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/emperor/01-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "8eb3643e36eb241982d998ecd0c330fe96a7e589cc1438a42ba2d3b1bea53e40"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/emperor/01-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "8eb3643e36eb241982d998ecd0c330fe96a7e589cc1438a42ba2d3b1bea53e40"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/emperor/01-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "54ae5ca6fd21773bfb941b9f5bcd83c57a44baf0b49994a46bb68db97e0df072"
+          }
+        },
+        {
+          "level": 2,
+          "gag": "墨点像一条鱼",
+          "hat": {
+            "src": "/wardrobe/v4/emperor/02-hat.png",
+            "rect": [
+              164,
+              16,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "bb81bfda3c1e782158de77b4d837698edf88844cbaf91dd2503a975c7261bea8"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/emperor/02-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "7fc75cd0e46eb0d210b1724c11d99a08b4bce4fdc7375492f6afd40110970fae"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/emperor/02-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "7fc75cd0e46eb0d210b1724c11d99a08b4bce4fdc7375492f6afd40110970fae"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/emperor/02-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "ece9c78b58a5e6b31c46594de5e27ba87a92dd88b95d51148cec57abb832c5cb"
+          }
+        },
+        {
+          "level": 3,
+          "gag": "鱼印歪在纸堆上",
+          "hat": {
+            "src": "/wardrobe/v4/emperor/03-hat.png",
+            "rect": [
+              164,
+              22,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "66d94a34267ad693eae3be4db024eeead3bccc3e2505627b5aca58dc7472bf3f"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/emperor/03-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "c1aa04cb99dd278fd6351d14ee01fbb33c8a7600dc1a3a3033128fd92e3fa5d0"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/emperor/03-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "c1aa04cb99dd278fd6351d14ee01fbb33c8a7600dc1a3a3033128fd92e3fa5d0"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/emperor/03-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "b2f9ea499a53775e14ac295c86d09f3ab4c3ae3d13447a25a2b6c6dff18cc955"
+          }
+        },
+        {
+          "level": 4,
+          "gag": "卷轴变茶杯托",
+          "hat": {
+            "src": "/wardrobe/v4/emperor/04-hat.png",
+            "rect": [
+              164,
+              17,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "db02e7668344c7602ee7b46bbfa12515ba3aab3e6202ad0e958cc5092ab2a392"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/emperor/04-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "6d3c9e85fd5977a73c54977ae23af3747aa644e8e4f88b0ea3178b819c9e8f1f"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/emperor/04-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "6d3c9e85fd5977a73c54977ae23af3747aa644e8e4f88b0ea3178b819c9e8f1f"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/emperor/04-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "c407eaac9a585288264cdf93c0bc76ec735924c1daafd618a7270351252661c8"
+          }
+        },
+        {
+          "level": 5,
+          "gag": "厚公文夹着大饼",
+          "hat": {
+            "src": "/wardrobe/v4/emperor/05-hat.png",
+            "rect": [
+              164,
+              16,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "c107b8f6473f571c3ab821f38c36b73fc08fcec265e71524e950d60af8b0a65a"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/emperor/05-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "59ab9561d9907ee42419f2f3a97eca7b1635cec5f9fb54d3c780acf5e9a2968c"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/emperor/05-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "59ab9561d9907ee42419f2f3a97eca7b1635cec5f9fb54d3c780acf5e9a2968c"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/emperor/05-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "17819d3971323bba3d001accd782d3af842168044bc60f05695301f8c9814e06"
+          }
+        },
+        {
+          "level": 6,
+          "gag": "礼珠量零食罐",
+          "hat": {
+            "src": "/wardrobe/v4/emperor/06-hat.png",
+            "rect": [
+              164,
+              18,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "312e61086d34c3706dd07da531b632dd20cd616d389819e0f309f249808ba5c3"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/emperor/06-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "ce26432ca012bcdc873cdda456055bc207972d2d33451eab48af7262611d823b"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/emperor/06-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "ce26432ca012bcdc873cdda456055bc207972d2d33451eab48af7262611d823b"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/emperor/06-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "1456a2ae5234413920781386ad5c8dc11320135e1b0c76158b1cd6387fc8960d"
+          }
+        },
+        {
+          "level": 7,
+          "gag": "鱼印把纸粘成一串",
+          "hat": {
+            "src": "/wardrobe/v4/emperor/07-hat.png",
+            "rect": [
+              164,
+              15,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "4703c3e84c22b1f78a2a251553bab375974a372320f89ae059ead80a8715b1f7"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/emperor/07-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "5d11368c1b2369d8b91c931d30b3c0f60070b266bee0474c6e8b9d672f91396c"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/emperor/07-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "5d11368c1b2369d8b91c931d30b3c0f60070b266bee0474c6e8b9d672f91396c"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/emperor/07-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "5a61549f4e7cfe05d06ee03351f9c4e6da0af6820f84c4e39086e580299cef69"
+          }
+        },
+        {
+          "level": 8,
+          "gag": "茶歇占据整张日程",
+          "hat": {
+            "src": "/wardrobe/v4/emperor/08-hat.png",
+            "rect": [
+              164,
+              17,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "415fdb595ff6af960cbb11876dcf62c12b80192fcc30ed13b0b2a8ef3cfdc2d5"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/emperor/08-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "2db786e7c419988eeb459cd2e78489c11aa0ff75bb62f27e87d546e39981e15d"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/emperor/08-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "2db786e7c419988eeb459cd2e78489c11aa0ff75bb62f27e87d546e39981e15d"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/emperor/08-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "e68e0efee252b09424deca1628442a0e8a2510090ecb6de4c244a812693a6eaf"
+          }
+        },
+        {
+          "level": 9,
+          "gag": "奏折山还在申请加饼",
+          "hat": {
+            "src": "/wardrobe/v4/emperor/09-hat.png",
+            "rect": [
+              164,
+              16,
+              363,
+              270
+            ],
+            "fit": "xMidYMax meet",
+            "sha256": "e15219f27fab35857b1ad9aa3f79445c3012d40b89c4cc3027d60ea1e9056851"
+          },
+          "cape": {
+            "src": "/wardrobe/v4/emperor/09-cape.png",
+            "rect": [
+              147,
+              258,
+              430,
+              198
+            ],
+            "fit": "none",
+            "sha256": "374d5993a36a8a547bfcc52a9890267a68688ac0a2433c7897cee5d4d95bf149"
+          },
+          "robe": {
+            "src": "/wardrobe/v4/emperor/09-cape.png",
+            "rect": [
+              208,
+              290,
+              185,
+              116
+            ],
+            "fit": "none",
+            "sha256": "374d5993a36a8a547bfcc52a9890267a68688ac0a2433c7897cee5d4d95bf149"
+          },
+          "prop": {
+            "src": "/wardrobe/v4/emperor/09-prop.png",
+            "rect": [
+              17,
+              160,
+              175,
+              195
+            ],
+            "fit": "xMidYMid meet",
+            "sha256": "7bbd9fa1a2219b02fcbec488bdc3d006e587028477c956f74dcebae32d44a9a8"
+          }
+        }
+      ]
+    }
+  }
+}

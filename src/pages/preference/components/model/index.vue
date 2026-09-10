@@ -9,6 +9,7 @@ import { useI18n } from 'vue-i18n'
 
 import type { Model } from '@/stores/model'
 
+import { useEmpireLocale } from '@/locales/empire'
 import { useCatStore } from '@/stores/cat'
 import { useModelStore } from '@/stores/model'
 import { join } from '@/utils/path'
@@ -16,6 +17,8 @@ import { join } from '@/utils/path'
 import BehaviorModal from './components/behavior-modal/index.vue'
 import FloatMenu from './components/float-menu/index.vue'
 import Upload from './components/upload/index.vue'
+
+const { tr } = useEmpireLocale()
 
 const catStore = useCatStore()
 const modelStore = useModelStore()
@@ -36,9 +39,10 @@ const masonryItems = computed(() => {
 })
 
 function handleToggle(nextModel: Model) {
+  catStore.model.interactionMode = nextModel.mode
   if (modelStore.currentModel?.id === nextModel.id) return
 
-  modelStore.modelReady = false
+  modelStore.modelReady = true
 
   modelStore.currentModel = nextModel
 }
@@ -63,6 +67,9 @@ async function handleDelete(item: Model) {
 </script>
 
 <template>
+  <p class="bg-purple-50 text-purple-900 mb-4 p-4 rounded-lg">
+    {{ tr('模型决定基础形象和设备布局；选择模型不会更改衣橱系列、已穿装扮或成长记录。“键盘＋触摸板”可在交互模式中选择。', 'Models define the base character and device layout. Changing models preserves your wardrobe, equipped outfit, and growth records. Choose Keyboard + trackpad under Interaction mode.') }}
+  </p>
   <Masonry
     :columns="{ xs: 3, lg: 4, xxl: 6 }"
     :gutter="16"

@@ -1,15 +1,46 @@
 <script setup lang="ts">
 import { Divider, Flex, InputNumber, Slider, SpaceAddon, SpaceCompact, Switch } from 'antdv-next'
 
+import type { InteractionMode } from '@/stores/cat'
+
 import ProListItem from '@/components/pro-list-item/index.vue'
 import ProList from '@/components/pro-list/index.vue'
+import { useEmpireLocale } from '@/locales/empire'
 import { useCatStore } from '@/stores/cat'
 import { isWindows } from '@/utils/platform'
+
+const { tr } = useEmpireLocale()
 
 const catStore = useCatStore()
 </script>
 
 <template>
+  <ProList :title="tr('交互模式', 'Interaction mode')">
+    <ProListItem
+      :description="tr('只切换输入设备和动作。装扮系列、等级和升级规则在衣橱中独立管理。', 'Choose an input device and its gestures. Outfits, levels, and growth rules are managed separately in the wardrobe.')"
+      :title="tr('输入设备', 'Input device')"
+    >
+      <select
+        :aria-label="tr('交互模式', 'Interaction mode')"
+        class="border-gray-300 border-solid px-3 py-2 border rounded-md"
+        :value="catStore.model.interactionMode"
+        @change="catStore.setInteractionMode(($event.target as HTMLSelectElement).value as InteractionMode)"
+      >
+        <option value="standard">
+          {{ tr('键盘＋鼠标', 'Keyboard + mouse') }}
+        </option>
+        <option value="keyboard">
+          {{ tr('双手键盘', 'Two-hand keyboard') }}
+        </option>
+        <option value="gamepad">
+          {{ tr('手柄', 'Gamepad') }}
+        </option>
+        <option value="trackpad">
+          {{ tr('键盘＋触摸板', 'Keyboard + trackpad') }}
+        </option>
+      </select>
+    </ProListItem>
+  </ProList>
   <ProList :title="$t('pages.preference.cat.labels.modelSettings')">
     <ProListItem
       :description="$t('pages.preference.cat.hints.mirrorMode')"
@@ -19,15 +50,15 @@ const catStore = useCatStore()
     </ProListItem>
 
     <ProListItem
-      :description="$t('pages.preference.cat.hints.mouseMirror')"
-      :title="$t('pages.preference.cat.labels.mouseMirror')"
+      :description="catStore.model.interactionMode === 'trackpad' ? tr('触摸板默认镜像跟随；开启此项可反转默认方向', 'The trackpad follows a mirrored direction by default. Turn this on to reverse it.') : tr('反转鼠标的横向跟随方向', 'Reverse horizontal mouse tracking.')"
+      :title="tr('指针方向镜像', 'Mirror pointer direction')"
     >
       <Switch v-model:checked="catStore.model.mouseMirror" />
     </ProListItem>
 
     <ProListItem
-      :description="$t('pages.preference.cat.hints.ignoreMouse')"
-      :title="$t('pages.preference.cat.labels.ignoreMouse')"
+      :description="tr('暂停鼠标和触摸板联动，键盘按键映射保持不变', 'Pause mouse and trackpad tracking while keeping keyboard mappings active.')"
+      :title="tr('忽略指针输入', 'Ignore pointer input')"
     >
       <Switch v-model:checked="catStore.model.ignoreMouse" />
     </ProListItem>
@@ -62,8 +93,8 @@ const catStore = useCatStore()
     </ProListItem>
 
     <ProListItem
-      :description="$t('pages.preference.cat.hints.maxFPS')"
-      :title="$t('pages.preference.cat.labels.maxFPS')"
+      :description="tr('限制鼠标或触摸板跟随的刷新频率，0 为不限；按键映射和成长计数不受影响。Live2D 模型同时限制渲染帧率。', 'Limit mouse and trackpad updates; 0 means unlimited. Key mappings and growth counts stay active. This also limits the rendering frame rate of Live2D models.')"
+      :title="tr('指针刷新上限', 'Pointer update limit')"
     >
       <InputNumber
         v-model:value="catStore.model.maxFPS"

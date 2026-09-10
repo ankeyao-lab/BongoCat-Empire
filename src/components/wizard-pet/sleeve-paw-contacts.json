@@ -1,0 +1,632 @@
+{
+  "/interaction-separated/standard/left-paws/Alt.png": {
+    "x": 474.042,
+    "contactY": 428,
+    "sourceSHA256": "304dcaa11d061cd4ed9a50bff613b7bd979272f1436de022d15834e458766704"
+  },
+  "/interaction-separated/standard/left-paws/AltGr.png": {
+    "x": 369.526,
+    "contactY": 405,
+    "sourceSHA256": "18e614cd7c426a460b9cdffe449fd9080aa288ee00e78fa7002aeef759fd4574"
+  },
+  "/interaction-separated/standard/left-paws/BackQuote.png": {
+    "x": 498.242,
+    "contactY": 505,
+    "sourceSHA256": "c276523701167e3738527d782d1fb55d75d302064cd730c20854f4d1cd4635a0"
+  },
+  "/interaction-separated/standard/left-paws/Backspace.png": {
+    "x": 275.465,
+    "contactY": 458,
+    "sourceSHA256": "5f35c01b9c0485660800e7d8cec8b5915e2ec8d475db06f587cb667614c7b143"
+  },
+  "/interaction-separated/standard/left-paws/CapsLock.png": {
+    "x": 499.532,
+    "contactY": 473,
+    "sourceSHA256": "6fa0d80039661270b3cc415bba18654702ff95b921b7e3718eedaff84a48fa41"
+  },
+  "/interaction-separated/standard/left-paws/Control.png": {
+    "x": 524.233,
+    "contactY": 446,
+    "sourceSHA256": "c7b3838e2ff2bc2a8595c2b042287a598574b2e5ffc426fb0904c8a0622c408a"
+  },
+  "/interaction-separated/standard/left-paws/ControlLeft.png": {
+    "x": 524.233,
+    "contactY": 446,
+    "sourceSHA256": "c7b3838e2ff2bc2a8595c2b042287a598574b2e5ffc426fb0904c8a0622c408a"
+  },
+  "/interaction-separated/standard/left-paws/ControlRight.png": {
+    "x": 343.322,
+    "contactY": 403,
+    "sourceSHA256": "dddf66f3e7f799da166dca00503cab3ab6f386ff20abe90dea34f6c91401e970"
+  },
+  "/interaction-separated/standard/left-paws/Delete.png": {
+    "x": 304.054,
+    "contactY": 443,
+    "sourceSHA256": "636da02da4b9c922d776391e0caa7b0a154f4df56f85ca131fd256f0b3a9bb03"
+  },
+  "/interaction-separated/standard/left-paws/Escape.png": {
+    "x": 482.715,
+    "contactY": 522,
+    "sourceSHA256": "39cc5f79aba88796188d5f5c14fad8ab426117bba4c143bfb77cc09592bdf7d1"
+  },
+  "/interaction-separated/standard/left-paws/Fn.png": {
+    "x": 449.235,
+    "contactY": 512,
+    "sourceSHA256": "147dd2ed7cc64d85e7a65cb2e75dc7e2b0687bbff4f5a6a5d199671e35a0f968"
+  },
+  "/interaction-separated/standard/left-paws/KeyA.png": {
+    "x": 473.679,
+    "contactY": 464,
+    "sourceSHA256": "6ca21e6d07b16f787993e83c2801f3db30775331607d8614487431a7d85ce41f"
+  },
+  "/interaction-separated/standard/left-paws/KeyB.png": {
+    "x": 407.546,
+    "contactY": 426,
+    "sourceSHA256": "8484a9120c979695dc5c110728f25222cb00dd1bade7f95d447d17ca6f9a9543"
+  },
+  "/interaction-separated/standard/left-paws/KeyC.png": {
+    "x": 429.244,
+    "contactY": 435,
+    "sourceSHA256": "3d578f4319a08d637589bd56c85fea579968eb3b0a0cb681dd29b30761414734"
+  },
+  "/interaction-separated/standard/left-paws/KeyD.png": {
+    "x": 438.906,
+    "contactY": 455,
+    "sourceSHA256": "76aa5190d9ec0005304aba1cdf1db10430b673f11e7c9225f4f9597e7867dfbd"
+  },
+  "/interaction-separated/standard/left-paws/KeyE.png": {
+    "x": 438.719,
+    "contactY": 469,
+    "sourceSHA256": "b2b7bc52e5ded95ebf836c53af775c251b82fbad24c8a160b984d709e76af5e7"
+  },
+  "/interaction-separated/standard/left-paws/KeyF.png": {
+    "x": 425.976,
+    "contactY": 452,
+    "sourceSHA256": "62656cee0dabdc9f82e2667ade12f372a4fc0535bc295fe23cfcc1d3b323de75"
+  },
+  "/interaction-separated/standard/left-paws/KeyG.png": {
+    "x": 404.591,
+    "contactY": 447,
+    "sourceSHA256": "5ed6060388f81cd11bf9cce6037c55bd902378c31982fb4323a1b82014989459"
+  },
+  "/interaction-separated/standard/left-paws/KeyH.png": {
+    "x": 383.142,
+    "contactY": 445,
+    "sourceSHA256": "817f957f699ab7475bc52a547db12ca66a54dc36097f5fe913ba3b08fb292a89"
+  },
+  "/interaction-separated/standard/left-paws/KeyI.png": {
+    "x": 354.894,
+    "contactY": 456,
+    "sourceSHA256": "cf4f76500e91c2cd275d5f0b192ad63c17138aea9ea09f914959b28d1200cbbe"
+  },
+  "/interaction-separated/standard/left-paws/KeyJ.png": {
+    "x": 377.41,
+    "contactY": 443,
+    "sourceSHA256": "fd39dd38dc542a5a4e72fbd49b1033ac20d06ea6b0caa966111554c994db593a"
+  },
+  "/interaction-separated/standard/left-paws/KeyK.png": {
+    "x": 361.619,
+    "contactY": 438,
+    "sourceSHA256": "228c68f1a50a9a95208a6a2ab1f494f5323591a5ee968853cac9b1c79a24d19b"
+  },
+  "/interaction-separated/standard/left-paws/KeyL.png": {
+    "x": 337.366,
+    "contactY": 434,
+    "sourceSHA256": "7c5b36812e49f77e93156b96a36dd356cadf1877b4534ec733e953c423994596"
+  },
+  "/interaction-separated/standard/left-paws/KeyM.png": {
+    "x": 386.981,
+    "contactY": 425,
+    "sourceSHA256": "6be6fc658e79288475ecda2b58c96f54f82be7b6e19e7c7c00450b78daacf8e9"
+  },
+  "/interaction-separated/standard/left-paws/KeyN.png": {
+    "x": 401.356,
+    "contactY": 426,
+    "sourceSHA256": "506796d2ef1c73ec003b6410ebbf9a972f8ca30e97e4df2ac68b39e8ef30da80"
+  },
+  "/interaction-separated/standard/left-paws/KeyO.png": {
+    "x": 334.252,
+    "contactY": 452,
+    "sourceSHA256": "af921cc5523937eed81ff6d6ed0867f306fa86f0f1c9fbda93db7eb0657da6c0"
+  },
+  "/interaction-separated/standard/left-paws/KeyP.png": {
+    "x": 315.596,
+    "contactY": 450,
+    "sourceSHA256": "c0aa33f6d1d1fdbf064cc2d8a8b5f92e694a685849c9984652d9c94b4ff6ba47"
+  },
+  "/interaction-separated/standard/left-paws/KeyQ.png": {
+    "x": 468.711,
+    "contactY": 483,
+    "sourceSHA256": "a72c501ba73f4556acf47ee6ddcec84b0c170124b0fa2ac77e113c7b59d5a791"
+  },
+  "/interaction-separated/standard/left-paws/KeyR.png": {
+    "x": 423.484,
+    "contactY": 466,
+    "sourceSHA256": "befff19199a5413e632033f250cbeede759e7112da69087671407fdf80c2b46b"
+  },
+  "/interaction-separated/standard/left-paws/KeyS.png": {
+    "x": 451.493,
+    "contactY": 460,
+    "sourceSHA256": "26734a86ece085c323141624dcd4588ee8106715db73691f54dfa2b723f6d8e7"
+  },
+  "/interaction-separated/standard/left-paws/KeyT.png": {
+    "x": 406.705,
+    "contactY": 462,
+    "sourceSHA256": "ad34fdc8a561697d53329981c7217ff32fa76ba4d53b3f1cb83e1588c5cbbe4e"
+  },
+  "/interaction-separated/standard/left-paws/KeyU.png": {
+    "x": 374.359,
+    "contactY": 455,
+    "sourceSHA256": "b919c1b613f8177b1a13d370e66f9fc660b76cff2621bbd5f24d55d0b0193f38"
+  },
+  "/interaction-separated/standard/left-paws/KeyV.png": {
+    "x": 421.611,
+    "contactY": 428,
+    "sourceSHA256": "892616091bf94eb854c11eafb7a2385c1b0061fceca4688409757fac39890cdb"
+  },
+  "/interaction-separated/standard/left-paws/KeyW.png": {
+    "x": 453.843,
+    "contactY": 475,
+    "sourceSHA256": "60cc34bc75da1868b8bed486093367ad45b9283cdf4e7bcf388fafcc15b5e7fc"
+  },
+  "/interaction-separated/standard/left-paws/KeyX.png": {
+    "x": 454.017,
+    "contactY": 441,
+    "sourceSHA256": "7ce72ef7dc5db3ddb14dcd8beaa004ca401f5541680167005b91f60c8725c07b"
+  },
+  "/interaction-separated/standard/left-paws/KeyY.png": {
+    "x": 389.172,
+    "contactY": 458,
+    "sourceSHA256": "6b8f1144630f6f0a08bca7adc05591c3183f547f3ad878f358f22dcd646fb2ec"
+  },
+  "/interaction-separated/standard/left-paws/KeyZ.png": {
+    "x": 467.01,
+    "contactY": 448,
+    "sourceSHA256": "d3fd0fda0fc861d6d446c753b7b6bc59aaabd2a9d93b703c4c7b778ad6e7f5f8"
+  },
+  "/interaction-separated/standard/left-paws/Meta.png": {
+    "x": 494.495,
+    "contactY": 434,
+    "sourceSHA256": "a85b6e507b369d7d21cb37d94f7a0e874317fa68a3d10e376877f34d495110c4"
+  },
+  "/interaction-separated/standard/left-paws/Num0.png": {
+    "x": 313.255,
+    "contactY": 457,
+    "sourceSHA256": "9f82ec474b1fdadb272fad480664651d3c6f89e7b5b52ddbbe1bbc68f1e856fe"
+  },
+  "/interaction-separated/standard/left-paws/Num1.png": {
+    "x": 479.491,
+    "contactY": 499,
+    "sourceSHA256": "d1df8f7886bf2202c72dbdf17a77c9c9bc535440da4793344be37609d80b3c07"
+  },
+  "/interaction-separated/standard/left-paws/Num2.png": {
+    "x": 457.949,
+    "contactY": 493,
+    "sourceSHA256": "291275cb0e9c9afc3517a699e9acede837c3f0efcf7fd70eaf99b44b4cc08bd3"
+  },
+  "/interaction-separated/standard/left-paws/Num3.png": {
+    "x": 454.003,
+    "contactY": 494,
+    "sourceSHA256": "7c9041f8a9375ac9d3bb7b1a1748364d8e48d8fce93ff2043ad1dc46e8d06ce9"
+  },
+  "/interaction-separated/standard/left-paws/Num4.png": {
+    "x": 422.589,
+    "contactY": 483,
+    "sourceSHA256": "9bb93b9c882b3ea01c278e1cfb97f52345c98b23b833cc31706b9906a4c4f391"
+  },
+  "/interaction-separated/standard/left-paws/Num5.png": {
+    "x": 399.831,
+    "contactY": 476,
+    "sourceSHA256": "f433e92d4d6d192a4f4068d62d71f83b32951d874a8c032549119637c6f1d4d7"
+  },
+  "/interaction-separated/standard/left-paws/Num6.png": {
+    "x": 380.007,
+    "contactY": 471,
+    "sourceSHA256": "aa129dbb46dab0796a3c657e84d2c640dd405b1dc6a44212b39ba9d0a78d70c8"
+  },
+  "/interaction-separated/standard/left-paws/Num7.png": {
+    "x": 362.158,
+    "contactY": 472,
+    "sourceSHA256": "c06c5e0d0af2a983e7264dc676131e06cf99330bf8811d1585f49f12aa84acfc"
+  },
+  "/interaction-separated/standard/left-paws/Num8.png": {
+    "x": 339.759,
+    "contactY": 466,
+    "sourceSHA256": "482dabc8a3e0e8fc74ab3b47906fc56ced074a624e82264bb6e4ea78f22bcccd"
+  },
+  "/interaction-separated/standard/left-paws/Num9.png": {
+    "x": 322.377,
+    "contactY": 462,
+    "sourceSHA256": "1ee38568519103b97c64af61eab512ae33cc868f9cd541d3b57e91fdfc5bad03"
+  },
+  "/interaction-separated/standard/left-paws/Return.png": {
+    "x": 320.185,
+    "contactY": 438,
+    "sourceSHA256": "db6c4810f08dbbaba9a038987c09c8812e1a69571bad32523b53f6575bc0b0e9"
+  },
+  "/interaction-separated/standard/left-paws/Shift.png": {
+    "x": 504.488,
+    "contactY": 455,
+    "sourceSHA256": "0d9373159cd885e2a28aab2810492e853fe54da395e86cc6c02d5f4394d76b50"
+  },
+  "/interaction-separated/standard/left-paws/ShiftLeft.png": {
+    "x": 504.488,
+    "contactY": 455,
+    "sourceSHA256": "0d9373159cd885e2a28aab2810492e853fe54da395e86cc6c02d5f4394d76b50"
+  },
+  "/interaction-separated/standard/left-paws/ShiftRight.png": {
+    "x": 331.765,
+    "contactY": 412,
+    "sourceSHA256": "a4d2a5e4d932be07db3ddc6550e994d3b37a2a0f73ae3ec068552ee3d6c7ddf8"
+  },
+  "/interaction-separated/standard/left-paws/Slash.png": {
+    "x": 389.827,
+    "contactY": 428,
+    "sourceSHA256": "ae7e5a9ba2b808f06a1b04ea45e3680d4503b4945c73d2d02b007baddc42f574"
+  },
+  "/interaction-separated/standard/left-paws/Space.png": {
+    "x": 428.783,
+    "contactY": 416,
+    "sourceSHA256": "8462ab4903ff4d4fec1732c1a684c8777d5db604492d6502b0bfde2e9dcb5403"
+  },
+  "/interaction-separated/standard/left-paws/Tab.png": {
+    "x": 496.641,
+    "contactY": 483,
+    "sourceSHA256": "f4847c1ad95e1e8e082eea0a38359e2d6663fb0bd396039482cdcc879ea9b812"
+  },
+  "/interaction-separated/keyboard/left-paws/Alt.png": {
+    "x": 474.042,
+    "contactY": 428,
+    "sourceSHA256": "304dcaa11d061cd4ed9a50bff613b7bd979272f1436de022d15834e458766704"
+  },
+  "/interaction-separated/keyboard/left-paws/AltGr.png": {
+    "x": 369.526,
+    "contactY": 405,
+    "sourceSHA256": "18e614cd7c426a460b9cdffe449fd9080aa288ee00e78fa7002aeef759fd4574"
+  },
+  "/interaction-separated/keyboard/left-paws/BackQuote.png": {
+    "x": 498.242,
+    "contactY": 505,
+    "sourceSHA256": "c276523701167e3738527d782d1fb55d75d302064cd730c20854f4d1cd4635a0"
+  },
+  "/interaction-separated/keyboard/left-paws/Backspace.png": {
+    "x": 275.465,
+    "contactY": 458,
+    "sourceSHA256": "5f35c01b9c0485660800e7d8cec8b5915e2ec8d475db06f587cb667614c7b143"
+  },
+  "/interaction-separated/keyboard/left-paws/CapsLock.png": {
+    "x": 499.532,
+    "contactY": 473,
+    "sourceSHA256": "6fa0d80039661270b3cc415bba18654702ff95b921b7e3718eedaff84a48fa41"
+  },
+  "/interaction-separated/keyboard/left-paws/Control.png": {
+    "x": 524.233,
+    "contactY": 446,
+    "sourceSHA256": "c7b3838e2ff2bc2a8595c2b042287a598574b2e5ffc426fb0904c8a0622c408a"
+  },
+  "/interaction-separated/keyboard/left-paws/ControlLeft.png": {
+    "x": 524.233,
+    "contactY": 446,
+    "sourceSHA256": "c7b3838e2ff2bc2a8595c2b042287a598574b2e5ffc426fb0904c8a0622c408a"
+  },
+  "/interaction-separated/keyboard/left-paws/ControlRight.png": {
+    "x": 343.322,
+    "contactY": 403,
+    "sourceSHA256": "dddf66f3e7f799da166dca00503cab3ab6f386ff20abe90dea34f6c91401e970"
+  },
+  "/interaction-separated/keyboard/left-paws/Delete.png": {
+    "x": 304.054,
+    "contactY": 443,
+    "sourceSHA256": "636da02da4b9c922d776391e0caa7b0a154f4df56f85ca131fd256f0b3a9bb03"
+  },
+  "/interaction-separated/keyboard/left-paws/Escape.png": {
+    "x": 482.715,
+    "contactY": 522,
+    "sourceSHA256": "39cc5f79aba88796188d5f5c14fad8ab426117bba4c143bfb77cc09592bdf7d1"
+  },
+  "/interaction-separated/keyboard/left-paws/Fn.png": {
+    "x": 449.235,
+    "contactY": 512,
+    "sourceSHA256": "147dd2ed7cc64d85e7a65cb2e75dc7e2b0687bbff4f5a6a5d199671e35a0f968"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyA.png": {
+    "x": 473.679,
+    "contactY": 464,
+    "sourceSHA256": "6ca21e6d07b16f787993e83c2801f3db30775331607d8614487431a7d85ce41f"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyB.png": {
+    "x": 407.546,
+    "contactY": 426,
+    "sourceSHA256": "8484a9120c979695dc5c110728f25222cb00dd1bade7f95d447d17ca6f9a9543"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyC.png": {
+    "x": 429.244,
+    "contactY": 435,
+    "sourceSHA256": "3d578f4319a08d637589bd56c85fea579968eb3b0a0cb681dd29b30761414734"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyD.png": {
+    "x": 438.906,
+    "contactY": 455,
+    "sourceSHA256": "76aa5190d9ec0005304aba1cdf1db10430b673f11e7c9225f4f9597e7867dfbd"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyE.png": {
+    "x": 438.719,
+    "contactY": 469,
+    "sourceSHA256": "b2b7bc52e5ded95ebf836c53af775c251b82fbad24c8a160b984d709e76af5e7"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyF.png": {
+    "x": 425.976,
+    "contactY": 452,
+    "sourceSHA256": "62656cee0dabdc9f82e2667ade12f372a4fc0535bc295fe23cfcc1d3b323de75"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyG.png": {
+    "x": 404.591,
+    "contactY": 447,
+    "sourceSHA256": "5ed6060388f81cd11bf9cce6037c55bd902378c31982fb4323a1b82014989459"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyH.png": {
+    "x": 383.142,
+    "contactY": 445,
+    "sourceSHA256": "817f957f699ab7475bc52a547db12ca66a54dc36097f5fe913ba3b08fb292a89"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyI.png": {
+    "x": 354.894,
+    "contactY": 456,
+    "sourceSHA256": "cf4f76500e91c2cd275d5f0b192ad63c17138aea9ea09f914959b28d1200cbbe"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyJ.png": {
+    "x": 377.41,
+    "contactY": 443,
+    "sourceSHA256": "fd39dd38dc542a5a4e72fbd49b1033ac20d06ea6b0caa966111554c994db593a"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyK.png": {
+    "x": 361.619,
+    "contactY": 438,
+    "sourceSHA256": "228c68f1a50a9a95208a6a2ab1f494f5323591a5ee968853cac9b1c79a24d19b"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyL.png": {
+    "x": 337.366,
+    "contactY": 434,
+    "sourceSHA256": "7c5b36812e49f77e93156b96a36dd356cadf1877b4534ec733e953c423994596"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyM.png": {
+    "x": 386.981,
+    "contactY": 425,
+    "sourceSHA256": "6be6fc658e79288475ecda2b58c96f54f82be7b6e19e7c7c00450b78daacf8e9"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyN.png": {
+    "x": 401.356,
+    "contactY": 426,
+    "sourceSHA256": "506796d2ef1c73ec003b6410ebbf9a972f8ca30e97e4df2ac68b39e8ef30da80"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyO.png": {
+    "x": 334.252,
+    "contactY": 452,
+    "sourceSHA256": "af921cc5523937eed81ff6d6ed0867f306fa86f0f1c9fbda93db7eb0657da6c0"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyP.png": {
+    "x": 315.596,
+    "contactY": 450,
+    "sourceSHA256": "c0aa33f6d1d1fdbf064cc2d8a8b5f92e694a685849c9984652d9c94b4ff6ba47"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyQ.png": {
+    "x": 468.711,
+    "contactY": 483,
+    "sourceSHA256": "a72c501ba73f4556acf47ee6ddcec84b0c170124b0fa2ac77e113c7b59d5a791"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyR.png": {
+    "x": 423.484,
+    "contactY": 466,
+    "sourceSHA256": "befff19199a5413e632033f250cbeede759e7112da69087671407fdf80c2b46b"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyS.png": {
+    "x": 451.493,
+    "contactY": 460,
+    "sourceSHA256": "26734a86ece085c323141624dcd4588ee8106715db73691f54dfa2b723f6d8e7"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyT.png": {
+    "x": 406.705,
+    "contactY": 462,
+    "sourceSHA256": "ad34fdc8a561697d53329981c7217ff32fa76ba4d53b3f1cb83e1588c5cbbe4e"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyU.png": {
+    "x": 374.359,
+    "contactY": 455,
+    "sourceSHA256": "b919c1b613f8177b1a13d370e66f9fc660b76cff2621bbd5f24d55d0b0193f38"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyV.png": {
+    "x": 421.611,
+    "contactY": 428,
+    "sourceSHA256": "892616091bf94eb854c11eafb7a2385c1b0061fceca4688409757fac39890cdb"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyW.png": {
+    "x": 453.843,
+    "contactY": 475,
+    "sourceSHA256": "60cc34bc75da1868b8bed486093367ad45b9283cdf4e7bcf388fafcc15b5e7fc"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyX.png": {
+    "x": 454.017,
+    "contactY": 441,
+    "sourceSHA256": "7ce72ef7dc5db3ddb14dcd8beaa004ca401f5541680167005b91f60c8725c07b"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyY.png": {
+    "x": 389.172,
+    "contactY": 458,
+    "sourceSHA256": "6b8f1144630f6f0a08bca7adc05591c3183f547f3ad878f358f22dcd646fb2ec"
+  },
+  "/interaction-separated/keyboard/left-paws/KeyZ.png": {
+    "x": 467.01,
+    "contactY": 448,
+    "sourceSHA256": "d3fd0fda0fc861d6d446c753b7b6bc59aaabd2a9d93b703c4c7b778ad6e7f5f8"
+  },
+  "/interaction-separated/keyboard/left-paws/Meta.png": {
+    "x": 494.495,
+    "contactY": 434,
+    "sourceSHA256": "a85b6e507b369d7d21cb37d94f7a0e874317fa68a3d10e376877f34d495110c4"
+  },
+  "/interaction-separated/keyboard/left-paws/Num0.png": {
+    "x": 313.255,
+    "contactY": 457,
+    "sourceSHA256": "9f82ec474b1fdadb272fad480664651d3c6f89e7b5b52ddbbe1bbc68f1e856fe"
+  },
+  "/interaction-separated/keyboard/left-paws/Num1.png": {
+    "x": 479.491,
+    "contactY": 499,
+    "sourceSHA256": "d1df8f7886bf2202c72dbdf17a77c9c9bc535440da4793344be37609d80b3c07"
+  },
+  "/interaction-separated/keyboard/left-paws/Num2.png": {
+    "x": 457.949,
+    "contactY": 493,
+    "sourceSHA256": "291275cb0e9c9afc3517a699e9acede837c3f0efcf7fd70eaf99b44b4cc08bd3"
+  },
+  "/interaction-separated/keyboard/left-paws/Num3.png": {
+    "x": 454.003,
+    "contactY": 494,
+    "sourceSHA256": "7c9041f8a9375ac9d3bb7b1a1748364d8e48d8fce93ff2043ad1dc46e8d06ce9"
+  },
+  "/interaction-separated/keyboard/left-paws/Num4.png": {
+    "x": 422.589,
+    "contactY": 483,
+    "sourceSHA256": "9bb93b9c882b3ea01c278e1cfb97f52345c98b23b833cc31706b9906a4c4f391"
+  },
+  "/interaction-separated/keyboard/left-paws/Num5.png": {
+    "x": 399.831,
+    "contactY": 476,
+    "sourceSHA256": "f433e92d4d6d192a4f4068d62d71f83b32951d874a8c032549119637c6f1d4d7"
+  },
+  "/interaction-separated/keyboard/left-paws/Num6.png": {
+    "x": 380.007,
+    "contactY": 471,
+    "sourceSHA256": "aa129dbb46dab0796a3c657e84d2c640dd405b1dc6a44212b39ba9d0a78d70c8"
+  },
+  "/interaction-separated/keyboard/left-paws/Num7.png": {
+    "x": 362.158,
+    "contactY": 472,
+    "sourceSHA256": "c06c5e0d0af2a983e7264dc676131e06cf99330bf8811d1585f49f12aa84acfc"
+  },
+  "/interaction-separated/keyboard/left-paws/Num8.png": {
+    "x": 339.759,
+    "contactY": 466,
+    "sourceSHA256": "482dabc8a3e0e8fc74ab3b47906fc56ced074a624e82264bb6e4ea78f22bcccd"
+  },
+  "/interaction-separated/keyboard/left-paws/Num9.png": {
+    "x": 322.377,
+    "contactY": 462,
+    "sourceSHA256": "1ee38568519103b97c64af61eab512ae33cc868f9cd541d3b57e91fdfc5bad03"
+  },
+  "/interaction-separated/keyboard/left-paws/Return.png": {
+    "x": 320.185,
+    "contactY": 438,
+    "sourceSHA256": "db6c4810f08dbbaba9a038987c09c8812e1a69571bad32523b53f6575bc0b0e9"
+  },
+  "/interaction-separated/keyboard/left-paws/Shift.png": {
+    "x": 504.488,
+    "contactY": 455,
+    "sourceSHA256": "0d9373159cd885e2a28aab2810492e853fe54da395e86cc6c02d5f4394d76b50"
+  },
+  "/interaction-separated/keyboard/left-paws/ShiftLeft.png": {
+    "x": 504.488,
+    "contactY": 455,
+    "sourceSHA256": "0d9373159cd885e2a28aab2810492e853fe54da395e86cc6c02d5f4394d76b50"
+  },
+  "/interaction-separated/keyboard/left-paws/ShiftRight.png": {
+    "x": 331.765,
+    "contactY": 412,
+    "sourceSHA256": "a4d2a5e4d932be07db3ddc6550e994d3b37a2a0f73ae3ec068552ee3d6c7ddf8"
+  },
+  "/interaction-separated/keyboard/left-paws/Slash.png": {
+    "x": 389.827,
+    "contactY": 428,
+    "sourceSHA256": "ae7e5a9ba2b808f06a1b04ea45e3680d4503b4945c73d2d02b007baddc42f574"
+  },
+  "/interaction-separated/keyboard/left-paws/Space.png": {
+    "x": 428.783,
+    "contactY": 416,
+    "sourceSHA256": "8462ab4903ff4d4fec1732c1a684c8777d5db604492d6502b0bfde2e9dcb5403"
+  },
+  "/interaction-separated/keyboard/left-paws/Tab.png": {
+    "x": 496.641,
+    "contactY": 483,
+    "sourceSHA256": "f4847c1ad95e1e8e082eea0a38359e2d6663fb0bd396039482cdcc879ea9b812"
+  },
+  "/interaction-separated/keyboard/right-paws/DownArrow.png": {
+    "x": 165.8,
+    "contactY": 408,
+    "sourceSHA256": "b2785ddf74fd5401e4ecf3da23dba72c99dd91200754f81da743a6ba9628e345"
+  },
+  "/interaction-separated/keyboard/right-paws/LeftArrow.png": {
+    "x": 195.44,
+    "contactY": 413,
+    "sourceSHA256": "0618991324b805c382af49f6257694a7c92e79aaf6d2651ddec2805551dcaf43"
+  },
+  "/interaction-separated/keyboard/right-paws/RightArrow.png": {
+    "x": 138.573,
+    "contactY": 402,
+    "sourceSHA256": "853eb5935c696bdc04caeba6517d4203a570556dac0cfc4e0f8734d68d68ad4a"
+  },
+  "/interaction-separated/keyboard/right-paws/UpArrow.png": {
+    "x": 141.752,
+    "contactY": 428,
+    "sourceSHA256": "e838233353e97a1e682d4a4d8e0bc1fc7dd6503b4dc07306b355cc5b5ead9775"
+  },
+  "/interaction-separated/gamepad/left-paws/DPadDown.png": {
+    "x": 381.982,
+    "contactY": 437,
+    "sourceSHA256": "afd0fa8f8d8abe02c8950fd1f2f2c8fb7e5183e42e6a2b93402e75f6e91496a4"
+  },
+  "/interaction-separated/gamepad/left-paws/DPadLeft.png": {
+    "x": 396.489,
+    "contactY": 456,
+    "sourceSHA256": "50d48b5a1736b0606e72cf63320f04f734f93d3e6c4e8127fdb83063ec837bf9"
+  },
+  "/interaction-separated/gamepad/left-paws/DPadRight.png": {
+    "x": 365.618,
+    "contactY": 441,
+    "sourceSHA256": "42e5decbb2d9408661ff11a5af3b587e13ef633886df5d003d75bbc2c2d8f5e5"
+  },
+  "/interaction-separated/gamepad/left-paws/DPadUp.png": {
+    "x": 367.92,
+    "contactY": 457,
+    "sourceSHA256": "e1d12806a2e14239733ad38b2a02197ac428302a308494f5b59bb22c5585e300"
+  },
+  "/interaction-separated/gamepad/left-paws/LeftTrigger.png": {
+    "x": 366.78,
+    "contactY": 491,
+    "sourceSHA256": "0a00d290e75c8c4d038a0dd217048d88eeeb2686750aae0a79d84aebd0156325"
+  },
+  "/interaction-separated/gamepad/left-paws/LeftTrigger2.png": {
+    "x": 327.614,
+    "contactY": 486,
+    "sourceSHA256": "c28e9215ef62d6e90fe94d68552f17215234ec334718aa31327c65dd7caae142"
+  },
+  "/interaction-separated/gamepad/right-paws/East.png": {
+    "x": 168.051,
+    "contactY": 402,
+    "sourceSHA256": "2f5f84384636e300a284359dd20029b625ae2a4a518a923980305e337299ac17"
+  },
+  "/interaction-separated/gamepad/right-paws/North.png": {
+    "x": 171.221,
+    "contactY": 428,
+    "sourceSHA256": "f1e4b9d710674df4b5cf164a7355deae2fa14b7e405f028f69773b063932c7e1"
+  },
+  "/interaction-separated/gamepad/right-paws/RightTrigger.png": {
+    "x": 145.394,
+    "contactY": 449,
+    "sourceSHA256": "cf19eba16c13e33397197205dace4054d77e6f26aa951358df0d6b9ac587f2be"
+  },
+  "/interaction-separated/gamepad/right-paws/RightTrigger2.png": {
+    "x": 177.164,
+    "contactY": 458,
+    "sourceSHA256": "a53ad9f386bb07a9c48aa2ae340e08ece1f41562e898475f606073ea1a18091f"
+  },
+  "/interaction-separated/gamepad/right-paws/South.png": {
+    "x": 199.946,
+    "contactY": 394,
+    "sourceSHA256": "598f6e931a19954c5d93c194b3a764f5a53c00915c2711d8ccf1bf879c4d7e19"
+  },
+  "/interaction-separated/gamepad/right-paws/West.png": {
+    "x": 216.004,
+    "contactY": 415,
+    "sourceSHA256": "1b3dd2d6ffe8cd71acd9f98ca0d0124c95c6499b89ad92d8220f3958054dd325"
+  }
+}

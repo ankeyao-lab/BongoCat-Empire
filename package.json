@@ -1,7 +1,7 @@
 {
-  "name": "bongo-cat",
+  "name": "bongocat-empire",
   "type": "module",
-  "version": "1.1.0",
+  "version": "1.8.1",
   "private": true,
   "author": {
     "name": "ayangweb",
@@ -84,5 +84,7 @@
   },
   "lint-staged": {
     "*": "eslint --fix"
-  }
+  },
+  "description": "BongoCat Empire: nine-level wardrobes with local growth and keyboard/trackpad feedback",
+  "packageManager": "pnpm@11.19.0"
 }

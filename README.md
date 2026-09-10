@@ -1,3 +1,25 @@
+# BongoCat Empire
+
+macOS desktop companion with twelve wardrobe themes, nine collectible levels per theme, local growth tracking, and Chinese / English settings. This is an independent macOS-focused distribution built from [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) under its MIT license.
+
+## BongoCat Empire 1.8.1
+
+- 12 themes × 9 levels: 108 outfits with full Chinese and English copy.
+- New "Road to the Throne" Emperor logo and the BongoCat Empire product name.
+- Compact desktop surface aligned to the cat's chest and input devices.
+- Keyboard, mouse, trackpad, and gamepad interaction modes; only valid non-modifier key presses add local growth.
+- Language selection persists across app restart. No account or network connection is required.
+
+### Download and install
+
+The `empire-v1.8.1` GitHub Release provides `BongoCat-Empire-1.8.1-macos-arm64.zip` for Apple Silicon Macs. Unzip it, move **BongoCat Empire.app** to Applications, then enable **BongoCat Empire** in **System Settings → Privacy & Security → Input Monitoring**.
+
+The app bundle is ad-hoc signed and is not notarized. macOS may require you to open it from Finder with Control-click → Open on the first launch. The release asset's SHA-256 is published alongside the download.
+
+See [RELEASE_NOTES.md](RELEASE_NOTES.md) for the 1.8.1 scope and validation record. The original upstream documentation follows.
+
+---
+
 ![BongoCat](https://socialify.git.ci/ayangweb/BongoCat/image?custom_description=&description=1&font=Source+Code+Pro&forks=1&issues=1&logo=https%3A%2F%2Fgithub.com%2Fayangweb%2FBongoCat%2Fblob%2Fmaster%2Fsrc-tauri%2Fassets%2Flogo-mac.png%3Fraw%3Dtrue&name=1&owner=1&pattern=Floating+Cogs&pulls=1&stargazers=1&theme=Auto)
 
 <div align="center">

@@ -1,0 +1,5861 @@
+{
+  "schemaVersion": 1,
+  "themes": {
+    "wizard": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v6/wizard/01-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wizard/01-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wizard/01-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 181.218,
+            "y": 365.316
+          },
+          "keyboard": {
+            "x": 458.439,
+            "y": 406.778
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.73,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.48,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "d2c9752424fe65d1d58e6fbda4096a1d5bf1f7137072929528175b8e64f48159",
+        "bodySHA256": "ab58d39fdd9d54f52e51d1a4cd734b54161d761ccd5185a672f02dfd82c8096d",
+        "sourceTransform": [
+          0.4825088453656914,
+          0.0009614772737049204,
+          -0.5755151869064434,
+          3.819504171745166
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v6/wizard/02-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wizard/02-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wizard/02-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 177.495,
+            "y": 366.516
+          },
+          "keyboard": {
+            "x": 458.503,
+            "y": 408.673
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.19,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.0,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "e95ef5d47e6ac69fec89fd734564d7125ec841f89dbe2d86ef980a988563d594",
+        "bodySHA256": "1d36d32baac75415ad7bd03945cb1c0524e2b0f3d18b67d990db83cbb908ffd2",
+        "sourceTransform": [
+          0.48609678122792077,
+          -0.001341477775032505,
+          -5.9765186957736205,
+          2.581398695989037
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v6/wizard/03-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wizard/03-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wizard/03-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 180.591,
+            "y": 365.449
+          },
+          "keyboard": {
+            "x": 460.903,
+            "y": 411.807
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.82,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.58,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "c277c1a3d8b76de67f99ad9bd148ddbbf682f276c32d09f246a5b71e8502e263",
+        "bodySHA256": "adb4fcec92d457fc8c270abdfc08b3097cfbfe4c22a23c0eb8ebe673cd525aa5",
+        "sourceTransform": [
+          0.48321395883235746,
+          0.001018206471908168,
+          -0.47270531856486286,
+          2.8667358842253066
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v6/wizard/04-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wizard/04-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wizard/04-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 169.533,
+            "y": 363.21
+          },
+          "keyboard": {
+            "x": 447.486,
+            "y": 406.486
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.27,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.97,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "c4ad40650d6d7d65115bba6792ec239f32a087258875a6db4d6272c655539f05",
+        "bodySHA256": "97d61dd1761acc10a5886d4842dce5fdaa359e8842ca52ca1f8999974e5d23a8",
+        "sourceTransform": [
+          0.47897021082718455,
+          0.001970864511649012,
+          -8.311340814415189,
+          4.912997140074765
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v6/wizard/05-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.97545,
+        "cuffFront": "/wardrobe/v6/wizard/05-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wizard/05-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 181.699,
+            "y": 365.401
+          },
+          "keyboard": {
+            "x": 457.796,
+            "y": 406.211
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.35,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.06,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "46fe128c8915f1921a6f1c3342a6eb11aca3664fad946c5c0a02fcd62adef476",
+        "bodySHA256": "0e8ea6b5cf823ddf3bdfd76170988f9510017dc4dd107e09c3bb2d6cc3bfb32b",
+        "sourceTransform": [
+          0.47960248294049607,
+          -0.002712685833828019,
+          -1.305482404556983,
+          7.391922883469022
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v6/wizard/06-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wizard/06-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wizard/06-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 181.208,
+            "y": 363.889
+          },
+          "keyboard": {
+            "x": 459.066,
+            "y": 407.0
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.76,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.52,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "f00d8f86df57d087dbdbb84ebd9f73100e61b89a76afc2537d942e5ec5ae73a0",
+        "bodySHA256": "d3b11ffad2971418a9781ea3fd5a2d5b3862d05fe466923a30576e1a75b2070a",
+        "sourceTransform": [
+          0.4827960507648716,
+          0.0007197065467179652,
+          -0.3125336784464423,
+          3.0144048411268614
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 7,
+        "src": "/wardrobe/v6/wizard/07-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wizard/07-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wizard/07-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 182.679,
+            "y": 365.061
+          },
+          "keyboard": {
+            "x": 458.286,
+            "y": 404.263
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.12,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.81,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "638308a6c3593a11481d0cd4ba1ac043f73090d82000154ccad88bcc95928794",
+        "bodySHA256": "f6a8e12e3d123b23682ce354a752cf9042951529c6e817d9d0788aafe9154b03",
+        "sourceTransform": [
+          0.47781145324566804,
+          -0.005292854001429291,
+          -1.748719044175857,
+          10.212440945484161
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 8,
+        "src": "/wardrobe/v6/wizard/08-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/wizard/08-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wizard/08-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 162.384,
+            "y": 363.736
+          },
+          "keyboard": {
+            "x": 450.466,
+            "y": 411.884
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 64.55,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 71.5,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "a7876def7096b34ad4950de436d42e666a9d3e3b21d063634c1b3df3f68cd3f1",
+        "bodySHA256": "1e5a515301c9f9931b713862da5fd5e12edd19f1d6fb3986fcb240305eb4d6f4",
+        "sourceTransform": [
+          0.49649412656844405,
+          0.0034620647690951412,
+          -22.745912345164754,
+          -9.091385451004271
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 9,
+        "src": "/wardrobe/v6/wizard/09-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wizard/09-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wizard/09-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 173.753,
+            "y": 362.617
+          },
+          "keyboard": {
+            "x": 451.629,
+            "y": 406.347
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.46,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.19,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "d46bf524b7b10d344a0d60b440ae8473e339733e8aa2eb618c9fd3838f3ffe31",
+        "bodySHA256": "fa2ffc27387b89ecaad8f5cbcb897299ed0cfc3298ff781d86e964827f5325e1",
+        "sourceTransform": [
+          0.48049798103983266,
+          -0.0006410728385133106,
+          -11.020109447923858,
+          5.229825603080826
+        ],
+        "extraction": "v6-approved-alpha-only"
+      }
+    ],
+    "astronaut": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v6/astronaut/01-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/astronaut/01-cuff-front.png",
+        "faceMask": "/wardrobe/v6/astronaut/01-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 159.518,
+            "y": 378.831
+          },
+          "keyboard": {
+            "x": 448.562,
+            "y": 429.731
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 59.87,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 66.32,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "621d0cfb9cbdeba166c0d7921fdc2d81a612350cdf54a55700978bc1b8f5b084",
+        "bodySHA256": "2551ddb7ca66bdd0c2582fa529c52e6b2de3774a46828a35fb0b6a9b5ab83441",
+        "sourceTransform": [
+          0.46049518803263895,
+          0.007463964849425694,
+          -28.20419783985153,
+          61.066897070283915
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v6/astronaut/02-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/astronaut/02-cuff-front.png",
+        "faceMask": "/wardrobe/v6/astronaut/02-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 174.12,
+            "y": 363.595
+          },
+          "keyboard": {
+            "x": 456.797,
+            "y": 415.841
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.91,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.68,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "247693b214ffaa3ea12106840bb4a1872dcbc5749adab7c9a349a456ade15d50",
+        "bodySHA256": "e7d8bfe78e96a8791850a8e5453de3f8ae4ad184ce4ac4bd67f8262d291806e0",
+        "sourceTransform": [
+          0.4838871000587617,
+          0.0032523383400945636,
+          -3.6316093274510592,
+          1.8122297623183954
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v6/astronaut/03-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/astronaut/03-cuff-front.png",
+        "faceMask": "/wardrobe/v6/astronaut/03-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 159.357,
+            "y": 363.43
+          },
+          "keyboard": {
+            "x": 474.92,
+            "y": 421.374
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.16,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.85,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "8757aee7a671e41df24ca8e1cfb37602edd1c59c70988da61e25ec3aa9743ce3",
+        "bodySHA256": "f750c9e7b745e43373eda430fef80c77cf62a033a2c674984aa3cffe04fc22ab",
+        "sourceTransform": [
+          0.4780725285734065,
+          0.007926832748375951,
+          -32.49679484262816,
+          40.98631531054053
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v6/astronaut/04-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/astronaut/04-cuff-front.png",
+        "faceMask": "/wardrobe/v6/astronaut/04-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 153.539,
+            "y": 363.216
+          },
+          "keyboard": {
+            "x": 447.85,
+            "y": 419.38
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 60.42,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 66.92,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "d0e9697b54071ded27008a6421e2d0009ab437fe02ecddbbd2ca21ecf8791f31",
+        "bodySHA256": "96aadf68f38d04d58597002d13229c5f7713b0f0a92051ab68879aaf65423a07",
+        "sourceTransform": [
+          0.4645697542472466,
+          0.012358284447327832,
+          -57.526390114461094,
+          68.49916582064338
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v6/astronaut/05-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/astronaut/05-cuff-front.png",
+        "faceMask": "/wardrobe/v6/astronaut/05-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 163.519,
+            "y": 366.879
+          },
+          "keyboard": {
+            "x": 467.348,
+            "y": 417.427
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.6,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.34,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "f4d4169aeece10dde0cd23c2a48aae6f46825092e0b6e0ea275c611beb8b3c2d",
+        "bodySHA256": "977fa10fa491aed5c799391fb00ea34595d04d04b0e58bca6fa872211ad18034",
+        "sourceTransform": [
+          0.4814750724402237,
+          0.008002608577142984,
+          -27.112074727316497,
+          36.261232165533784
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v6/astronaut/06-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/astronaut/06-cuff-front.png",
+        "faceMask": "/wardrobe/v6/astronaut/06-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 158.958,
+            "y": 368.252
+          },
+          "keyboard": {
+            "x": 447.886,
+            "y": 412.774
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.16,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.85,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "ae6d6872e8becc1723d320ff77897295d0707fc8c27f32da1d0fb9df1592dbe9",
+        "bodySHA256": "7333bba00fd209fcb560e8987da019e7d20223d454bb4af768bbfdd270b3063c",
+        "sourceTransform": [
+          0.47811787724219773,
+          0.00500214225069724,
+          -60.217378758098675,
+          55.5399908055233
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 7,
+        "src": "/wardrobe/v6/astronaut/07-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/astronaut/07-cuff-front.png",
+        "faceMask": "/wardrobe/v6/astronaut/07-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 171.136,
+            "y": 369.722
+          },
+          "keyboard": {
+            "x": 464.291,
+            "y": 416.088
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 64.31,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 71.23,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "4f90f1294d1f1789f523b7fd2aad3ed146dede1209683e1ade7835d3591ff94e",
+        "bodySHA256": "039df6951068c0f8ada5f42a477ec6caf7bbce4dd9228f02e0e73c2b3050553f",
+        "sourceTransform": [
+          0.4946693364435565,
+          -0.0031446665272329122,
+          -14.578168099769925,
+          -0.036208515179964706
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 8,
+        "src": "/wardrobe/v6/astronaut/08-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/astronaut/08-cuff-front.png",
+        "faceMask": "/wardrobe/v6/astronaut/08-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 160.051,
+            "y": 359.798
+          },
+          "keyboard": {
+            "x": 463.202,
+            "y": 418.639
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 64.14,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 71.04,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "fde4d7d3d049ad5b88cebc259abeadf53cd31562e8b00e1aa3c79186cb2fff1c",
+        "bodySHA256": "247037f08262d1f1b426e8e19e071fcc6ac79a914a2e7444458ccc8189b526bc",
+        "sourceTransform": [
+          0.49320021791859825,
+          0.012050027232163668,
+          -57.14286805771803,
+          38.2914947899327
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 9,
+        "src": "/wardrobe/v6/astronaut/09-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/astronaut/09-cuff-front.png",
+        "faceMask": "/wardrobe/v6/astronaut/09-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 157.776,
+            "y": 369.756
+          },
+          "keyboard": {
+            "x": 459.472,
+            "y": 416.855
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.95,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.62,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "2f7391f2b72b6e575ac038ec02b14ac160960edca66c45f2945e6c00ab98d2d1",
+        "bodySHA256": "2ddd8224e0c8b135005034cdb2ed69efadb7f76852b8e4270cdfdc1399f8d6b0",
+        "sourceTransform": [
+          0.47649171732475665,
+          0.005862221086793588,
+          -59.115147328090245,
+          66.39355674152515
+        ],
+        "extraction": "v6-approved-alpha-only"
+      }
+    ],
+    "pirate": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v6/pirate/01-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.996656,
+        "cuffFront": "/wardrobe/v6/pirate/01-cuff-front.png",
+        "faceMask": "/wardrobe/v6/pirate/01-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 163.274,
+            "y": 364.593
+          },
+          "keyboard": {
+            "x": 463.98,
+            "y": 419.622
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.42,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.03,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "ad0e09db86850dd543f7a191d3f6a80069420a9139cb091d1f9cdccbab2879a3",
+        "bodySHA256": "9534f782a02447cabf23893afafc189eb8480162a6b7c6201ab6b6fa3e939aa5",
+        "sourceTransform": [
+          0.4722564072018677,
+          0.013675522482338193,
+          -23.683795722390926,
+          51.75110717070777
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v6/pirate/02-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/pirate/02-cuff-front.png",
+        "faceMask": "/wardrobe/v6/pirate/02-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 147.319,
+            "y": 376.559
+          },
+          "keyboard": {
+            "x": 465.768,
+            "y": 423.751
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.35,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 67.96,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "1a1003258cfd1e9ecd6279efcae1903f322c7b904312469aac67720c1f224846",
+        "bodySHA256": "6dfb5b7c3d96c44f5c6d52a54f972f4abd7bf664eb6685cf8fd64e060d1f4aac",
+        "sourceTransform": [
+          0.4719166821056048,
+          -0.0012617308307502286,
+          -40.459657018247924,
+          63.51293862764098
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v6/pirate/03-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/pirate/03-cuff-front.png",
+        "faceMask": "/wardrobe/v6/pirate/03-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 180.143,
+            "y": 363.251
+          },
+          "keyboard": {
+            "x": 459.771,
+            "y": 411.706
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.78,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.55,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "61b97a84af430a5cf4e8862331085a0df40bb4bcd5f26449fa716923a5274c0e",
+        "bodySHA256": "9214397d18f4a96faad3672edc360d47e2eae84d7deae7ffa80fbc7c2cb646d9",
+        "sourceTransform": [
+          0.48294583208480235,
+          0.002906050627577393,
+          0.5334989637386229,
+          4.539723367616716
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v6/pirate/04-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/pirate/04-cuff-front.png",
+        "faceMask": "/wardrobe/v6/pirate/04-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 179.265,
+            "y": 365.166
+          },
+          "keyboard": {
+            "x": 460.354,
+            "y": 411.253
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.43,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.26,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "b0ebd8c5aa2b6afe8d8de75a340650ebf98d4e7676445e706c47837e65811f57",
+        "bodySHA256": "2254c54103a755b066afd5255d5a1e551a3c3ef7de9a4e1017432c1383989c53",
+        "sourceTransform": [
+          0.4879253588378979,
+          0.0007070307968320162,
+          -4.560468793397661,
+          2.87278014382008
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v6/pirate/05-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/pirate/05-cuff-front.png",
+        "faceMask": "/wardrobe/v6/pirate/05-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 166.807,
+            "y": 365.348
+          },
+          "keyboard": {
+            "x": 456.286,
+            "y": 416.234
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 64.74,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 71.72,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "0f516c4693fd1d60788abbc021ad8fcdd77f9ee6403abac176e6287e4c7992e2",
+        "bodySHA256": "ef87f880d00bde3f56127b90b0102f488e65ccf2a38e988f468076ec0e2a60e8",
+        "sourceTransform": [
+          0.4979720200900492,
+          0.007934514879987664,
+          -11.509887459252809,
+          -9.56059025983302
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v6/pirate/06-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/pirate/06-cuff-front.png",
+        "faceMask": "/wardrobe/v6/pirate/06-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 171.253,
+            "y": 372.582
+          },
+          "keyboard": {
+            "x": 468.328,
+            "y": 411.582
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 65.13,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 72.14,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "c5a5ceed316e475f450adbf7877e9e21cc02a0bbff6cc9e56660589d1acf888a",
+        "bodySHA256": "51c5e0045470a57e2fe727f5c1d88ab7fa1bc905d27e367ea67a7a721cf63053",
+        "sourceTransform": [
+          0.5009132403915539,
+          -0.009397327349862495,
+          -24.010814739881823,
+          8.249229887733748
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 7,
+        "src": "/wardrobe/v6/pirate/07-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/pirate/07-cuff-front.png",
+        "faceMask": "/wardrobe/v6/pirate/07-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 160.24,
+            "y": 370.895
+          },
+          "keyboard": {
+            "x": 455.497,
+            "y": 426.621
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 65.71,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 72.78,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "65df98cfcd67665846f25ae9312540fda2242367734ba9f8690a4145e24faf96",
+        "bodySHA256": "96fec2b63a572e6eb8c2e245acf7f9c925ca7bcfd6d5097884e734e094524453",
+        "sourceTransform": [
+          0.5051967711091446,
+          0.015261591555899338,
+          -43.93270676839245,
+          16.8177735932739
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 8,
+        "src": "/wardrobe/v6/pirate/08-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/pirate/08-cuff-front.png",
+        "faceMask": "/wardrobe/v6/pirate/08-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 161.42,
+            "y": 375.558
+          },
+          "keyboard": {
+            "x": 454.672,
+            "y": 422.569
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.63,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.38,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "c37ecd0b1908a71b991ab30a83f93e4e6e059ba39ba9458e4c804f78ab83189b",
+        "bodySHA256": "484b1cbab962a453868bc42f23f17ae8d3b5072d1e944922a4670410affc14bf",
+        "sourceTransform": [
+          0.48177239017249734,
+          0.001399884910088306,
+          -11.86405239279162,
+          17.54505597028799
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 9,
+        "src": "/wardrobe/v6/pirate/09-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/pirate/09-cuff-front.png",
+        "faceMask": "/wardrobe/v6/pirate/09-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 180.315,
+            "y": 364.948
+          },
+          "keyboard": {
+            "x": 460.418,
+            "y": 415.03
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.14,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.94,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "56554c009cab78cc1c0943e7a42ed81a0e37ecf3b8f9f8acc21647e0816f30e4",
+        "bodySHA256": "f0972e560d9602c3b55ecb9dd634722f84021768dd1322bcb43b715efe8f98e0",
+        "sourceTransform": [
+          0.48568037711939943,
+          -0.0021204863552993823,
+          -4.704968989272487,
+          19.62805717501425
+        ],
+        "extraction": "v6-approved-alpha-only"
+      }
+    ],
+    "ninja": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v6/ninja/01-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/ninja/01-cuff-front.png",
+        "faceMask": "/wardrobe/v6/ninja/01-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 156.969,
+            "y": 370.269
+          },
+          "keyboard": {
+            "x": 458.112,
+            "y": 422.561
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.1,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.79,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "ab78682785e5aefc2912f66e88f37de662d160d0e08a66f89e43e6e5a66ac25b",
+        "bodySHA256": "16d7183e64becbedfa99b4f97c733bdc2de001e04b576a63ad7aa0f65a782917",
+        "sourceTransform": [
+          0.4775471076758096,
+          0.012853222181206363,
+          -29.396300120076546,
+          25.188750347030293
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v6/ninja/02-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.97545,
+        "cuffFront": "/wardrobe/v6/ninja/02-cuff-front.png",
+        "faceMask": "/wardrobe/v6/ninja/02-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 180.08,
+            "y": 364.72
+          },
+          "keyboard": {
+            "x": 459.421,
+            "y": 406.195
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.8,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.56,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "1cc5f8c651014f34e1c66b52981d7e823c54f4b837aacb35d232a084ded0d960",
+        "bodySHA256": "37fbed8333403f76327e182b1e01aa01596bce04805e03cc948501c0df1a94eb",
+        "sourceTransform": [
+          0.48308319447559417,
+          -0.0007980591973615787,
+          -1.724041585095648,
+          3.7568804454212454
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v6/ninja/03-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.988391,
+        "cuffFront": "/wardrobe/v6/ninja/03-cuff-front.png",
+        "faceMask": "/wardrobe/v6/ninja/03-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 167.412,
+            "y": 370.409
+          },
+          "keyboard": {
+            "x": 458.523,
+            "y": 420.974
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 59.88,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 66.33,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "9fb5fc30aa435f66fef3b8451e5425ab45f4a388e4117aeb6176ce9d3a5f56c2",
+        "bodySHA256": "e4d4543f133951f88304dbeb3a16747975e46bd9607f58393cb68c89c54a727e",
+        "sourceTransform": [
+          0.4603976957767077,
+          0.013536460066699183,
+          -27.667548746972443,
+          62.32085730433306
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v6/ninja/04-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.990033,
+        "cuffFront": "/wardrobe/v6/ninja/04-cuff-front.png",
+        "faceMask": "/wardrobe/v6/ninja/04-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 180.252,
+            "y": 363.242
+          },
+          "keyboard": {
+            "x": 460.559,
+            "y": 410.102
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.7,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.45,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "2c5ef7a562ff6e0abd75b90436efbdcbfe49221f6d27e12bac81c0ceb23097db",
+        "bodySHA256": "2f488c32d38db65bb4108ab32290fcb7b72c88de22593bc8ac548edb3cadded4",
+        "sourceTransform": [
+          0.4822709391864231,
+          0.0005986813224201893,
+          -1.2152941461925195,
+          3.1530263654767623
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v6/ninja/05-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.97545,
+        "cuffFront": "/wardrobe/v6/ninja/05-cuff-front.png",
+        "faceMask": "/wardrobe/v6/ninja/05-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 173.724,
+            "y": 369.051
+          },
+          "keyboard": {
+            "x": 459.692,
+            "y": 417.669
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.13,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.93,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "41edaeb8f7e3b7838cfca1e8b94dd489de6072186fdfed29c7f975c331ecd9b6",
+        "bodySHA256": "be1a4c327ae480f213654b52ddd19f85f8fcc189155c22632887844c3d30a118",
+        "sourceTransform": [
+          0.4856236492923757,
+          8.287446707326556e-05,
+          -2.7621446985117757,
+          1.9492298450044814
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v6/ninja/06-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/ninja/06-cuff-front.png",
+        "faceMask": "/wardrobe/v6/ninja/06-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 171.429,
+            "y": 367.31
+          },
+          "keyboard": {
+            "x": 460.597,
+            "y": 410.928
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.74,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.5,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "59add654d333065a37bb1b6b99d435337cf3fb1517c8e9c4c6dedaf8efdf8bba",
+        "bodySHA256": "7949c1820709da4e0fde37888c07242e7203d09db5111c95e4619521b231f8d0",
+        "sourceTransform": [
+          0.4826290164219209,
+          0.00011620904956954328,
+          -0.7350439932974666,
+          4.049787870190869
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 7,
+        "src": "/wardrobe/v6/ninja/07-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/ninja/07-cuff-front.png",
+        "faceMask": "/wardrobe/v6/ninja/07-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 172.747,
+            "y": 369.939
+          },
+          "keyboard": {
+            "x": 454.994,
+            "y": 411.814
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.37,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 67.98,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "21fd7dcf7d8903ff9a1625b8359f20d24913263aa17ddaf7dcd109f488e530cc",
+        "bodySHA256": "d988bed440bd80873b7efd344a218a6f0f7a778c09a45d207886879be1d247f3",
+        "sourceTransform": [
+          0.4720511491387974,
+          -0.0044639683135532186,
+          -3.648954016828384,
+          16.18142919187511
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 8,
+        "src": "/wardrobe/v6/ninja/08-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/ninja/08-cuff-front.png",
+        "faceMask": "/wardrobe/v6/ninja/08-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 172.983,
+            "y": 367.751
+          },
+          "keyboard": {
+            "x": 446.937,
+            "y": 410.97
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.94,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.61,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "f79f2d0075ef17ad11d63a86f9d5ac9ef9513d95e79c270aee2efaf4c211edc7",
+        "bodySHA256": "c98a49f804c76b34fe3b6c7f5f917eb0b4050f9da6f1c5538b9d0ee75b59d40b",
+        "sourceTransform": [
+          0.4764635937412206,
+          -0.0014237085713555936,
+          -11.59024069748773,
+          13.757062726572428
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 9,
+        "src": "/wardrobe/v6/ninja/09-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/ninja/09-cuff-front.png",
+        "faceMask": "/wardrobe/v6/ninja/09-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 157.959,
+            "y": 369.359
+          },
+          "keyboard": {
+            "x": 463.857,
+            "y": 418.525
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.67,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.31,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "ce40f46288b0f7f6bffdfaf5ab824295341101b76820ba3855870583b861c621",
+        "bodySHA256": "dcef5714049382ae3140d5586c7fb98afdfccda0746e5de7f1a7b8f633f49803",
+        "sourceTransform": [
+          0.4743645408281947,
+          0.005680140395256852,
+          -40.85486225389383,
+          56.38390774533519
+        ],
+        "extraction": "v6-approved-alpha-only"
+      }
+    ],
+    "hero": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v6/hero/01-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/hero/01-cuff-front.png",
+        "faceMask": "/wardrobe/v6/hero/01-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 179.863,
+            "y": 363.228
+          },
+          "keyboard": {
+            "x": 457.618,
+            "y": 413.871
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.42,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.14,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "fdcdebe630ba554f5722f6cbe1ec6ea27ea7232ff70aa83300d27ebff95a2b4b",
+        "bodySHA256": "105de5d9ce95793522f70ffa1f460cd0a2c4762d2d1bd8f301f7acfa0d58a705",
+        "sourceTransform": [
+          0.48007892122608997,
+          0.006956216008243469,
+          3.9042492715320805,
+          4.678513265972356
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v6/hero/02-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/hero/02-cuff-front.png",
+        "faceMask": "/wardrobe/v6/hero/02-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 169.193,
+            "y": 367.271
+          },
+          "keyboard": {
+            "x": 451.243,
+            "y": 412.161
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.32,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.03,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "1701c3bbd4900cf3be340dfa4053de87a325e70c6b8f4deabb2cd8bd0f6a12e6",
+        "bodySHA256": "748d38e1bb765cf6afdeb1599b6c9780ee16f5c6111b65f3dc5818d0647ec168",
+        "sourceTransform": [
+          0.47939949028560847,
+          0.0011659869131630592,
+          -10.27935677403724,
+          18.297865823824907
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v6/hero/03-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/hero/03-cuff-front.png",
+        "faceMask": "/wardrobe/v6/hero/03-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 177.506,
+            "y": 370.906
+          },
+          "keyboard": {
+            "x": 460.474,
+            "y": 415.749
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.93,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.81,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "f0bc0c0253ad1aebf6c70b773cce70458a3d5f0ad40d40874549d4d07c31ec42",
+        "bodySHA256": "d99fe16f7814baabaffd0004e9873521e711cf57b43b5f5f2ac9130cf04e21d4",
+        "sourceTransform": [
+          0.4917503768114429,
+          0.0007666360789776908,
+          -7.658990711706679,
+          5.015503740091731
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v6/hero/04-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/hero/04-cuff-front.png",
+        "faceMask": "/wardrobe/v6/hero/04-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 167.736,
+            "y": 373.388
+          },
+          "keyboard": {
+            "x": 456.91,
+            "y": 413.771
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.18,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.98,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "4fc7bcb92819d0110f62c6ffd3c64d93729373e5711f41cef4d1884eb3d5b799",
+        "bodySHA256": "ac5f1eb874316df48c2c9fddc424aa1be3ac16c432ad6911f15cdeedec67a310",
+        "sourceTransform": [
+          0.48592949230540705,
+          -0.007448639239236053,
+          -22.75408954414553,
+          21.607414467609885
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v6/hero/05-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/hero/05-cuff-front.png",
+        "faceMask": "/wardrobe/v6/hero/05-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 171.798,
+            "y": 370.914
+          },
+          "keyboard": {
+            "x": 448.538,
+            "y": 418.812
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.31,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.02,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "3a2cbe2684182b4fbf1142072bc86e999b047f1c2721f4fba0d7ccd282eba694",
+        "bodySHA256": "813776432b11ca941e4b1fa2ad5cc2fce3a136b3444f6f4479cc27c665ac8db7",
+        "sourceTransform": [
+          0.47922396551187046,
+          0.009000764327122025,
+          -4.687025968395801,
+          8.67478575490776
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v6/hero/06-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/hero/06-cuff-front.png",
+        "faceMask": "/wardrobe/v6/hero/06-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 174.169,
+            "y": 372.016
+          },
+          "keyboard": {
+            "x": 458.115,
+            "y": 421.782
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.46,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.3,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "74f15246ef61d0e38597e80d46fe9857cc847a9c878dd8744c56106bb155952f",
+        "bodySHA256": "fb8a63854ba21b98884cd204967887b86618315d0263c6532ce3ac76eb3e3d34",
+        "sourceTransform": [
+          0.48805609313616033,
+          0.010327772442133117,
+          2.5840620056672208,
+          5.061704393596585
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 7,
+        "src": "/wardrobe/v6/hero/07-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/hero/07-cuff-front.png",
+        "faceMask": "/wardrobe/v6/hero/07-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 180.605,
+            "y": 361.952
+          },
+          "keyboard": {
+            "x": 459.561,
+            "y": 407.291
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.87,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.64,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "a7402cf9567153c39daf68cf59805f58dd416c4ab1f8d5d53e0c2be00ffcc2a3",
+        "bodySHA256": "f3896bae3a66a53948bc33d553b03dbeb3b2fd7bc0fc548bb6a2a5a012477281",
+        "sourceTransform": [
+          0.483625157742922,
+          0.000584025637899312,
+          -1.4377311745961094,
+          2.9240569317976792
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 8,
+        "src": "/wardrobe/v6/hero/08-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/hero/08-cuff-front.png",
+        "faceMask": "/wardrobe/v6/hero/08-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 169.432,
+            "y": 369.085
+          },
+          "keyboard": {
+            "x": 454.925,
+            "y": 418.75
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.62,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.36,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "8210280a4640314f6344fe3a534e4281d81b5c996e745e382c1c05c08d7f1e8a",
+        "bodySHA256": "0b579c1eeb5b3bb4753c67a79efe885bc055ab0e9343f1958b9811a836060d76",
+        "sourceTransform": [
+          0.4816389125218671,
+          0.00496253848945807,
+          -7.779596725735473,
+          17.15913149476677
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 9,
+        "src": "/wardrobe/v6/hero/09-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/hero/09-cuff-front.png",
+        "faceMask": "/wardrobe/v6/hero/09-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 179.967,
+            "y": 363.751
+          },
+          "keyboard": {
+            "x": 460.351,
+            "y": 408.24
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.91,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.69,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "c3450d44e46e1db492021255a6a3f18584ee62ea98f6877ccd05582004efbfe9",
+        "bodySHA256": "3da430c6127fda05cf87375c67ad65578705f3e6c61e6b32a273a87d0a9da93d",
+        "sourceTransform": [
+          0.483935167694478,
+          -0.00041685103548858514,
+          -2.5221729259790493,
+          2.3595622412934745
+        ],
+        "extraction": "v6-approved-alpha-only"
+      }
+    ],
+    "wuxia": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v6/wuxia/01-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wuxia/01-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wuxia/01-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 170.816,
+            "y": 367.44
+          },
+          "keyboard": {
+            "x": 445.519,
+            "y": 411.045
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 60.48,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 66.99,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "e1a7637df54da4ba6ad17e3f47b3d7ad040da8927cd2d7e25a5d9b1c89da5b57",
+        "bodySHA256": "09ad9f04a6d415cf8bb6b4d4534fa93c4112ba204f8e04be15242d290dfe8d90",
+        "sourceTransform": [
+          0.465200344899956,
+          0.001776578296631962,
+          0.22565924439444984,
+          29.44483753779184
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v6/wuxia/02-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.994992,
+        "cuffFront": "/wardrobe/v6/wuxia/02-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wuxia/02-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 178.096,
+            "y": 366.609
+          },
+          "keyboard": {
+            "x": 461.501,
+            "y": 406.953
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.49,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.33,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "03f784072dc4ed91bcf53f2dc823b196bfb1750460ad417ec3991984302a026c",
+        "bodySHA256": "a71a7bd6a03391c54e60649ae8f7ed03c9d6b7433c6c85fdfef7ad03859fadbd",
+        "sourceTransform": [
+          0.4883813414488428,
+          -0.006002301145982099,
+          -10.224981519576374,
+          4.046079501105055
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v6/wuxia/03-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wuxia/03-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wuxia/03-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 181.005,
+            "y": 363.787
+          },
+          "keyboard": {
+            "x": 459.802,
+            "y": 406.858
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.86,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.63,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "9667ef19c05310239b70c3fc553d266725a1164967a5ca11d4596459ca469e58",
+        "bodySHA256": "32b74d3c7b3e753982df23e68ff055d5d812a50c621e7224e11c2d188de5ff0e",
+        "sourceTransform": [
+          0.4835754358043492,
+          0.0006653180458078003,
+          -1.2073167177578625,
+          17.810266494741825
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v6/wuxia/04-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wuxia/04-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wuxia/04-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 174.538,
+            "y": 363.916
+          },
+          "keyboard": {
+            "x": 463.61,
+            "y": 408.543
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 65.33,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 72.37,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "a8d881b8f6c437629cb6cb0167fb125ca96f3ce57ab786baac01d4f204f389f4",
+        "bodySHA256": "855705b19e41c12aa6566f0bed6441e34e519ea3ff38830162b71e8aea37f72b",
+        "sourceTransform": [
+          0.5025604354416998,
+          0.0005371272227524169,
+          -15.03480879029371,
+          4.890865218076101
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v6/wuxia/05-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.998325,
+        "cuffFront": "/wardrobe/v6/wuxia/05-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wuxia/05-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 178.823,
+            "y": 361.123
+          },
+          "keyboard": {
+            "x": 463.15,
+            "y": 405.491
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.99,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.77,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "834acf9adb273ca6d096eac1239669c4728ec6635e429f2ca22e25af0a23f32a",
+        "bodySHA256": "1a826469418cc873d36e40fc9bead6cf05873176026c6df596540eee2ad63f7b",
+        "sourceTransform": [
+          0.4844918424912804,
+          0.004524401054155852,
+          -0.034728635666510854,
+          7.412316102467514
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v6/wuxia/06-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wuxia/06-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wuxia/06-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 179.825,
+            "y": 366.788
+          },
+          "keyboard": {
+            "x": 454.915,
+            "y": 408.384
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.91,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.58,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "45508d7fd16def73a87a06c994bcfa7586aae6d963bd78b885e22f70acd801a7",
+        "bodySHA256": "56825533656e32e608aaeaf6849e3969065972164899c1f5250d6cf619b35900",
+        "sourceTransform": [
+          0.4762389135196126,
+          -0.0024139021752317387,
+          -1.4754620658965791,
+          27.88120340286389
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 7,
+        "src": "/wardrobe/v6/wuxia/07-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wuxia/07-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wuxia/07-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 173.903,
+            "y": 369.191
+          },
+          "keyboard": {
+            "x": 452.757,
+            "y": 412.727
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.04,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.83,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "9d6fe87627c7c8b34fadeeb19add6b2a96e1b04603e7ea0fbe337232f6c8ce4d",
+        "bodySHA256": "1439b1f4d22c785028c0eaf0fd320565551abc94177300b976c21f8c5598e84f",
+        "sourceTransform": [
+          0.4849359127252584,
+          0.0001209859099805377,
+          -10.767707217142743,
+          8.353036106427055
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 8,
+        "src": "/wardrobe/v6/wuxia/08-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/wuxia/08-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wuxia/08-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 179.178,
+            "y": 362.735
+          },
+          "keyboard": {
+            "x": 459.195,
+            "y": 404.906
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.98,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.76,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "f4133fa6b3bc77550b021e765cef8a7990421b9c1e5facf5a3afed4d20d47600",
+        "bodySHA256": "5daa8bd679efdc6596044faa3579cacb471f41528b70406e33fb8cd4919ce65c",
+        "sourceTransform": [
+          0.4844492414034609,
+          -0.0011465307728489881,
+          -3.283400260699324,
+          2.6710179089429857
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 9,
+        "src": "/wardrobe/v6/wuxia/09-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.990033,
+        "cuffFront": "/wardrobe/v6/wuxia/09-cuff-front.png",
+        "faceMask": "/wardrobe/v6/wuxia/09-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 180.389,
+            "y": 365.815
+          },
+          "keyboard": {
+            "x": 461.406,
+            "y": 410.547
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.23,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.04,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "a42134c5142c78e771d25c7d462229f3160d38c04ca71c30780a9838687d04d9",
+        "bodySHA256": "6e2404fb1b9510b99601387ac677111295516c959db8ed3f3ef0b9c8fe08ea9c",
+        "sourceTransform": [
+          0.48639125841250025,
+          0.000746556471959149,
+          -3.0450950483338772,
+          15.784453020838612
+        ],
+        "extraction": "v6-approved-alpha-only"
+      }
+    ],
+    "baker": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v6/baker/01-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/baker/01-cuff-front.png",
+        "faceMask": "/wardrobe/v6/baker/01-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 175.963,
+            "y": 364.613
+          },
+          "keyboard": {
+            "x": 463.472,
+            "y": 406.516
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.41,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.13,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "3438dc8970b1c0ba6104603a0f80ed0e9364c9ce841de95e45226feaeb775ed0",
+        "bodySHA256": "90794e7dbf45bf9c3389759477a654f88ab8b25f18a3e08b1adbf6fa193ea40f",
+        "sourceTransform": [
+          0.4800429963728136,
+          0.007582598473947424,
+          -29.95686804923173,
+          36.05216831209498
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v6/baker/02-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/baker/02-cuff-front.png",
+        "faceMask": "/wardrobe/v6/baker/02-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 173.134,
+            "y": 357.397
+          },
+          "keyboard": {
+            "x": 448.365,
+            "y": 409.555
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 60.69,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 67.23,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "ec2a4ab53d94fa05fe07e3db7c6e5aa68c26377d973eb86fac9f2ad5d35ddb27",
+        "bodySHA256": "a4ff70b4d333c281f1f48256704998f63591a3280a39174d31e3989a97872f51",
+        "sourceTransform": [
+          0.4665666895896133,
+          0.016108364756399488,
+          -37.53969194536717,
+          51.578444276660775
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v6/baker/03-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/baker/03-cuff-front.png",
+        "faceMask": "/wardrobe/v6/baker/03-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 162.889,
+            "y": 364.421
+          },
+          "keyboard": {
+            "x": 471.285,
+            "y": 414.709
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 67.77,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 75.07,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "5825faa356788d1aabbb6e9a3ff9fb80c80fd920b23a7d462846b813a0253de5",
+        "bodySHA256": "2b20c1a070b198ed745d17a78a07a290263127da203928e9571821392886d625",
+        "sourceTransform": [
+          0.5213291669640577,
+          0.0021722411634296024,
+          -38.502997549369866,
+          -23.415991621594912
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v6/baker/04-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/baker/04-cuff-front.png",
+        "faceMask": "/wardrobe/v6/baker/04-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 165.27,
+            "y": 366.392
+          },
+          "keyboard": {
+            "x": 477.937,
+            "y": 417.552
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 68.86,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 76.28,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "e7c40240e8643a6ee34d94259d0946d9f8a307a691449f5f915b5c552116dd39",
+        "bodySHA256": "c97fa5d889137e16dfe8eade0e597ae927bc3106426bbb8f35b9daf70df62e5e",
+        "sourceTransform": [
+          0.529707140311647,
+          0.002784413300245312,
+          -71.08824896810887,
+          25.809755611959588
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v6/baker/05-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.988391,
+        "cuffFront": "/wardrobe/v6/baker/05-cuff-front.png",
+        "faceMask": "/wardrobe/v6/baker/05-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 176.548,
+            "y": 357.468
+          },
+          "keyboard": {
+            "x": 464.276,
+            "y": 412.863
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.34,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.06,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "62147611bcfed4c4dcdbed6d7cd27dfe4eb4b290d436dc726ea03edde9347f0d",
+        "bodySHA256": "0125e0e67ca9ad7e421c8d02a6b1393ad0d8b796c5fd24b4a0009a67f1c00bea",
+        "sourceTransform": [
+          0.47943098029962455,
+          0.011755774673399586,
+          4.930590103087695,
+          -0.1553384693793305
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v6/baker/06-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/baker/06-cuff-front.png",
+        "faceMask": "/wardrobe/v6/baker/06-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 172.134,
+            "y": 368.311
+          },
+          "keyboard": {
+            "x": 461.364,
+            "y": 418.148
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 64.77,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 71.75,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "60bb629620886411c85848bf1edda32c87e0a97d37578705a8e3c935d236d5ad",
+        "bodySHA256": "84c32937496e107853c17e15d14cfd26a65cddc5f6eca9836872ab98fb6e5b84",
+        "sourceTransform": [
+          0.49820335224509443,
+          0.005876738510429934,
+          -16.913939453321575,
+          8.207471986637529
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 7,
+        "src": "/wardrobe/v6/baker/07-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/baker/07-cuff-front.png",
+        "faceMask": "/wardrobe/v6/baker/07-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 154.266,
+            "y": 363.064
+          },
+          "keyboard": {
+            "x": 449.784,
+            "y": 415.623
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 66.57,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 73.74,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "4552ccd3f392783c332077d5c0a95c6983655dfa765e99fbca74b107db393ff3",
+        "bodySHA256": "2e0e1fe467b919d2f8ee55c0d4cf66fff8fc6d5851e65d3888dc25575475e652",
+        "sourceTransform": [
+          0.5120418320662824,
+          0.005026771179383442,
+          -52.22971256168927,
+          -10.960182720666808
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 8,
+        "src": "/wardrobe/v6/baker/08-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/baker/08-cuff-front.png",
+        "faceMask": "/wardrobe/v6/baker/08-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 160.858,
+            "y": 362.156
+          },
+          "keyboard": {
+            "x": 450.816,
+            "y": 420.098
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.21,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.01,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "0c5e63c7bdb0920e3228796af9c218b69897e66bde890346f89c9576777b0cd2",
+        "bodySHA256": "7a467b73d89881ae9ec9a756ef249157c6cd58d349e51acfba07cebadbba4d8e",
+        "sourceTransform": [
+          0.48565012362991605,
+          0.023199212487074333,
+          -46.7053143916134,
+          25.712233819312132
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 9,
+        "src": "/wardrobe/v6/baker/09-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/baker/09-cuff-front.png",
+        "faceMask": "/wardrobe/v6/baker/09-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 173.326,
+            "y": 366.161
+          },
+          "keyboard": {
+            "x": 457.501,
+            "y": 411.248
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.09,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.78,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "d7ded224dd3b6a649dedcf6a24dbf85e269ecd88ce65f9ebd142361ea00cf6af",
+        "bodySHA256": "62743b306ea2d3b039a9871d5c69ae29eb40037a4d3ae8ed2ed1a78d5f746064",
+        "sourceTransform": [
+          0.47759878353605767,
+          -0.0036586630964131786,
+          -17.159799667913944,
+          26.5647597218678
+        ],
+        "extraction": "v6-approved-alpha-only"
+      }
+    ],
+    "garden": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v6/garden/01-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/garden/01-cuff-front.png",
+        "faceMask": "/wardrobe/v6/garden/01-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 167.605,
+            "y": 364.075
+          },
+          "keyboard": {
+            "x": 456.937,
+            "y": 413.669
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.59,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.44,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "a4d12f846a3d58de9736736f07c45dcaa0c6fe1f45ff425437ff0e36c9d589fb",
+        "bodySHA256": "3542b150de2c7425ab5a5f25fd036c719a019400010421ee6917c7417564d5ea",
+        "sourceTransform": [
+          0.4889877427521647,
+          0.014002479335524315,
+          -11.457452551615006,
+          -1.6301015438579611
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v6/garden/02-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/garden/02-cuff-front.png",
+        "faceMask": "/wardrobe/v6/garden/02-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 149.78,
+            "y": 363.26
+          },
+          "keyboard": {
+            "x": 454.304,
+            "y": 417.039
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 65.12,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 72.13,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "dfb1f7262d64d660097276eca1a3ef6cf046f1abcb512da7c2418d4f71ec655c",
+        "bodySHA256": "0be312b05abe1c28a990e93a0bb22532d444ec67c047817c213d2bc9cf6b8064",
+        "sourceTransform": [
+          0.5004273260578133,
+          0.021848479744150648,
+          -59.833003832991494,
+          6.36563945379072
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v6/garden/03-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/garden/03-cuff-front.png",
+        "faceMask": "/wardrobe/v6/garden/03-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 180.801,
+            "y": 364.628
+          },
+          "keyboard": {
+            "x": 457.152,
+            "y": 405.449
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.08,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.77,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "69a3cddaa5f3117a20938a2e88ba03f3d3160a4cce187a0c2d20687eb6cd88e3",
+        "bodySHA256": "fc3e8f7e7afc037e11193eb8cae46033f58f2053389f83a5f6725844dff8bdcc",
+        "sourceTransform": [
+          0.4775343755300785,
+          -0.0031189747294948795,
+          -2.9219048408222363,
+          10.661895005759902
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v6/garden/04-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/garden/04-cuff-front.png",
+        "faceMask": "/wardrobe/v6/garden/04-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 180.955,
+            "y": 365.905
+          },
+          "keyboard": {
+            "x": 447.922,
+            "y": 415.676
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.72,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.48,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "ad041744981ffd0650cbfa8c388ce4b89469edc5ac294df7ce7356b4c255b0c0",
+        "bodySHA256": "506bbc9857c15355decf4af1a5c9113612f18d69086b07dd23ffbac4484bbb52",
+        "sourceTransform": [
+          0.48243030394186737,
+          0.007811556708203577,
+          -9.860627247804473,
+          7.99378699916258
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v6/garden/05-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/garden/05-cuff-front.png",
+        "faceMask": "/wardrobe/v6/garden/05-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 170.725,
+            "y": 363.339
+          },
+          "keyboard": {
+            "x": 460.547,
+            "y": 413.876
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.86,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.62,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "5a009f4d2811801936bc774b8f2af547939f23ed93f08e8f1b385dd05c734754",
+        "bodySHA256": "3239e3b934393450d91329e6b4748bb729b924e827650152a6198027c25eda95",
+        "sourceTransform": [
+          0.4834927881431413,
+          0.0032515363569792215,
+          -52.22713602859517,
+          48.46512870514579
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v6/garden/06-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/garden/06-cuff-front.png",
+        "faceMask": "/wardrobe/v6/garden/06-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 158.002,
+            "y": 364.027
+          },
+          "keyboard": {
+            "x": 452.508,
+            "y": 415.115
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 65.84,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 72.93,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "fe15c4180e596849f88514afc55ddfeb85bcff67dfafea008c2090870ce7be71",
+        "bodySHA256": "9b87c7e578c35f0d6da46e7bf27d7dfef5d1fa75e29041545beab904293f0370",
+        "sourceTransform": [
+          0.5064208697769118,
+          0.002017428687862001,
+          -37.87720675614787,
+          -16.05639025326508
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 7,
+        "src": "/wardrobe/v6/garden/07-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/garden/07-cuff-front.png",
+        "faceMask": "/wardrobe/v6/garden/07-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 160.437,
+            "y": 368.748
+          },
+          "keyboard": {
+            "x": 463.942,
+            "y": 419.472
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.96,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.74,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "2e2f1b9ea18ea8ad7164a25964153c4b33ba3bb9d0e8074636e1621985d28456",
+        "bodySHA256": "c9e2e80929e728c1cdc8c0ca1bee815f5c9243ab7e3478008949289d332b4abc",
+        "sourceTransform": [
+          0.4843271278066061,
+          0.0015283513723977622,
+          -54.95228038225622,
+          43.58686104749796
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 8,
+        "src": "/wardrobe/v6/garden/08-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/garden/08-cuff-front.png",
+        "faceMask": "/wardrobe/v6/garden/08-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 164.723,
+            "y": 365.775
+          },
+          "keyboard": {
+            "x": 478.056,
+            "y": 404.952
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.79,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.44,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "340b51383ed9ff94afd9cd55d5ebaae7dff54c9e7ee8784dd401a197698d63d9",
+        "bodySHA256": "f9f086bb3c309fbbcaf878e835afad680a180df5d156e6acc71cbecc3d6a9766",
+        "sourceTransform": [
+          0.47526994212315393,
+          0.005123469791246044,
+          -34.96475409816895,
+          51.6638989349716
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 9,
+        "src": "/wardrobe/v6/garden/09-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/garden/09-cuff-front.png",
+        "faceMask": "/wardrobe/v6/garden/09-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 168.827,
+            "y": 365.168
+          },
+          "keyboard": {
+            "x": 456.52,
+            "y": 416.265
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.07,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 67.64,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "9e45ceddc20a68a8ecabb27c5fe78640dd53ba73f17b13fed520549c899ddf61",
+        "bodySHA256": "b80c7d00201300c5a3dde274d88c07752a4a098de9260ed41004e8b5a1a88abe",
+        "sourceTransform": [
+          0.4697210527035951,
+          0.004538717512939882,
+          -24.40434299544404,
+          52.06427687248919
+        ],
+        "extraction": "v6-approved-alpha-only"
+      }
+    ],
+    "performer": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v6/performer/01-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/performer/01-cuff-front.png",
+        "faceMask": "/wardrobe/v6/performer/01-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 175.857,
+            "y": 366.561
+          },
+          "keyboard": {
+            "x": 461.322,
+            "y": 417.001
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 64.43,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 71.36,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "3a4246b91b36901a83a512f439e55b307d55b8ef9c215f7447919a56e1190cb2",
+        "bodySHA256": "eba40ffe681dbb49c5c63965e691b9cc0cd86b79e7520887f821a9e33c2886fe",
+        "sourceTransform": [
+          0.49545939700042274,
+          0.011219564978280128,
+          -2.8778397213378355,
+          -5.738109610972117
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v6/performer/02-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/performer/02-cuff-front.png",
+        "faceMask": "/wardrobe/v6/performer/02-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 168.191,
+            "y": 355.909
+          },
+          "keyboard": {
+            "x": 460.777,
+            "y": 413.044
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.55,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.29,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "11bb2087cd4a37ca7d0b27e8d21bfe58d3f17c6a140bed05c10f553be7db8795",
+        "bodySHA256": "c0dc39cb632833684bc44602f9b44cc797188f8118d5a01575559982480efc14",
+        "sourceTransform": [
+          0.4810333681565847,
+          0.011730713759717503,
+          -51.65509002957339,
+          68.00131718117834
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v6/performer/03-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.998325,
+        "cuffFront": "/wardrobe/v6/performer/03-cuff-front.png",
+        "faceMask": "/wardrobe/v6/performer/03-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 174.167,
+            "y": 359.261
+          },
+          "keyboard": {
+            "x": 455.304,
+            "y": 406.892
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.89,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.66,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "fe7f801c78799690972965cad1babf970b92d653036f78efcf27d1f3bba6f65f",
+        "bodySHA256": "4f77605a6fbaab8a70d9e497450dbcf1af1d7cc816187fb5e2fc4b1e7dfb6f4b",
+        "sourceTransform": [
+          0.48375819114067437,
+          0.004472691391212139,
+          -15.146211013417144,
+          2.367158469086121
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v6/performer/04-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.977049,
+        "cuffFront": "/wardrobe/v6/performer/04-cuff-front.png",
+        "faceMask": "/wardrobe/v6/performer/04-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 154.289,
+            "y": 355.782
+          },
+          "keyboard": {
+            "x": 458.062,
+            "y": 414.196
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.44,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.17,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "a4592d4d0efb2fb835a192a7852cb2d4b35a8cf1c98ab5da82dec9e63383746b",
+        "bodySHA256": "d7492519699f634285b2686ac2b445efe2799b932a956be3cfdf17fda7d38e92",
+        "sourceTransform": [
+          0.47966077442603394,
+          0.025324532038566414,
+          -26.352887747620855,
+          18.74075037619042
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v6/performer/05-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/performer/05-cuff-front.png",
+        "faceMask": "/wardrobe/v6/performer/05-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 156.888,
+            "y": 372.728
+          },
+          "keyboard": {
+            "x": 463.848,
+            "y": 430.053
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 66.14,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 73.26,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "0f9cfba00d751ff9fea2b24f1de8c92311c4407ff6f326ea6747b324ba23218f",
+        "bodySHA256": "fde1d6c0f371cfd84162517d785faad2599387092dc8200077286c4c8310ad04",
+        "sourceTransform": [
+          0.5078489365226966,
+          0.030387811685777696,
+          -51.410137915540986,
+          15.042456742508193
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v6/performer/06-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/performer/06-cuff-front.png",
+        "faceMask": "/wardrobe/v6/performer/06-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 169.104,
+            "y": 364.332
+          },
+          "keyboard": {
+            "x": 453.081,
+            "y": 418.334
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.35,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.17,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "6e6ab65aead9c941846469477311291f5c1a66c41afa358b3784ce30dc2e50a3",
+        "bodySHA256": "1dec7ccad71d3e9c7b3cfb87f5f0912d72520f1aedbb8c707d9c0677b112d81f",
+        "sourceTransform": [
+          0.4871981615905827,
+          0.009136302258186693,
+          -16.906822579992365,
+          2.369010217152777
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 7,
+        "src": "/wardrobe/v6/performer/07-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/performer/07-cuff-front.png",
+        "faceMask": "/wardrobe/v6/performer/07-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 173.653,
+            "y": 362.167
+          },
+          "keyboard": {
+            "x": 461.299,
+            "y": 411.432
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.59,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.43,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "de0484126cd2d5f350294b5ab24b21bdd1c018afede9b6cbe80e1fda7e5a8994",
+        "bodySHA256": "a813a0cdd9007cff49da501e69dcc9b2b65def88405294f717cd54e64be892e9",
+        "sourceTransform": [
+          0.48907371554253815,
+          0.006660322856591673,
+          -22.91757203022661,
+          -5.295292761214171
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 8,
+        "src": "/wardrobe/v6/performer/08-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.993333,
+        "cuffFront": "/wardrobe/v6/performer/08-cuff-front.png",
+        "faceMask": "/wardrobe/v6/performer/08-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 181.555,
+            "y": 364.33
+          },
+          "keyboard": {
+            "x": 459.24,
+            "y": 407.294
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.75,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.51,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "26ad432132496b25ce70c5d638edf17bff2fa4b1ef79498c2ff15dbcf02f49b6",
+        "bodySHA256": "ce45ac9f0d90351e3085a613a2b776cf84c4f3a06c1bae2bf7a0730a900a63c4",
+        "sourceTransform": [
+          0.48271754197032896,
+          -0.0005863048142788744,
+          -1.4716128841018872,
+          5.501496095767834
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 9,
+        "src": "/wardrobe/v6/performer/09-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/performer/09-cuff-front.png",
+        "faceMask": "/wardrobe/v6/performer/09-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 161.33,
+            "y": 365.575
+          },
+          "keyboard": {
+            "x": 446.599,
+            "y": 409.474
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.18,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.98,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "172350264ba96491a7e21e24564aea36fd57735f31a611b5f42f1f208751106c",
+        "bodySHA256": "bedebbd6488da743cd113fe01de659acb563d02e8faba99402269d66dd6f5cf9",
+        "sourceTransform": [
+          0.4859786679324829,
+          0.0004027869257435291,
+          -20.230589122310676,
+          15.346516920867202
+        ],
+        "extraction": "v6-approved-alpha-only"
+      }
+    ],
+    "cultivation": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v6/cultivation/01-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/cultivation/01-cuff-front.png",
+        "faceMask": "/wardrobe/v6/cultivation/01-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 158.613,
+            "y": 366.875
+          },
+          "keyboard": {
+            "x": 456.597,
+            "y": 414.939
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 65.66,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 72.73,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "5557004da320bbbba60dad3eabc8c2721e0a47c71dbfef6f08871a80c692c731",
+        "bodySHA256": "96c6df11fb01b06da0c02c0a4e07a3e908eddd3da5eb3957ca134c76ba93b26b",
+        "sourceTransform": [
+          0.5050224365554379,
+          -0.004950736776309506,
+          -36.52342669130309,
+          -8.567215792614832
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v6/cultivation/02-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/cultivation/02-cuff-front.png",
+        "faceMask": "/wardrobe/v6/cultivation/02-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 180.121,
+            "y": 363.021
+          },
+          "keyboard": {
+            "x": 462.596,
+            "y": 407.674
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.81,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.57,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "4e00257b356a052a2206d0d9f6817774867b6162556596e36df68e8e8310c195",
+        "bodySHA256": "457aff479db24ffb5e2a718748362cc4b0ae3b3db77ee29957fe277f93cb0720",
+        "sourceTransform": [
+          0.483127997080534,
+          0.0005700049829042319,
+          -0.6594898944823058,
+          3.236091282710447
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v6/cultivation/03-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/cultivation/03-cuff-front.png",
+        "faceMask": "/wardrobe/v6/cultivation/03-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 177.296,
+            "y": 366.278
+          },
+          "keyboard": {
+            "x": 462.607,
+            "y": 408.12
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 64.32,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 71.24,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "c417103fd066509e195ea06c911334f9c0dc6f0827db3fb31263b7371e569286",
+        "bodySHA256": "7a9621b5fb73fcc3467723fcd4abdc5f5b5c61e36d65b0825180c68179598b37",
+        "sourceTransform": [
+          0.49473971698176705,
+          -0.001516712327387,
+          -10.738930322473095,
+          -3.5662927218492086
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v6/cultivation/04-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/cultivation/04-cuff-front.png",
+        "faceMask": "/wardrobe/v6/cultivation/04-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 169.176,
+            "y": 367.745
+          },
+          "keyboard": {
+            "x": 448.429,
+            "y": 416.061
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.97,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.64,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "961b21f83b0e2cb8a492c95b69c451ca79d7200404f71ab93e7bf423e114a87e",
+        "bodySHA256": "606082b49e6c1f2350ae1251df259a0f06bfd6175f2dbdc8bcfdb9c5c31fb055",
+        "sourceTransform": [
+          0.47654410341505987,
+          0.011768549209491065,
+          -0.6974061304695738,
+          6.518138950456489
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v6/cultivation/05-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.986755,
+        "cuffFront": "/wardrobe/v6/cultivation/05-cuff-front.png",
+        "faceMask": "/wardrobe/v6/cultivation/05-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 171.469,
+            "y": 363.639
+          },
+          "keyboard": {
+            "x": 458.989,
+            "y": 412.044
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 64.53,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 71.48,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "0a4972164723fb10df49a1029f85e1dfc665571be395a75ca704c9a033ffb71d",
+        "bodySHA256": "b84f422c21fc60b9bf653f918558a66dc0b79a0c2ef7856adcd0b292c4bf9e71",
+        "sourceTransform": [
+          0.49638302821553976,
+          0.0005303568284287657,
+          -11.92774231734495,
+          -7.012229798050441
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v6/cultivation/06-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/cultivation/06-cuff-front.png",
+        "faceMask": "/wardrobe/v6/cultivation/06-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 172.439,
+            "y": 371.418
+          },
+          "keyboard": {
+            "x": 454.751,
+            "y": 422.89
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.76,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.62,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "84b8d178d65f76ceebdc3e104c479b0ca318815ab2a33fc178c2e40c37d3950f",
+        "bodySHA256": "7d87f1a7cfd70729833a69c0837f02e8c2fe24a1e7ad21a4b1a533ce89ad8520",
+        "sourceTransform": [
+          0.4902082302025198,
+          0.014807097616785418,
+          -1.1658418636614556,
+          0.6062832905780056
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 7,
+        "src": "/wardrobe/v6/cultivation/07-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/cultivation/07-cuff-front.png",
+        "faceMask": "/wardrobe/v6/cultivation/07-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 171.242,
+            "y": 363.861
+          },
+          "keyboard": {
+            "x": 445.173,
+            "y": 406.845
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.53,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.16,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "6fcd4508533bb3d09c88f87aa0426a4704586e25ec0ad5fe9fdc352278d85977",
+        "bodySHA256": "a7992ba3305ec44fe4d4a88f34278404160ba850517c7488193aff2aad43b127",
+        "sourceTransform": [
+          0.4733006773105245,
+          0.0014257491560793444,
+          -5.281509282883292,
+          8.304642620201207
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 8,
+        "src": "/wardrobe/v6/cultivation/08-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.977049,
+        "cuffFront": "/wardrobe/v6/cultivation/08-cuff-front.png",
+        "faceMask": "/wardrobe/v6/cultivation/08-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 174.188,
+            "y": 359.563
+          },
+          "keyboard": {
+            "x": 448.483,
+            "y": 424.608
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.96,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.63,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "b04eaf94f23a08e1f310a0a6e8c054a42673c97c1588b07be6a04bd20d77bf6c",
+        "bodySHA256": "aa3cc4af16d5f61b021bb2158c21ff25a7b3c8e1a465376c98a00a5a6e28cd97",
+        "sourceTransform": [
+          0.4758387990520926,
+          0.02665370855822216,
+          13.069482198904495,
+          -0.20313403591052293
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 9,
+        "src": "/wardrobe/v6/cultivation/09-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/cultivation/09-cuff-front.png",
+        "faceMask": "/wardrobe/v6/cultivation/09-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 166.321,
+            "y": 365.68
+          },
+          "keyboard": {
+            "x": 451.292,
+            "y": 415.693
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.4,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.23,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "cbf936c319c0f3371039134141e2e2aed3b008558086d12afc66dc9efc0ab1b1",
+        "bodySHA256": "5cb1fca13ca5191b9b57e4c1642120938ebecbafb2c66efbb1ed1edfe9d102c5",
+        "sourceTransform": [
+          0.4876434569685546,
+          0.005813765191087613,
+          -12.132783338853187,
+          -0.8617542718628783
+        ],
+        "extraction": "v6-approved-alpha-only"
+      }
+    ],
+    "shaolin": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v6/shaolin/01-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/shaolin/01-cuff-front.png",
+        "faceMask": "/wardrobe/v6/shaolin/01-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 172.037,
+            "y": 365.758
+          },
+          "keyboard": {
+            "x": 454.251,
+            "y": 415.472
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.98,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.76,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "901ada948a34f7726e03b6201d7135d4f0d11c51199bf3b243cc12fe3257c82a",
+        "bodySHA256": "a7931314653f081e4f1c6d82c6a0fb63f973d326600937e210e360751eb93aec",
+        "sourceTransform": [
+          0.4844711366938158,
+          0.0014780630164237347,
+          -6.623081180110034,
+          16.836562653612987
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v6/shaolin/02-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.981878,
+        "cuffFront": "/wardrobe/v6/shaolin/02-cuff-front.png",
+        "faceMask": "/wardrobe/v6/shaolin/02-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 171.54,
+            "y": 366.974
+          },
+          "keyboard": {
+            "x": 455.57,
+            "y": 415.219
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.09,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.88,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "5cafc91a45e817235a1bdb0c004d6b7f877116d771c880ec643962e5740d91c3",
+        "bodySHA256": "0003bef06a55e6f905a17c0b8769c152381f49acbfbc2f8ccc21d24a9336cb9f",
+        "sourceTransform": [
+          0.4852914678904461,
+          0.0008754984134909956,
+          -7.357053046977057,
+          16.211421113219956
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v6/shaolin/03-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/shaolin/03-cuff-front.png",
+        "faceMask": "/wardrobe/v6/shaolin/03-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 171.299,
+            "y": 369.453
+          },
+          "keyboard": {
+            "x": 455.138,
+            "y": 418.843
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.04,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.83,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "ca68755e989d3da785cba337b5c9a095cbc52bbfa49f26237fcb1c4967616831",
+        "bodySHA256": "786d157eecfebfcb8629c2adc06eb03af94b5510943e69e6d6d85893a1062ddb",
+        "sourceTransform": [
+          0.48490565942734276,
+          0.0012019892163458328,
+          -6.934224004029716,
+          15.941751523214293
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v6/shaolin/04-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/shaolin/04-cuff-front.png",
+        "faceMask": "/wardrobe/v6/shaolin/04-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 167.615,
+            "y": 368.499
+          },
+          "keyboard": {
+            "x": 454.97,
+            "y": 415.331
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.9,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.67,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "ec8c7a4aff5df12ee60bc0b84c035ccd98de3573bbd7050490ddd4061f21a7bf",
+        "bodySHA256": "f781881628dafd495799c31c6f7a6076dee5ff1bc38c707a3d938cf026fa419b",
+        "sourceTransform": [
+          0.48383244328184394,
+          0.0016744964982323006,
+          -6.218256176650925,
+          16.894189924674663
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v6/shaolin/05-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/shaolin/05-cuff-front.png",
+        "faceMask": "/wardrobe/v6/shaolin/05-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 172.126,
+            "y": 366.48
+          },
+          "keyboard": {
+            "x": 453.993,
+            "y": 414.949
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.94,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.72,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "e12b060d38fbea213b2a374ba28fa909c437890899c56865356b87e4ee5c48fd",
+        "bodySHA256": "2a8d8263e5f5f81d6c429f590ab803e76ef9fe9e58920ed641f69fa57f481a0a",
+        "sourceTransform": [
+          0.4841879970594951,
+          0.0015325862766090072,
+          -6.185188882743375,
+          17.0995226369011
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v6/shaolin/06-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/shaolin/06-cuff-front.png",
+        "faceMask": "/wardrobe/v6/shaolin/06-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 172.292,
+            "y": 366.146
+          },
+          "keyboard": {
+            "x": 453.996,
+            "y": 414.515
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.82,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.58,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "e9f320794a736c75314b6c81a6a9f34b771a154943b8ad530f58699a117f4e09",
+        "bodySHA256": "a09d328762ef5623c3dbc61e29b3df3fa92a8fce81d4fe0e5877fc0cf5a65524",
+        "sourceTransform": [
+          0.4832000529960661,
+          0.0019238053790254404,
+          -5.397218255229916,
+          16.631643827929906
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 7,
+        "src": "/wardrobe/v6/shaolin/07-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/shaolin/07-cuff-front.png",
+        "faceMask": "/wardrobe/v6/shaolin/07-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 171.849,
+            "y": 367.607
+          },
+          "keyboard": {
+            "x": 453.995,
+            "y": 414.226
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.91,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.69,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "7458a3f77d3bc78226e174c5752e24bb45410618e6c6a44891cab933dcf97af7",
+        "bodySHA256": "431a87f4ffa9e730ce988a458e33608d073b9846ba0ea0f6c5adef24b55cf84c",
+        "sourceTransform": [
+          0.48395099910637646,
+          0.0014813827610499904,
+          -6.090332134816379,
+          16.23370757701781
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 8,
+        "src": "/wardrobe/v6/shaolin/08-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.994992,
+        "cuffFront": "/wardrobe/v6/shaolin/08-cuff-front.png",
+        "faceMask": "/wardrobe/v6/shaolin/08-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 172.028,
+            "y": 367.7
+          },
+          "keyboard": {
+            "x": 454.018,
+            "y": 415.254
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.78,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.54,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "3ed2aa5a76bdc75bb9be63188be993dbd1299b23d4347ddcc4620b252f960c7c",
+        "bodySHA256": "2155e1863c147e2b49486ba500018719e1c40fbbb36570bce5725a7931eb8152",
+        "sourceTransform": [
+          0.4828962058225288,
+          -9.116706837276115e-05,
+          -6.413376243119103,
+          17.376638484614148
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 9,
+        "src": "/wardrobe/v6/shaolin/09-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/shaolin/09-cuff-front.png",
+        "faceMask": "/wardrobe/v6/shaolin/09-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 169.431,
+            "y": 370.867
+          },
+          "keyboard": {
+            "x": 455.284,
+            "y": 421.393
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.93,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.7,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "e1225d02309d137d3cfdee44c1ac761c565b87ec3f3592d23eff011139ce3a24",
+        "bodySHA256": "387ae22df2e3560c9d577aa6fcded7011d560d3c47cadea9bdefa7a4c76cac28",
+        "sourceTransform": [
+          0.48405760663983444,
+          0.0018208648288115263,
+          -6.0648812861406896,
+          16.302619718876088
+        ],
+        "extraction": "v6-approved-alpha-only"
+      }
+    ],
+    "emperor": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v6/emperor/01-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/emperor/01-cuff-front.png",
+        "faceMask": "/wardrobe/v6/emperor/01-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 174.918,
+            "y": 365.017
+          },
+          "keyboard": {
+            "x": 456.418,
+            "y": 408.637
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.79,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.55,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "de46e83c233696c239d49e4f727f4929621ae8a372f4428a94286b74fab93dfb",
+        "bodySHA256": "cfeb655cd66cbe0736874943d3ceb9d76862a1c488c7b8ecad4cc3fec8b5677c",
+        "sourceTransform": [
+          0.48299608765755875,
+          0.002437762001413422,
+          -4.800410106433247,
+          4.97143294421727
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v6/emperor/02-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/emperor/02-cuff-front.png",
+        "faceMask": "/wardrobe/v6/emperor/02-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 181.188,
+            "y": 363.64
+          },
+          "keyboard": {
+            "x": 459.26,
+            "y": 409.398
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.0,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.78,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "4ab078200a2e54b1dcc22407405992118f9a72e16c578c315ac619f9ad40c47e",
+        "bodySHA256": "22aa3f89aefc86bfca9d12cbbbfd1d5f7d4a46651ee793a67ed58a5327d42e81",
+        "sourceTransform": [
+          0.4846069547659694,
+          -0.0008289425493655413,
+          -2.81424898895915,
+          18.270095341904323
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v6/emperor/03-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/emperor/03-cuff-front.png",
+        "faceMask": "/wardrobe/v6/emperor/03-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 169.082,
+            "y": 366.661
+          },
+          "keyboard": {
+            "x": 454.714,
+            "y": 417.047
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 62.52,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 69.26,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "9b2bb9c90935fdc5adfffcdb757cc28361eebfc02c3425f450af6d31f784881f",
+        "bodySHA256": "56b5d177fe5f51c330da5d2b2a968db6d55fe959919fac7d1411ea770298bf43",
+        "sourceTransform": [
+          0.4809232577648201,
+          0.0049415204349883765,
+          -13.21253535549323,
+          5.684641119331275
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v6/emperor/04-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/emperor/04-cuff-front.png",
+        "faceMask": "/wardrobe/v6/emperor/04-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 171.571,
+            "y": 365.528
+          },
+          "keyboard": {
+            "x": 449.275,
+            "y": 410.459
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.56,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.18,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "f8377ff5cb593bf514c24ceb377c277a1250558866b2437c781a941f2b39d216",
+        "bodySHA256": "8c83983713463aad4cdb658d02fd20ab01faffbbb7af7a7722db2c9105ae6bc5",
+        "sourceTransform": [
+          0.4734861948320963,
+          0.00420915480353153,
+          -2.6749425692844397,
+          19.023644338808708
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v6/emperor/05-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/emperor/05-cuff-front.png",
+        "faceMask": "/wardrobe/v6/emperor/05-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 170.344,
+            "y": 373.24
+          },
+          "keyboard": {
+            "x": 453.396,
+            "y": 420.191
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.88,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.54,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "9ebabf3da4d68c300bf72702a50b72229147554524a847850bbf57a3c0fa2010",
+        "bodySHA256": "7df5dd5162635f0e9ed222128bbccad746ece99c8a7c03b30b1eea9825cdd70b",
+        "sourceTransform": [
+          0.47596314326694394,
+          0.0005134015495392059,
+          -12.731932467233321,
+          20.777878467442406
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v6/emperor/06-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.97545,
+        "cuffFront": "/wardrobe/v6/emperor/06-cuff-front.png",
+        "faceMask": "/wardrobe/v6/emperor/06-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 172.653,
+            "y": 371.476
+          },
+          "keyboard": {
+            "x": 449.771,
+            "y": 411.967
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 60.78,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 67.33,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "54a2994c19f3b4ac51b32d5963cde515f54cb44e4b244574103a2e302a54ac84",
+        "bodySHA256": "9d8349480a256c5a334d6099f3344957ee921458b0ae253ae1c5ccea8dfe9868",
+        "sourceTransform": [
+          0.4675431555945219,
+          0.002733571944947057,
+          2.3791313681526276,
+          26.395647215820418
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 7,
+        "src": "/wardrobe/v6/emperor/07-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 1.0,
+        "cuffFront": "/wardrobe/v6/emperor/07-cuff-front.png",
+        "faceMask": "/wardrobe/v6/emperor/07-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 175.266,
+            "y": 359.172
+          },
+          "keyboard": {
+            "x": 449.634,
+            "y": 418.321
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 61.67,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 68.31,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "0259905b74b3a66b1e69ac4ac01213698ecb87cab75042d121f73d7f8e085d5d",
+        "bodySHA256": "98d0fee6a620d044b5a3d8cf75b69bc9f0bc1caf86d2dba9edb0d9171ed2d754",
+        "sourceTransform": [
+          0.4741193190963059,
+          0.015989163194766936,
+          4.498364087042063,
+          4.063698772711177
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 8,
+        "src": "/wardrobe/v6/emperor/08-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/emperor/08-cuff-front.png",
+        "faceMask": "/wardrobe/v6/emperor/08-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 167.738,
+            "y": 373.934
+          },
+          "keyboard": {
+            "x": 468.562,
+            "y": 425.54
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.58,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.43,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "39112697f3f3251e1a813d174a3e26d98e2be1e8e0af976a15d397f656911dda",
+        "bodySHA256": "3729137c89ba77f7619359731e5fa18cff4c536fe264b10970f1d316a09c3436",
+        "sourceTransform": [
+          0.4889878398716786,
+          0.010116859144092105,
+          -6.627001633122859,
+          7.155753250592909
+        ],
+        "extraction": "v6-approved-alpha-only"
+      },
+      {
+        "level": 9,
+        "src": "/wardrobe/v6/emperor/09-body.png",
+        "width": 612,
+        "height": 580,
+        "frameScale": 0.973856,
+        "cuffFront": "/wardrobe/v6/emperor/09-cuff-front.png",
+        "faceMask": "/wardrobe/v6/emperor/09-face-mask.png",
+        "roots": {
+          "pointer": {
+            "x": 168.781,
+            "y": 377.884
+          },
+          "keyboard": {
+            "x": 460.524,
+            "y": 423.371
+          }
+        },
+        "cuffs": {
+          "pointer": {
+            "width": 63.95,
+            "overlap": 8
+          },
+          "keyboard": {
+            "width": 70.83,
+            "overlap": 8
+          }
+        },
+        "eyesUnderlay": [
+          {
+            "x": 250.5,
+            "y": 314.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          },
+          {
+            "x": 367.5,
+            "y": 350.5,
+            "rx": 14,
+            "ry": 15,
+            "fill": "#fff"
+          }
+        ],
+        "sourceSHA256": "7101dc92850cef4e101684bf780be09cc4904c078e18830035d75acee368c133",
+        "bodySHA256": "3cc3bd1067e24ec374aa4d2fd6232cd5ad47056c5b23d4df1b75ceca194db558",
+        "sourceTransform": [
+          0.49187331331361567,
+          0.004506722129459059,
+          -15.517404414558769,
+          10.10154546974934
+        ],
+        "extraction": "v6-approved-alpha-only"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4929 @@
+{
+  "schemaVersion": 1,
+  "sourceSize": [
+    612,
+    354
+  ],
+  "sourceStageOffset": [
+    0,
+    176
+  ],
+  "coordinateContract": "bbox and whiteCoreBBox are source [x,y,width,height]; anchorY and contactY include +176 and are stage coordinates. Uniform device translation belongs only on pressed-surface. Paw y mapping fixes anchorY and adds deviceOffsetY at contactY.",
+  "method": "Keep all original RGBA visible pixels exactly once. Cyan belongs to surface; the main non-cyan component containing the largest white paw owns its original black outline. Small separate white glyphs beside cyan belong to surface. Any remaining original fringe is assigned, never erased.",
+  "entries": {
+    "standard/left/Alt": {
+      "key": "Alt",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Alt.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Alt.png",
+      "bbox": [
+        377,
+        195,
+        116,
+        58
+      ],
+      "whiteCoreBBox": [
+        385,
+        196,
+        98,
+        49
+      ],
+      "anatomicalBBox": [
+        378,
+        196,
+        114,
+        57
+      ],
+      "anchorY": 372,
+      "contactY": 428,
+      "pawPixels": 3936,
+      "surfacePixels": 219,
+      "cyanPixels": 118,
+      "surfaceGlyphCorePixels": 7,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "bf888e9a921d05984deacb2c19e6b8343d44d562b2395fa0d47183026de64976"
+    },
+    "standard/left/AltGr": {
+      "key": "AltGr",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/AltGr.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/AltGr.png",
+      "bbox": [
+        350,
+        170,
+        157,
+        62
+      ],
+      "whiteCoreBBox": [
+        359,
+        171,
+        81,
+        53
+      ],
+      "anatomicalBBox": [
+        352,
+        171,
+        93,
+        59
+      ],
+      "anchorY": 347,
+      "contactY": 405,
+      "pawPixels": 4089,
+      "surfacePixels": 200,
+      "cyanPixels": 101,
+      "surfaceGlyphCorePixels": 5,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "d6fce9d150ec8a851cd965bc6e238e0b5a6872abea2cb0fa4ab66697f7a01cf4"
+    },
+    "standard/left/BackQuote": {
+      "key": "BackQuote",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/BackQuote.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/BackQuote.png",
+      "bbox": [
+        383,
+        184,
+        135,
+        148
+      ],
+      "whiteCoreBBox": [
+        392,
+        185,
+        118,
+        139
+      ],
+      "anatomicalBBox": [
+        384,
+        185,
+        133,
+        145
+      ],
+      "anchorY": 361,
+      "contactY": 505,
+      "pawPixels": 10496,
+      "surfacePixels": 377,
+      "cyanPixels": 246,
+      "surfaceGlyphCorePixels": 6,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "3cc70c9fc49b417c9ac76899193022763847c2a6cff6055053192731f93768d0"
+    },
+    "standard/left/Backspace": {
+      "key": "Backspace",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Backspace.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Backspace.png",
+      "bbox": [
+        254,
+        188,
+        219,
+        96
+      ],
+      "whiteCoreBBox": [
+        262,
+        191,
+        209,
+        84
+      ],
+      "anatomicalBBox": [
+        255,
+        189,
+        217,
+        94
+      ],
+      "anchorY": 365,
+      "contactY": 458,
+      "pawPixels": 11167,
+      "surfacePixels": 388,
+      "cyanPixels": 232,
+      "surfaceGlyphCorePixels": 11,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "d790353f0c495c5307f625e1427f14509794d36d8054b9f3d575b2ae265c5fee"
+    },
+    "standard/left/CapsLock": {
+      "key": "CapsLock",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/CapsLock.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/CapsLock.png",
+      "bbox": [
+        384,
+        197,
+        137,
+        103
+      ],
+      "whiteCoreBBox": [
+        385,
+        198,
+        128,
+        93
+      ],
+      "anatomicalBBox": [
+        385,
+        198,
+        135,
+        100
+      ],
+      "anchorY": 374,
+      "contactY": 473,
+      "pawPixels": 7093,
+      "surfacePixels": 444,
+      "cyanPixels": 271,
+      "surfaceGlyphCorePixels": 41,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "e47f0243d74d84182694b12d52242541d0b7927afefeebbebb639d2cbdd2a369"
+    },
+    "standard/left/Control": {
+      "key": "Control",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Control.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Control.png",
+      "bbox": [
+        379,
+        193,
+        165,
+        80
+      ],
+      "whiteCoreBBox": [
+        390,
+        194,
+        146,
+        70
+      ],
+      "anatomicalBBox": [
+        382,
+        194,
+        160,
+        77
+      ],
+      "anchorY": 370,
+      "contactY": 446,
+      "pawPixels": 5002,
+      "surfacePixels": 882,
+      "cyanPixels": 577,
+      "surfaceGlyphCorePixels": 26,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "65dcc383969f7144d11768c6d79e5597f051602a33600d7703a578fff8d1bba9"
+    },
+    "standard/left/ControlLeft": {
+      "key": "ControlLeft",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/ControlLeft.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/ControlLeft.png",
+      "bbox": [
+        379,
+        193,
+        165,
+        80
+      ],
+      "whiteCoreBBox": [
+        390,
+        194,
+        146,
+        70
+      ],
+      "anatomicalBBox": [
+        382,
+        194,
+        160,
+        77
+      ],
+      "anchorY": 370,
+      "contactY": 446,
+      "pawPixels": 5002,
+      "surfacePixels": 252,
+      "cyanPixels": 133,
+      "surfaceGlyphCorePixels": 13,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "5d503b1b671e2ba1fc276c46c4de87987c0ac032b52716da31fcefc2092e6fb9"
+    },
+    "standard/left/ControlRight": {
+      "key": "ControlRight",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/ControlRight.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/ControlRight.png",
+      "bbox": [
+        230,
+        133,
+        231,
+        97
+      ],
+      "whiteCoreBBox": [
+        322,
+        177,
+        138,
+        47
+      ],
+      "anatomicalBBox": [
+        316,
+        174,
+        144,
+        54
+      ],
+      "anchorY": 350,
+      "contactY": 403,
+      "pawPixels": 5511,
+      "surfacePixels": 390,
+      "cyanPixels": 273,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "dc3742c31c09bd6ae92dbbe5407e0f5a5dc4a45a86fbbe5f149d5c2b22f82160"
+    },
+    "standard/left/Delete": {
+      "key": "Delete",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Delete.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Delete.png",
+      "bbox": [
+        275,
+        190,
+        204,
+        79
+      ],
+      "whiteCoreBBox": [
+        283,
+        195,
+        195,
+        66
+      ],
+      "anatomicalBBox": [
+        276,
+        191,
+        202,
+        77
+      ],
+      "anchorY": 367,
+      "contactY": 443,
+      "pawPixels": 9697,
+      "surfacePixels": 360,
+      "cyanPixels": 256,
+      "surfaceGlyphCorePixels": 19,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "5c108401c01e1a7dcc2cad4104417b86a36b8c72a6edfd742fee94bc185d45d4"
+    },
+    "standard/left/Escape": {
+      "key": "Escape",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Escape.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Escape.png",
+      "bbox": [
+        388,
+        184,
+        116,
+        164
+      ],
+      "whiteCoreBBox": [
+        391,
+        186,
+        104,
+        153
+      ],
+      "anatomicalBBox": [
+        389,
+        186,
+        113,
+        161
+      ],
+      "anchorY": 362,
+      "contactY": 522,
+      "pawPixels": 9871,
+      "surfacePixels": 275,
+      "cyanPixels": 157,
+      "surfaceGlyphCorePixels": 18,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "d3a580ed227c5150f0edaa22ef8b50070cb7652c8e76cd8e82a1eb9864ce495f"
+    },
+    "standard/left/Fn": {
+      "key": "Fn",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Fn.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Fn.png",
+      "bbox": [
+        383,
+        183,
+        97,
+        156
+      ],
+      "whiteCoreBBox": [
+        391,
+        185,
+        82,
+        145
+      ],
+      "anatomicalBBox": [
+        384,
+        185,
+        95,
+        152
+      ],
+      "anchorY": 361,
+      "contactY": 512,
+      "pawPixels": 10755,
+      "surfacePixels": 139,
+      "cyanPixels": 57,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "7255c269cffd48c178c4587dfe8afcd80d219f83f61b9e1bc2de21a9dd25a3fd"
+    },
+    "standard/left/KeyA": {
+      "key": "KeyA",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyA.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyA.png",
+      "bbox": [
+        380,
+        181,
+        118,
+        108
+      ],
+      "whiteCoreBBox": [
+        385,
+        182,
+        104,
+        98
+      ],
+      "anatomicalBBox": [
+        382,
+        182,
+        115,
+        107
+      ],
+      "anchorY": 358,
+      "contactY": 464,
+      "pawPixels": 8464,
+      "surfacePixels": 238,
+      "cyanPixels": 143,
+      "surfaceGlyphCorePixels": 3,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "2d8541930d6626df328be02702a4ac5c5fa24812d62386c662ca7d6b16db1ca7"
+    },
+    "standard/left/KeyB": {
+      "key": "KeyB",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyB.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyB.png",
+      "bbox": [
+        373,
+        187,
+        98,
+        65
+      ],
+      "whiteCoreBBox": [
+        380,
+        189,
+        87,
+        55
+      ],
+      "anatomicalBBox": [
+        374,
+        189,
+        95,
+        62
+      ],
+      "anchorY": 365,
+      "contactY": 426,
+      "pawPixels": 4186,
+      "surfacePixels": 228,
+      "cyanPixels": 117,
+      "surfaceGlyphCorePixels": 25,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "0c02f94069cbd155229669d6f5550b550b635a4643d0e1a86bff4a0d650ee514"
+    },
+    "standard/left/KeyC": {
+      "key": "KeyC",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyC.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyC.png",
+      "bbox": [
+        368,
+        185,
+        105,
+        76
+      ],
+      "whiteCoreBBox": [
+        378,
+        187,
+        86,
+        66
+      ],
+      "anatomicalBBox": [
+        370,
+        187,
+        102,
+        73
+      ],
+      "anchorY": 363,
+      "contactY": 435,
+      "pawPixels": 4800,
+      "surfacePixels": 262,
+      "cyanPixels": 160,
+      "surfaceGlyphCorePixels": 23,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "f4e74de50e64c2b84c9c26f2fe3e079ba8c65a91d4e691e5c4f28b7805c2b9bb"
+    },
+    "standard/left/KeyD": {
+      "key": "KeyD",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyD.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyD.png",
+      "bbox": [
+        383,
+        183,
+        100,
+        98
+      ],
+      "whiteCoreBBox": [
+        385,
+        185,
+        95,
+        88
+      ],
+      "anatomicalBBox": [
+        384,
+        185,
+        97,
+        95
+      ],
+      "anchorY": 361,
+      "contactY": 455,
+      "pawPixels": 6769,
+      "surfacePixels": 135,
+      "cyanPixels": 81,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "1cbaa2d015ecba9be1c27418d24b3e24ee070c065da81252df43c100b704f553"
+    },
+    "standard/left/KeyE": {
+      "key": "KeyE",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyE.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyE.png",
+      "bbox": [
+        384,
+        185,
+        99,
+        109
+      ],
+      "whiteCoreBBox": [
+        392,
+        187,
+        83,
+        100
+      ],
+      "anatomicalBBox": [
+        386,
+        187,
+        96,
+        107
+      ],
+      "anchorY": 363,
+      "contactY": 469,
+      "pawPixels": 7492,
+      "surfacePixels": 280,
+      "cyanPixels": 182,
+      "surfaceGlyphCorePixels": 22,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "2aa3aabb812df006b8ca599d5261adc46493d269f022fc425ae48b4bd40ff447"
+    },
+    "standard/left/KeyF": {
+      "key": "KeyF",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyF.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyF.png",
+      "bbox": [
+        379,
+        177,
+        101,
+        101
+      ],
+      "whiteCoreBBox": [
+        386,
+        179,
+        87,
+        90
+      ],
+      "anatomicalBBox": [
+        380,
+        179,
+        99,
+        98
+      ],
+      "anchorY": 355,
+      "contactY": 452,
+      "pawPixels": 7195,
+      "surfacePixels": 156,
+      "cyanPixels": 84,
+      "surfaceGlyphCorePixels": 7,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "fe8975ea8a14a2b66de48429fa2f7d78b19483497a7cdf9b8b9984a147c81f22"
+    },
+    "standard/left/KeyG": {
+      "key": "KeyG",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyG.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyG.png",
+      "bbox": [
+        375,
+        179,
+        108,
+        94
+      ],
+      "whiteCoreBBox": [
+        384,
+        181,
+        92,
+        83
+      ],
+      "anatomicalBBox": [
+        376,
+        181,
+        105,
+        91
+      ],
+      "anchorY": 357,
+      "contactY": 447,
+      "pawPixels": 7020,
+      "surfacePixels": 170,
+      "cyanPixels": 79,
+      "surfaceGlyphCorePixels": 6,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "ece8b1db7a8d38a1bbaaac13bc3d5fb62860e04f249a58049e6b0b78e91c1557"
+    },
+    "standard/left/KeyH": {
+      "key": "KeyH",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyH.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyH.png",
+      "bbox": [
+        361,
+        178,
+        116,
+        93
+      ],
+      "whiteCoreBBox": [
+        370,
+        180,
+        101,
+        82
+      ],
+      "anatomicalBBox": [
+        362,
+        180,
+        114,
+        90
+      ],
+      "anchorY": 356,
+      "contactY": 445,
+      "pawPixels": 7044,
+      "surfacePixels": 129,
+      "cyanPixels": 58,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "6cfa53c73b23377504575a1292add218cf411c1acd1dc619a2a7e44900c9f14b"
+    },
+    "standard/left/KeyI": {
+      "key": "KeyI",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyI.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyI.png",
+      "bbox": [
+        328,
+        191,
+        153,
+        91
+      ],
+      "whiteCoreBBox": [
+        337,
+        192,
+        141,
+        81
+      ],
+      "anatomicalBBox": [
+        329,
+        192,
+        150,
+        89
+      ],
+      "anchorY": 368,
+      "contactY": 456,
+      "pawPixels": 8871,
+      "surfacePixels": 201,
+      "cyanPixels": 114,
+      "surfaceGlyphCorePixels": 7,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "a8badfe228c90a7a69b19fbc8012e5713622a19ad608741e2bcd236b4550b4e3"
+    },
+    "standard/left/KeyJ": {
+      "key": "KeyJ",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyJ.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyJ.png",
+      "bbox": [
+        349,
+        186,
+        129,
+        83
+      ],
+      "whiteCoreBBox": [
+        358,
+        187,
+        117,
+        73
+      ],
+      "anatomicalBBox": [
+        351,
+        187,
+        125,
+        81
+      ],
+      "anchorY": 363,
+      "contactY": 443,
+      "pawPixels": 6911,
+      "surfacePixels": 172,
+      "cyanPixels": 119,
+      "surfaceGlyphCorePixels": 8,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "b8cf1685b44212264c165fd07bc7d4f36644d7556135b50c1342c5e73fe95f1a"
+    },
+    "standard/left/KeyK": {
+      "key": "KeyK",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyK.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyK.png",
+      "bbox": [
+        332,
+        180,
+        146,
+        84
+      ],
+      "whiteCoreBBox": [
+        341,
+        181,
+        135,
+        74
+      ],
+      "anatomicalBBox": [
+        334,
+        181,
+        142,
+        82
+      ],
+      "anchorY": 357,
+      "contactY": 438,
+      "pawPixels": 7885,
+      "surfacePixels": 172,
+      "cyanPixels": 96,
+      "surfaceGlyphCorePixels": 1,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "5539f018bda3d109755482ce0e09d8762650376cdc89abc2f200d7ebbf874557"
+    },
+    "standard/left/KeyL": {
+      "key": "KeyL",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyL.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyL.png",
+      "bbox": [
+        314,
+        179,
+        164,
+        81
+      ],
+      "whiteCoreBBox": [
+        323,
+        181,
+        154,
+        70
+      ],
+      "anatomicalBBox": [
+        315,
+        180,
+        162,
+        79
+      ],
+      "anchorY": 356,
+      "contactY": 434,
+      "pawPixels": 8098,
+      "surfacePixels": 172,
+      "cyanPixels": 93,
+      "surfaceGlyphCorePixels": 3,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "33bbba6709bd80b9352bc82678037ac51ffca0d34eac4ee26031b594e9bd3cd9"
+    },
+    "standard/left/KeyM": {
+      "key": "KeyM",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyM.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyM.png",
+      "bbox": [
+        355,
+        184,
+        119,
+        67
+      ],
+      "whiteCoreBBox": [
+        364,
+        186,
+        103,
+        56
+      ],
+      "anatomicalBBox": [
+        356,
+        186,
+        117,
+        64
+      ],
+      "anchorY": 362,
+      "contactY": 425,
+      "pawPixels": 5498,
+      "surfacePixels": 185,
+      "cyanPixels": 91,
+      "surfaceGlyphCorePixels": 13,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "6cdc50b96f6c9e9b519d9159e42e616f3f53bc60bfa64fd68446e48f9f112d51"
+    },
+    "standard/left/KeyN": {
+      "key": "KeyN",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyN.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyN.png",
+      "bbox": [
+        371,
+        189,
+        107,
+        63
+      ],
+      "whiteCoreBBox": [
+        380,
+        190,
+        95,
+        54
+      ],
+      "anatomicalBBox": [
+        372,
+        190,
+        105,
+        61
+      ],
+      "anchorY": 366,
+      "contactY": 426,
+      "pawPixels": 4687,
+      "surfacePixels": 222,
+      "cyanPixels": 140,
+      "surfaceGlyphCorePixels": 20,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "7f0cde6c2467b619dbd7ccde97426681e017c5f9ea274f98e8e667274d61435f"
+    },
+    "standard/left/KeyO": {
+      "key": "KeyO",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyO.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyO.png",
+      "bbox": [
+        304,
+        190,
+        164,
+        88
+      ],
+      "whiteCoreBBox": [
+        313,
+        192,
+        153,
+        77
+      ],
+      "anatomicalBBox": [
+        306,
+        192,
+        160,
+        85
+      ],
+      "anchorY": 368,
+      "contactY": 452,
+      "pawPixels": 8776,
+      "surfacePixels": 120,
+      "cyanPixels": 49,
+      "surfaceGlyphCorePixels": 4,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "3d143e76f67c3f29e4dcd31e98c9be9fadaa9fbd3ea060d0f21bcbbb077a5474"
+    },
+    "standard/left/KeyP": {
+      "key": "KeyP",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyP.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyP.png",
+      "bbox": [
+        287,
+        190,
+        192,
+        86
+      ],
+      "whiteCoreBBox": [
+        296,
+        195,
+        179,
+        72
+      ],
+      "anatomicalBBox": [
+        288,
+        192,
+        190,
+        83
+      ],
+      "anchorY": 368,
+      "contactY": 450,
+      "pawPixels": 9791,
+      "surfacePixels": 122,
+      "cyanPixels": 62,
+      "surfaceGlyphCorePixels": 4,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "7ac34bbab7632851efef6bacba5005de7f3e9813ba2b5496bb25eeb9bcd1c18a"
+    },
+    "standard/left/KeyQ": {
+      "key": "KeyQ",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyQ.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyQ.png",
+      "bbox": [
+        385,
+        191,
+        110,
+        119
+      ],
+      "whiteCoreBBox": [
+        389,
+        192,
+        97,
+        109
+      ],
+      "anatomicalBBox": [
+        386,
+        192,
+        108,
+        116
+      ],
+      "anchorY": 368,
+      "contactY": 483,
+      "pawPixels": 8381,
+      "surfacePixels": 271,
+      "cyanPixels": 139,
+      "surfaceGlyphCorePixels": 22,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "3e2ce5a80a6a5e1aac1bcbe53c2b0977746caa3dd39b9fc6cd750d7fada2f12b"
+    },
+    "standard/left/KeyR": {
+      "key": "KeyR",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyR.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyR.png",
+      "bbox": [
+        386,
+        190,
+        95,
+        102
+      ],
+      "whiteCoreBBox": [
+        394,
+        191,
+        83,
+        93
+      ],
+      "anatomicalBBox": [
+        387,
+        191,
+        93,
+        100
+      ],
+      "anchorY": 367,
+      "contactY": 466,
+      "pawPixels": 7184,
+      "surfacePixels": 236,
+      "cyanPixels": 141,
+      "surfaceGlyphCorePixels": 17,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "50dc7d8f8f4177473bd2ff57f9cb77908aed232a9d938739958579a1ffd4801f"
+    },
+    "standard/left/KeyS": {
+      "key": "KeyS",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyS.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyS.png",
+      "bbox": [
+        381,
+        178,
+        108,
+        110
+      ],
+      "whiteCoreBBox": [
+        383,
+        179,
+        97,
+        100
+      ],
+      "anatomicalBBox": [
+        383,
+        179,
+        105,
+        106
+      ],
+      "anchorY": 355,
+      "contactY": 460,
+      "pawPixels": 7887,
+      "surfacePixels": 123,
+      "cyanPixels": 46,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "9abfab4c607018089ad5a14bd7cc9dd89f10e655fa86d04100377f4ec6acd253"
+    },
+    "standard/left/KeyT": {
+      "key": "KeyT",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyT.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyT.png",
+      "bbox": [
+        377,
+        188,
+        101,
+        100
+      ],
+      "whiteCoreBBox": [
+        386,
+        190,
+        84,
+        89
+      ],
+      "anatomicalBBox": [
+        379,
+        190,
+        98,
+        97
+      ],
+      "anchorY": 366,
+      "contactY": 462,
+      "pawPixels": 6994,
+      "surfacePixels": 267,
+      "cyanPixels": 160,
+      "surfaceGlyphCorePixels": 16,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "bdb8b2e94312f4d5e264f609979fa060bab43a38913529650f10e9e13f35611b"
+    },
+    "standard/left/KeyU": {
+      "key": "KeyU",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyU.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyU.png",
+      "bbox": [
+        343,
+        191,
+        139,
+        90
+      ],
+      "whiteCoreBBox": [
+        352,
+        193,
+        123,
+        80
+      ],
+      "anatomicalBBox": [
+        344,
+        193,
+        136,
+        87
+      ],
+      "anchorY": 369,
+      "contactY": 455,
+      "pawPixels": 8154,
+      "surfacePixels": 226,
+      "cyanPixels": 151,
+      "surfaceGlyphCorePixels": 17,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "96d2c0cc85dfd22f949d268fecf0e432e2c0eddb73997efcb1d9fa09d22fad87"
+    },
+    "standard/left/KeyV": {
+      "key": "KeyV",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyV.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyV.png",
+      "bbox": [
+        373,
+        175,
+        102,
+        79
+      ],
+      "whiteCoreBBox": [
+        383,
+        177,
+        88,
+        69
+      ],
+      "anatomicalBBox": [
+        375,
+        177,
+        99,
+        76
+      ],
+      "anchorY": 353,
+      "contactY": 428,
+      "pawPixels": 5303,
+      "surfacePixels": 270,
+      "cyanPixels": 173,
+      "surfaceGlyphCorePixels": 22,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "ba9e8e3460bb334b4fb73bd9a556e53b024ee75d24365c0355688c19a9df32d7"
+    },
+    "standard/left/KeyW": {
+      "key": "KeyW",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyW.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyW.png",
+      "bbox": [
+        385,
+        186,
+        102,
+        116
+      ],
+      "whiteCoreBBox": [
+        393,
+        187,
+        88,
+        106
+      ],
+      "anatomicalBBox": [
+        387,
+        187,
+        99,
+        113
+      ],
+      "anchorY": 363,
+      "contactY": 475,
+      "pawPixels": 8373,
+      "surfacePixels": 270,
+      "cyanPixels": 146,
+      "surfaceGlyphCorePixels": 21,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "ce93f3e06b24112c68424e6267b56008a883278135286675d2aea8449ae59124"
+    },
+    "standard/left/KeyX": {
+      "key": "KeyX",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyX.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyX.png",
+      "bbox": [
+        380,
+        182,
+        102,
+        86
+      ],
+      "whiteCoreBBox": [
+        387,
+        183,
+        90,
+        76
+      ],
+      "anatomicalBBox": [
+        381,
+        183,
+        100,
+        83
+      ],
+      "anchorY": 359,
+      "contactY": 441,
+      "pawPixels": 5510,
+      "surfacePixels": 194,
+      "cyanPixels": 91,
+      "surfaceGlyphCorePixels": 2,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "b1c0b5ff3fb4bf634cb77852f4e45772069a5138a3bd683f8f1bee4439313fbd"
+    },
+    "standard/left/KeyY": {
+      "key": "KeyY",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyY.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyY.png",
+      "bbox": [
+        365,
+        187,
+        114,
+        97
+      ],
+      "whiteCoreBBox": [
+        374,
+        188,
+        101,
+        88
+      ],
+      "anatomicalBBox": [
+        366,
+        188,
+        111,
+        95
+      ],
+      "anchorY": 364,
+      "contactY": 458,
+      "pawPixels": 7247,
+      "surfacePixels": 277,
+      "cyanPixels": 175,
+      "surfaceGlyphCorePixels": 21,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "24a9121117e6ca6dd1eef0586c0ae4ea244f8a7f9881749dbefdc7b9fc5fa8f9"
+    },
+    "standard/left/KeyZ": {
+      "key": "KeyZ",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/KeyZ.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/KeyZ.png",
+      "bbox": [
+        384,
+        193,
+        107,
+        81
+      ],
+      "whiteCoreBBox": [
+        388,
+        195,
+        94,
+        70
+      ],
+      "anatomicalBBox": [
+        386,
+        195,
+        104,
+        78
+      ],
+      "anchorY": 371,
+      "contactY": 448,
+      "pawPixels": 5893,
+      "surfacePixels": 233,
+      "cyanPixels": 144,
+      "surfaceGlyphCorePixels": 6,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "086ef91296fa6a960e727b49494f07a26753ae8317175b3e611315ad4cf8561b"
+    },
+    "standard/left/Meta": {
+      "key": "Meta",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Meta.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Meta.png",
+      "bbox": [
+        383,
+        199,
+        133,
+        63
+      ],
+      "whiteCoreBBox": [
+        390,
+        201,
+        118,
+        52
+      ],
+      "anatomicalBBox": [
+        384,
+        201,
+        132,
+        58
+      ],
+      "anchorY": 377,
+      "contactY": 434,
+      "pawPixels": 4202,
+      "surfacePixels": 132,
+      "cyanPixels": 61,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "2a1600d07cd49faa2ea3cf4ab98606f7157f16346ddc3e665ea07c4edb507728"
+    },
+    "standard/left/Num0": {
+      "key": "Num0",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Num0.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Num0.png",
+      "bbox": [
+        288,
+        187,
+        199,
+        97
+      ],
+      "whiteCoreBBox": [
+        297,
+        192,
+        186,
+        84
+      ],
+      "anatomicalBBox": [
+        289,
+        188,
+        198,
+        94
+      ],
+      "anchorY": 364,
+      "contactY": 457,
+      "pawPixels": 9568,
+      "surfacePixels": 325,
+      "cyanPixels": 210,
+      "surfaceGlyphCorePixels": 31,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "0339e68c4db9a0735d782e2daf6c2e16a644bf1c3f6b54acfc84ca44f5a5d57b"
+    },
+    "standard/left/Num1": {
+      "key": "Num1",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Num1.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Num1.png",
+      "bbox": [
+        385,
+        186,
+        117,
+        139
+      ],
+      "whiteCoreBBox": [
+        394,
+        187,
+        99,
+        130
+      ],
+      "anatomicalBBox": [
+        386,
+        187,
+        115,
+        137
+      ],
+      "anchorY": 363,
+      "contactY": 499,
+      "pawPixels": 9618,
+      "surfacePixels": 379,
+      "cyanPixels": 238,
+      "surfaceGlyphCorePixels": 12,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "70e047f904016b13e55062148e2a6f00adad691db227ffe962d9e849227f6d51"
+    },
+    "standard/left/Num2": {
+      "key": "Num2",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Num2.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Num2.png",
+      "bbox": [
+        386,
+        180,
+        99,
+        138
+      ],
+      "whiteCoreBBox": [
+        389,
+        182,
+        89,
+        128
+      ],
+      "anatomicalBBox": [
+        387,
+        182,
+        97,
+        136
+      ],
+      "anchorY": 358,
+      "contactY": 493,
+      "pawPixels": 9213,
+      "surfacePixels": 378,
+      "cyanPixels": 235,
+      "surfaceGlyphCorePixels": 26,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "0f703274500af5b8ea3c008c8928db01935df0e7b5cf2760ac77260feec3e166"
+    },
+    "standard/left/Num3": {
+      "key": "Num3",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Num3.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Num3.png",
+      "bbox": [
+        384,
+        181,
+        101,
+        139
+      ],
+      "whiteCoreBBox": [
+        391,
+        182,
+        86,
+        129
+      ],
+      "anatomicalBBox": [
+        385,
+        182,
+        99,
+        137
+      ],
+      "anchorY": 358,
+      "contactY": 494,
+      "pawPixels": 10020,
+      "surfacePixels": 327,
+      "cyanPixels": 187,
+      "surfaceGlyphCorePixels": 31,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "9d20481313af046d08da8454cfbb80ad9ea7fa73a77c6bc082879cca3154744b"
+    },
+    "standard/left/Num4": {
+      "key": "Num4",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Num4.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Num4.png",
+      "bbox": [
+        379,
+        181,
+        109,
+        128
+      ],
+      "whiteCoreBBox": [
+        387,
+        182,
+        98,
+        119
+      ],
+      "anatomicalBBox": [
+        380,
+        182,
+        107,
+        126
+      ],
+      "anchorY": 358,
+      "contactY": 483,
+      "pawPixels": 9195,
+      "surfacePixels": 353,
+      "cyanPixels": 233,
+      "surfaceGlyphCorePixels": 33,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "a82c58f6ab6b3a6bf432150ea7cedf2fa2fb852f396d6a4d60cdcdd4d128ea59"
+    },
+    "standard/left/Num5": {
+      "key": "Num5",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Num5.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Num5.png",
+      "bbox": [
+        375,
+        209,
+        106,
+        95
+      ],
+      "whiteCoreBBox": [
+        383,
+        209,
+        91,
+        86
+      ],
+      "anatomicalBBox": [
+        376,
+        209,
+        105,
+        92
+      ],
+      "anchorY": 385,
+      "contactY": 476,
+      "pawPixels": 6683,
+      "surfacePixels": 369,
+      "cyanPixels": 248,
+      "surfaceGlyphCorePixels": 27,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "e92598d2ead2f6f5737c505b36e9f2a91fc31026af7422511320ac2985d21a44"
+    },
+    "standard/left/Num6": {
+      "key": "Num6",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Num6.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Num6.png",
+      "bbox": [
+        356,
+        206,
+        129,
+        90
+      ],
+      "whiteCoreBBox": [
+        367,
+        212,
+        110,
+        75
+      ],
+      "anatomicalBBox": [
+        358,
+        207,
+        126,
+        89
+      ],
+      "anchorY": 383,
+      "contactY": 471,
+      "pawPixels": 6809,
+      "surfacePixels": 392,
+      "cyanPixels": 226,
+      "surfaceGlyphCorePixels": 29,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "9460a60037120fc70411b38695937b8bc83e953de454b616444f0488db6bcbaa"
+    },
+    "standard/left/Num7": {
+      "key": "Num7",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Num7.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Num7.png",
+      "bbox": [
+        333,
+        198,
+        152,
+        100
+      ],
+      "whiteCoreBBox": [
+        342,
+        204,
+        135,
+        86
+      ],
+      "anatomicalBBox": [
+        334,
+        199,
+        150,
+        98
+      ],
+      "anchorY": 375,
+      "contactY": 472,
+      "pawPixels": 8703,
+      "surfacePixels": 251,
+      "cyanPixels": 145,
+      "surfaceGlyphCorePixels": 20,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "111618ade68991f012ec0f81f3226de294b366e76233cd69f7d6622efa0f4051"
+    },
+    "standard/left/Num8": {
+      "key": "Num8",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Num8.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Num8.png",
+      "bbox": [
+        313,
+        194,
+        166,
+        99
+      ],
+      "whiteCoreBBox": [
+        321,
+        200,
+        151,
+        84
+      ],
+      "anatomicalBBox": [
+        314,
+        195,
+        164,
+        96
+      ],
+      "anchorY": 371,
+      "contactY": 466,
+      "pawPixels": 8681,
+      "surfacePixels": 231,
+      "cyanPixels": 133,
+      "surfaceGlyphCorePixels": 21,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "4e754d7f65b77f567a328635c5529ea7ac74027a4afee5bf48d0dfc3397980ea"
+    },
+    "standard/left/Num9": {
+      "key": "Num9",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Num9.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Num9.png",
+      "bbox": [
+        296,
+        192,
+        178,
+        97
+      ],
+      "whiteCoreBBox": [
+        305,
+        198,
+        163,
+        82
+      ],
+      "anatomicalBBox": [
+        298,
+        193,
+        175,
+        94
+      ],
+      "anchorY": 369,
+      "contactY": 462,
+      "pawPixels": 8632,
+      "surfacePixels": 243,
+      "cyanPixels": 144,
+      "surfaceGlyphCorePixels": 21,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "eeba2cf24c07a8db10d4bbdbc7b9bcf35ec646c42775dbf83be8d74f95448f93"
+    },
+    "standard/left/Return": {
+      "key": "Return",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Return.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Return.png",
+      "bbox": [
+        294,
+        193,
+        186,
+        71
+      ],
+      "whiteCoreBBox": [
+        300,
+        195,
+        179,
+        60
+      ],
+      "anatomicalBBox": [
+        294,
+        195,
+        185,
+        68
+      ],
+      "anchorY": 371,
+      "contactY": 438,
+      "pawPixels": 8891,
+      "surfacePixels": 317,
+      "cyanPixels": 201,
+      "surfaceGlyphCorePixels": 16,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "27af5d96f3f48025809f7ab5ef1830d86d8c6eb09c760fdc1602f29cdf0af2cf"
+    },
+    "standard/left/Shift": {
+      "key": "Shift",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Shift.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Shift.png",
+      "bbox": [
+        377,
+        190,
+        143,
+        90
+      ],
+      "whiteCoreBBox": [
+        378,
+        191,
+        135,
+        82
+      ],
+      "anatomicalBBox": [
+        378,
+        191,
+        142,
+        89
+      ],
+      "anchorY": 367,
+      "contactY": 455,
+      "pawPixels": 6438,
+      "surfacePixels": 1256,
+      "cyanPixels": 818,
+      "surfaceGlyphCorePixels": 76,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "a63bd251abd60d5c935ca9e794c98ecc2484d65e472d9428c21782fad5b92694"
+    },
+    "standard/left/ShiftLeft": {
+      "key": "ShiftLeft",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/ShiftLeft.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/ShiftLeft.png",
+      "bbox": [
+        377,
+        190,
+        143,
+        90
+      ],
+      "whiteCoreBBox": [
+        378,
+        191,
+        135,
+        82
+      ],
+      "anatomicalBBox": [
+        378,
+        191,
+        142,
+        89
+      ],
+      "anchorY": 367,
+      "contactY": 455,
+      "pawPixels": 6438,
+      "surfacePixels": 572,
+      "cyanPixels": 343,
+      "surfaceGlyphCorePixels": 52,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "5bd676433ea0b7de3bc5ec40cb9d4aa979ee083bf41c3cc5413b9217f6243786"
+    },
+    "standard/left/ShiftRight": {
+      "key": "ShiftRight",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/ShiftRight.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/ShiftRight.png",
+      "bbox": [
+        304,
+        134,
+        234,
+        145
+      ],
+      "whiteCoreBBox": [
+        308,
+        187,
+        133,
+        45
+      ],
+      "anatomicalBBox": [
+        304,
+        187,
+        137,
+        50
+      ],
+      "anchorY": 363,
+      "contactY": 412,
+      "pawPixels": 4948,
+      "surfacePixels": 822,
+      "cyanPixels": 469,
+      "surfaceGlyphCorePixels": 8,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "7b2e3cf141f226bfced1c3413d28cfd895ce75aed17dc45de06d1e603a650ff4"
+    },
+    "standard/left/Slash": {
+      "key": "Slash",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Slash.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Slash.png",
+      "bbox": [
+        338,
+        198,
+        147,
+        57
+      ],
+      "whiteCoreBBox": [
+        347,
+        200,
+        132,
+        46
+      ],
+      "anatomicalBBox": [
+        339,
+        199,
+        145,
+        54
+      ],
+      "anchorY": 375,
+      "contactY": 428,
+      "pawPixels": 6047,
+      "surfacePixels": 122,
+      "cyanPixels": 60,
+      "surfaceGlyphCorePixels": 2,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "41fcaa0537dc65b43d063f540a28da075ffb6f5acda92a58b050cfd7defce2d7"
+    },
+    "standard/left/Space": {
+      "key": "Space",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Space.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Space.png",
+      "bbox": [
+        375,
+        192,
+        104,
+        49
+      ],
+      "whiteCoreBBox": [
+        382,
+        193,
+        87,
+        41
+      ],
+      "anatomicalBBox": [
+        376,
+        193,
+        101,
+        48
+      ],
+      "anchorY": 369,
+      "contactY": 416,
+      "pawPixels": 3624,
+      "surfacePixels": 1288,
+      "cyanPixels": 1007,
+      "surfaceGlyphCorePixels": 13,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "2319e8ef285b7f24f3dfd94b4a859209606848ce1092d30be19a6e336f8a004a"
+    },
+    "standard/left/Tab": {
+      "key": "Tab",
+      "mode": "standard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/standard/left-paws/Tab.png",
+      "surfaceSrc": "/interaction-separated/standard/left-pressed/Tab.png",
+      "bbox": [
+        386,
+        199,
+        130,
+        112
+      ],
+      "whiteCoreBBox": [
+        387,
+        200,
+        121,
+        102
+      ],
+      "anatomicalBBox": [
+        387,
+        200,
+        128,
+        108
+      ],
+      "anchorY": 376,
+      "contactY": 483,
+      "pawPixels": 7867,
+      "surfacePixels": 611,
+      "cyanPixels": 391,
+      "surfaceGlyphCorePixels": 46,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "46fad8582c4b4f5dca76e25b3f7cde5804100d4ee0f174fdb299df9442054c0d"
+    },
+    "keyboard/left/Alt": {
+      "key": "Alt",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Alt.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Alt.png",
+      "bbox": [
+        377,
+        195,
+        116,
+        58
+      ],
+      "whiteCoreBBox": [
+        385,
+        196,
+        98,
+        49
+      ],
+      "anatomicalBBox": [
+        378,
+        196,
+        114,
+        57
+      ],
+      "anchorY": 372,
+      "contactY": 428,
+      "pawPixels": 3936,
+      "surfacePixels": 219,
+      "cyanPixels": 118,
+      "surfaceGlyphCorePixels": 7,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "bf888e9a921d05984deacb2c19e6b8343d44d562b2395fa0d47183026de64976"
+    },
+    "keyboard/left/AltGr": {
+      "key": "AltGr",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/AltGr.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/AltGr.png",
+      "bbox": [
+        350,
+        170,
+        157,
+        62
+      ],
+      "whiteCoreBBox": [
+        359,
+        171,
+        81,
+        53
+      ],
+      "anatomicalBBox": [
+        352,
+        171,
+        93,
+        59
+      ],
+      "anchorY": 347,
+      "contactY": 405,
+      "pawPixels": 4089,
+      "surfacePixels": 200,
+      "cyanPixels": 101,
+      "surfaceGlyphCorePixels": 5,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "d6fce9d150ec8a851cd965bc6e238e0b5a6872abea2cb0fa4ab66697f7a01cf4"
+    },
+    "keyboard/left/BackQuote": {
+      "key": "BackQuote",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/BackQuote.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/BackQuote.png",
+      "bbox": [
+        383,
+        184,
+        135,
+        148
+      ],
+      "whiteCoreBBox": [
+        392,
+        185,
+        118,
+        139
+      ],
+      "anatomicalBBox": [
+        384,
+        185,
+        133,
+        145
+      ],
+      "anchorY": 361,
+      "contactY": 505,
+      "pawPixels": 10496,
+      "surfacePixels": 377,
+      "cyanPixels": 246,
+      "surfaceGlyphCorePixels": 6,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "3cc70c9fc49b417c9ac76899193022763847c2a6cff6055053192731f93768d0"
+    },
+    "keyboard/left/Backspace": {
+      "key": "Backspace",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Backspace.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Backspace.png",
+      "bbox": [
+        254,
+        188,
+        219,
+        96
+      ],
+      "whiteCoreBBox": [
+        262,
+        191,
+        209,
+        84
+      ],
+      "anatomicalBBox": [
+        255,
+        189,
+        217,
+        94
+      ],
+      "anchorY": 365,
+      "contactY": 458,
+      "pawPixels": 11167,
+      "surfacePixels": 388,
+      "cyanPixels": 232,
+      "surfaceGlyphCorePixels": 11,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "d790353f0c495c5307f625e1427f14509794d36d8054b9f3d575b2ae265c5fee"
+    },
+    "keyboard/left/CapsLock": {
+      "key": "CapsLock",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/CapsLock.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/CapsLock.png",
+      "bbox": [
+        384,
+        197,
+        137,
+        103
+      ],
+      "whiteCoreBBox": [
+        385,
+        198,
+        128,
+        93
+      ],
+      "anatomicalBBox": [
+        385,
+        198,
+        135,
+        100
+      ],
+      "anchorY": 374,
+      "contactY": 473,
+      "pawPixels": 7093,
+      "surfacePixels": 444,
+      "cyanPixels": 271,
+      "surfaceGlyphCorePixels": 41,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "e47f0243d74d84182694b12d52242541d0b7927afefeebbebb639d2cbdd2a369"
+    },
+    "keyboard/left/Control": {
+      "key": "Control",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Control.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Control.png",
+      "bbox": [
+        379,
+        193,
+        165,
+        80
+      ],
+      "whiteCoreBBox": [
+        390,
+        194,
+        146,
+        70
+      ],
+      "anatomicalBBox": [
+        382,
+        194,
+        160,
+        77
+      ],
+      "anchorY": 370,
+      "contactY": 446,
+      "pawPixels": 5002,
+      "surfacePixels": 882,
+      "cyanPixels": 577,
+      "surfaceGlyphCorePixels": 26,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "65dcc383969f7144d11768c6d79e5597f051602a33600d7703a578fff8d1bba9"
+    },
+    "keyboard/left/ControlLeft": {
+      "key": "ControlLeft",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/ControlLeft.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/ControlLeft.png",
+      "bbox": [
+        379,
+        193,
+        165,
+        80
+      ],
+      "whiteCoreBBox": [
+        390,
+        194,
+        146,
+        70
+      ],
+      "anatomicalBBox": [
+        382,
+        194,
+        160,
+        77
+      ],
+      "anchorY": 370,
+      "contactY": 446,
+      "pawPixels": 5002,
+      "surfacePixels": 252,
+      "cyanPixels": 133,
+      "surfaceGlyphCorePixels": 13,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "5d503b1b671e2ba1fc276c46c4de87987c0ac032b52716da31fcefc2092e6fb9"
+    },
+    "keyboard/left/ControlRight": {
+      "key": "ControlRight",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/ControlRight.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/ControlRight.png",
+      "bbox": [
+        230,
+        133,
+        231,
+        97
+      ],
+      "whiteCoreBBox": [
+        322,
+        177,
+        138,
+        47
+      ],
+      "anatomicalBBox": [
+        316,
+        174,
+        144,
+        54
+      ],
+      "anchorY": 350,
+      "contactY": 403,
+      "pawPixels": 5511,
+      "surfacePixels": 390,
+      "cyanPixels": 273,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "dc3742c31c09bd6ae92dbbe5407e0f5a5dc4a45a86fbbe5f149d5c2b22f82160"
+    },
+    "keyboard/left/Delete": {
+      "key": "Delete",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Delete.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Delete.png",
+      "bbox": [
+        275,
+        190,
+        204,
+        79
+      ],
+      "whiteCoreBBox": [
+        283,
+        195,
+        195,
+        66
+      ],
+      "anatomicalBBox": [
+        276,
+        191,
+        202,
+        77
+      ],
+      "anchorY": 367,
+      "contactY": 443,
+      "pawPixels": 9697,
+      "surfacePixels": 360,
+      "cyanPixels": 256,
+      "surfaceGlyphCorePixels": 19,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "5c108401c01e1a7dcc2cad4104417b86a36b8c72a6edfd742fee94bc185d45d4"
+    },
+    "keyboard/left/Escape": {
+      "key": "Escape",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Escape.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Escape.png",
+      "bbox": [
+        388,
+        184,
+        116,
+        164
+      ],
+      "whiteCoreBBox": [
+        391,
+        186,
+        104,
+        153
+      ],
+      "anatomicalBBox": [
+        389,
+        186,
+        113,
+        161
+      ],
+      "anchorY": 362,
+      "contactY": 522,
+      "pawPixels": 9871,
+      "surfacePixels": 275,
+      "cyanPixels": 157,
+      "surfaceGlyphCorePixels": 18,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "d3a580ed227c5150f0edaa22ef8b50070cb7652c8e76cd8e82a1eb9864ce495f"
+    },
+    "keyboard/left/Fn": {
+      "key": "Fn",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Fn.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Fn.png",
+      "bbox": [
+        383,
+        183,
+        97,
+        156
+      ],
+      "whiteCoreBBox": [
+        391,
+        185,
+        82,
+        145
+      ],
+      "anatomicalBBox": [
+        384,
+        185,
+        95,
+        152
+      ],
+      "anchorY": 361,
+      "contactY": 512,
+      "pawPixels": 10755,
+      "surfacePixels": 139,
+      "cyanPixels": 57,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "7255c269cffd48c178c4587dfe8afcd80d219f83f61b9e1bc2de21a9dd25a3fd"
+    },
+    "keyboard/left/KeyA": {
+      "key": "KeyA",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyA.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyA.png",
+      "bbox": [
+        380,
+        181,
+        118,
+        108
+      ],
+      "whiteCoreBBox": [
+        385,
+        182,
+        104,
+        98
+      ],
+      "anatomicalBBox": [
+        382,
+        182,
+        115,
+        107
+      ],
+      "anchorY": 358,
+      "contactY": 464,
+      "pawPixels": 8464,
+      "surfacePixels": 238,
+      "cyanPixels": 143,
+      "surfaceGlyphCorePixels": 3,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "2d8541930d6626df328be02702a4ac5c5fa24812d62386c662ca7d6b16db1ca7"
+    },
+    "keyboard/left/KeyB": {
+      "key": "KeyB",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyB.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyB.png",
+      "bbox": [
+        373,
+        187,
+        98,
+        65
+      ],
+      "whiteCoreBBox": [
+        380,
+        189,
+        87,
+        55
+      ],
+      "anatomicalBBox": [
+        374,
+        189,
+        95,
+        62
+      ],
+      "anchorY": 365,
+      "contactY": 426,
+      "pawPixels": 4186,
+      "surfacePixels": 228,
+      "cyanPixels": 117,
+      "surfaceGlyphCorePixels": 25,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "0c02f94069cbd155229669d6f5550b550b635a4643d0e1a86bff4a0d650ee514"
+    },
+    "keyboard/left/KeyC": {
+      "key": "KeyC",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyC.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyC.png",
+      "bbox": [
+        368,
+        185,
+        105,
+        76
+      ],
+      "whiteCoreBBox": [
+        378,
+        187,
+        86,
+        66
+      ],
+      "anatomicalBBox": [
+        370,
+        187,
+        102,
+        73
+      ],
+      "anchorY": 363,
+      "contactY": 435,
+      "pawPixels": 4800,
+      "surfacePixels": 262,
+      "cyanPixels": 160,
+      "surfaceGlyphCorePixels": 23,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "f4e74de50e64c2b84c9c26f2fe3e079ba8c65a91d4e691e5c4f28b7805c2b9bb"
+    },
+    "keyboard/left/KeyD": {
+      "key": "KeyD",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyD.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyD.png",
+      "bbox": [
+        383,
+        183,
+        100,
+        98
+      ],
+      "whiteCoreBBox": [
+        385,
+        185,
+        95,
+        88
+      ],
+      "anatomicalBBox": [
+        384,
+        185,
+        97,
+        95
+      ],
+      "anchorY": 361,
+      "contactY": 455,
+      "pawPixels": 6769,
+      "surfacePixels": 135,
+      "cyanPixels": 81,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "1cbaa2d015ecba9be1c27418d24b3e24ee070c065da81252df43c100b704f553"
+    },
+    "keyboard/left/KeyE": {
+      "key": "KeyE",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyE.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyE.png",
+      "bbox": [
+        384,
+        185,
+        99,
+        109
+      ],
+      "whiteCoreBBox": [
+        392,
+        187,
+        83,
+        100
+      ],
+      "anatomicalBBox": [
+        386,
+        187,
+        96,
+        107
+      ],
+      "anchorY": 363,
+      "contactY": 469,
+      "pawPixels": 7492,
+      "surfacePixels": 280,
+      "cyanPixels": 182,
+      "surfaceGlyphCorePixels": 22,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "2aa3aabb812df006b8ca599d5261adc46493d269f022fc425ae48b4bd40ff447"
+    },
+    "keyboard/left/KeyF": {
+      "key": "KeyF",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyF.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyF.png",
+      "bbox": [
+        379,
+        177,
+        101,
+        101
+      ],
+      "whiteCoreBBox": [
+        386,
+        179,
+        87,
+        90
+      ],
+      "anatomicalBBox": [
+        380,
+        179,
+        99,
+        98
+      ],
+      "anchorY": 355,
+      "contactY": 452,
+      "pawPixels": 7195,
+      "surfacePixels": 156,
+      "cyanPixels": 84,
+      "surfaceGlyphCorePixels": 7,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "fe8975ea8a14a2b66de48429fa2f7d78b19483497a7cdf9b8b9984a147c81f22"
+    },
+    "keyboard/left/KeyG": {
+      "key": "KeyG",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyG.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyG.png",
+      "bbox": [
+        375,
+        179,
+        108,
+        94
+      ],
+      "whiteCoreBBox": [
+        384,
+        181,
+        92,
+        83
+      ],
+      "anatomicalBBox": [
+        376,
+        181,
+        105,
+        91
+      ],
+      "anchorY": 357,
+      "contactY": 447,
+      "pawPixels": 7020,
+      "surfacePixels": 170,
+      "cyanPixels": 79,
+      "surfaceGlyphCorePixels": 6,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "ece8b1db7a8d38a1bbaaac13bc3d5fb62860e04f249a58049e6b0b78e91c1557"
+    },
+    "keyboard/left/KeyH": {
+      "key": "KeyH",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyH.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyH.png",
+      "bbox": [
+        361,
+        178,
+        116,
+        93
+      ],
+      "whiteCoreBBox": [
+        370,
+        180,
+        101,
+        82
+      ],
+      "anatomicalBBox": [
+        362,
+        180,
+        114,
+        90
+      ],
+      "anchorY": 356,
+      "contactY": 445,
+      "pawPixels": 7044,
+      "surfacePixels": 129,
+      "cyanPixels": 58,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "6cfa53c73b23377504575a1292add218cf411c1acd1dc619a2a7e44900c9f14b"
+    },
+    "keyboard/left/KeyI": {
+      "key": "KeyI",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyI.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyI.png",
+      "bbox": [
+        328,
+        191,
+        153,
+        91
+      ],
+      "whiteCoreBBox": [
+        337,
+        192,
+        141,
+        81
+      ],
+      "anatomicalBBox": [
+        329,
+        192,
+        150,
+        89
+      ],
+      "anchorY": 368,
+      "contactY": 456,
+      "pawPixels": 8871,
+      "surfacePixels": 201,
+      "cyanPixels": 114,
+      "surfaceGlyphCorePixels": 7,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "a8badfe228c90a7a69b19fbc8012e5713622a19ad608741e2bcd236b4550b4e3"
+    },
+    "keyboard/left/KeyJ": {
+      "key": "KeyJ",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyJ.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyJ.png",
+      "bbox": [
+        349,
+        186,
+        129,
+        83
+      ],
+      "whiteCoreBBox": [
+        358,
+        187,
+        117,
+        73
+      ],
+      "anatomicalBBox": [
+        351,
+        187,
+        125,
+        81
+      ],
+      "anchorY": 363,
+      "contactY": 443,
+      "pawPixels": 6911,
+      "surfacePixels": 172,
+      "cyanPixels": 119,
+      "surfaceGlyphCorePixels": 8,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "b8cf1685b44212264c165fd07bc7d4f36644d7556135b50c1342c5e73fe95f1a"
+    },
+    "keyboard/left/KeyK": {
+      "key": "KeyK",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyK.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyK.png",
+      "bbox": [
+        332,
+        180,
+        146,
+        84
+      ],
+      "whiteCoreBBox": [
+        341,
+        181,
+        135,
+        74
+      ],
+      "anatomicalBBox": [
+        334,
+        181,
+        142,
+        82
+      ],
+      "anchorY": 357,
+      "contactY": 438,
+      "pawPixels": 7885,
+      "surfacePixels": 172,
+      "cyanPixels": 96,
+      "surfaceGlyphCorePixels": 1,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "5539f018bda3d109755482ce0e09d8762650376cdc89abc2f200d7ebbf874557"
+    },
+    "keyboard/left/KeyL": {
+      "key": "KeyL",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyL.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyL.png",
+      "bbox": [
+        314,
+        179,
+        164,
+        81
+      ],
+      "whiteCoreBBox": [
+        323,
+        181,
+        154,
+        70
+      ],
+      "anatomicalBBox": [
+        315,
+        180,
+        162,
+        79
+      ],
+      "anchorY": 356,
+      "contactY": 434,
+      "pawPixels": 8098,
+      "surfacePixels": 172,
+      "cyanPixels": 93,
+      "surfaceGlyphCorePixels": 3,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "33bbba6709bd80b9352bc82678037ac51ffca0d34eac4ee26031b594e9bd3cd9"
+    },
+    "keyboard/left/KeyM": {
+      "key": "KeyM",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyM.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyM.png",
+      "bbox": [
+        355,
+        184,
+        119,
+        67
+      ],
+      "whiteCoreBBox": [
+        364,
+        186,
+        103,
+        56
+      ],
+      "anatomicalBBox": [
+        356,
+        186,
+        117,
+        64
+      ],
+      "anchorY": 362,
+      "contactY": 425,
+      "pawPixels": 5498,
+      "surfacePixels": 185,
+      "cyanPixels": 91,
+      "surfaceGlyphCorePixels": 13,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "6cdc50b96f6c9e9b519d9159e42e616f3f53bc60bfa64fd68446e48f9f112d51"
+    },
+    "keyboard/left/KeyN": {
+      "key": "KeyN",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyN.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyN.png",
+      "bbox": [
+        371,
+        189,
+        107,
+        63
+      ],
+      "whiteCoreBBox": [
+        380,
+        190,
+        95,
+        54
+      ],
+      "anatomicalBBox": [
+        372,
+        190,
+        105,
+        61
+      ],
+      "anchorY": 366,
+      "contactY": 426,
+      "pawPixels": 4687,
+      "surfacePixels": 222,
+      "cyanPixels": 140,
+      "surfaceGlyphCorePixels": 20,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "7f0cde6c2467b619dbd7ccde97426681e017c5f9ea274f98e8e667274d61435f"
+    },
+    "keyboard/left/KeyO": {
+      "key": "KeyO",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyO.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyO.png",
+      "bbox": [
+        304,
+        190,
+        164,
+        88
+      ],
+      "whiteCoreBBox": [
+        313,
+        192,
+        153,
+        77
+      ],
+      "anatomicalBBox": [
+        306,
+        192,
+        160,
+        85
+      ],
+      "anchorY": 368,
+      "contactY": 452,
+      "pawPixels": 8776,
+      "surfacePixels": 120,
+      "cyanPixels": 49,
+      "surfaceGlyphCorePixels": 4,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "3d143e76f67c3f29e4dcd31e98c9be9fadaa9fbd3ea060d0f21bcbbb077a5474"
+    },
+    "keyboard/left/KeyP": {
+      "key": "KeyP",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyP.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyP.png",
+      "bbox": [
+        287,
+        190,
+        192,
+        86
+      ],
+      "whiteCoreBBox": [
+        296,
+        195,
+        179,
+        72
+      ],
+      "anatomicalBBox": [
+        288,
+        192,
+        190,
+        83
+      ],
+      "anchorY": 368,
+      "contactY": 450,
+      "pawPixels": 9791,
+      "surfacePixels": 122,
+      "cyanPixels": 62,
+      "surfaceGlyphCorePixels": 4,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "7ac34bbab7632851efef6bacba5005de7f3e9813ba2b5496bb25eeb9bcd1c18a"
+    },
+    "keyboard/left/KeyQ": {
+      "key": "KeyQ",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyQ.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyQ.png",
+      "bbox": [
+        385,
+        191,
+        110,
+        119
+      ],
+      "whiteCoreBBox": [
+        389,
+        192,
+        97,
+        109
+      ],
+      "anatomicalBBox": [
+        386,
+        192,
+        108,
+        116
+      ],
+      "anchorY": 368,
+      "contactY": 483,
+      "pawPixels": 8381,
+      "surfacePixels": 271,
+      "cyanPixels": 139,
+      "surfaceGlyphCorePixels": 22,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "3e2ce5a80a6a5e1aac1bcbe53c2b0977746caa3dd39b9fc6cd750d7fada2f12b"
+    },
+    "keyboard/left/KeyR": {
+      "key": "KeyR",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyR.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyR.png",
+      "bbox": [
+        386,
+        190,
+        95,
+        102
+      ],
+      "whiteCoreBBox": [
+        394,
+        191,
+        83,
+        93
+      ],
+      "anatomicalBBox": [
+        387,
+        191,
+        93,
+        100
+      ],
+      "anchorY": 367,
+      "contactY": 466,
+      "pawPixels": 7184,
+      "surfacePixels": 236,
+      "cyanPixels": 141,
+      "surfaceGlyphCorePixels": 17,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "50dc7d8f8f4177473bd2ff57f9cb77908aed232a9d938739958579a1ffd4801f"
+    },
+    "keyboard/left/KeyS": {
+      "key": "KeyS",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyS.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyS.png",
+      "bbox": [
+        381,
+        178,
+        108,
+        110
+      ],
+      "whiteCoreBBox": [
+        383,
+        179,
+        97,
+        100
+      ],
+      "anatomicalBBox": [
+        383,
+        179,
+        105,
+        106
+      ],
+      "anchorY": 355,
+      "contactY": 460,
+      "pawPixels": 7887,
+      "surfacePixels": 123,
+      "cyanPixels": 46,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "9abfab4c607018089ad5a14bd7cc9dd89f10e655fa86d04100377f4ec6acd253"
+    },
+    "keyboard/left/KeyT": {
+      "key": "KeyT",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyT.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyT.png",
+      "bbox": [
+        377,
+        188,
+        101,
+        100
+      ],
+      "whiteCoreBBox": [
+        386,
+        190,
+        84,
+        89
+      ],
+      "anatomicalBBox": [
+        379,
+        190,
+        98,
+        97
+      ],
+      "anchorY": 366,
+      "contactY": 462,
+      "pawPixels": 6994,
+      "surfacePixels": 267,
+      "cyanPixels": 160,
+      "surfaceGlyphCorePixels": 16,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "bdb8b2e94312f4d5e264f609979fa060bab43a38913529650f10e9e13f35611b"
+    },
+    "keyboard/left/KeyU": {
+      "key": "KeyU",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyU.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyU.png",
+      "bbox": [
+        343,
+        191,
+        139,
+        90
+      ],
+      "whiteCoreBBox": [
+        352,
+        193,
+        123,
+        80
+      ],
+      "anatomicalBBox": [
+        344,
+        193,
+        136,
+        87
+      ],
+      "anchorY": 369,
+      "contactY": 455,
+      "pawPixels": 8154,
+      "surfacePixels": 226,
+      "cyanPixels": 151,
+      "surfaceGlyphCorePixels": 17,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "96d2c0cc85dfd22f949d268fecf0e432e2c0eddb73997efcb1d9fa09d22fad87"
+    },
+    "keyboard/left/KeyV": {
+      "key": "KeyV",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyV.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyV.png",
+      "bbox": [
+        373,
+        175,
+        102,
+        79
+      ],
+      "whiteCoreBBox": [
+        383,
+        177,
+        88,
+        69
+      ],
+      "anatomicalBBox": [
+        375,
+        177,
+        99,
+        76
+      ],
+      "anchorY": 353,
+      "contactY": 428,
+      "pawPixels": 5303,
+      "surfacePixels": 270,
+      "cyanPixels": 173,
+      "surfaceGlyphCorePixels": 22,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "ba9e8e3460bb334b4fb73bd9a556e53b024ee75d24365c0355688c19a9df32d7"
+    },
+    "keyboard/left/KeyW": {
+      "key": "KeyW",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyW.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyW.png",
+      "bbox": [
+        385,
+        186,
+        102,
+        116
+      ],
+      "whiteCoreBBox": [
+        393,
+        187,
+        88,
+        106
+      ],
+      "anatomicalBBox": [
+        387,
+        187,
+        99,
+        113
+      ],
+      "anchorY": 363,
+      "contactY": 475,
+      "pawPixels": 8373,
+      "surfacePixels": 270,
+      "cyanPixels": 146,
+      "surfaceGlyphCorePixels": 21,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "ce93f3e06b24112c68424e6267b56008a883278135286675d2aea8449ae59124"
+    },
+    "keyboard/left/KeyX": {
+      "key": "KeyX",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyX.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyX.png",
+      "bbox": [
+        380,
+        182,
+        102,
+        86
+      ],
+      "whiteCoreBBox": [
+        387,
+        183,
+        90,
+        76
+      ],
+      "anatomicalBBox": [
+        381,
+        183,
+        100,
+        83
+      ],
+      "anchorY": 359,
+      "contactY": 441,
+      "pawPixels": 5510,
+      "surfacePixels": 194,
+      "cyanPixels": 91,
+      "surfaceGlyphCorePixels": 2,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "b1c0b5ff3fb4bf634cb77852f4e45772069a5138a3bd683f8f1bee4439313fbd"
+    },
+    "keyboard/left/KeyY": {
+      "key": "KeyY",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyY.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyY.png",
+      "bbox": [
+        365,
+        187,
+        114,
+        97
+      ],
+      "whiteCoreBBox": [
+        374,
+        188,
+        101,
+        88
+      ],
+      "anatomicalBBox": [
+        366,
+        188,
+        111,
+        95
+      ],
+      "anchorY": 364,
+      "contactY": 458,
+      "pawPixels": 7247,
+      "surfacePixels": 277,
+      "cyanPixels": 175,
+      "surfaceGlyphCorePixels": 21,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "24a9121117e6ca6dd1eef0586c0ae4ea244f8a7f9881749dbefdc7b9fc5fa8f9"
+    },
+    "keyboard/left/KeyZ": {
+      "key": "KeyZ",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/KeyZ.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/KeyZ.png",
+      "bbox": [
+        384,
+        193,
+        107,
+        81
+      ],
+      "whiteCoreBBox": [
+        388,
+        195,
+        94,
+        70
+      ],
+      "anatomicalBBox": [
+        386,
+        195,
+        104,
+        78
+      ],
+      "anchorY": 371,
+      "contactY": 448,
+      "pawPixels": 5893,
+      "surfacePixels": 233,
+      "cyanPixels": 144,
+      "surfaceGlyphCorePixels": 6,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "086ef91296fa6a960e727b49494f07a26753ae8317175b3e611315ad4cf8561b"
+    },
+    "keyboard/left/Meta": {
+      "key": "Meta",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Meta.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Meta.png",
+      "bbox": [
+        383,
+        199,
+        133,
+        63
+      ],
+      "whiteCoreBBox": [
+        390,
+        201,
+        118,
+        52
+      ],
+      "anatomicalBBox": [
+        384,
+        201,
+        132,
+        58
+      ],
+      "anchorY": 377,
+      "contactY": 434,
+      "pawPixels": 4202,
+      "surfacePixels": 132,
+      "cyanPixels": 61,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "2a1600d07cd49faa2ea3cf4ab98606f7157f16346ddc3e665ea07c4edb507728"
+    },
+    "keyboard/left/Num0": {
+      "key": "Num0",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Num0.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num0.png",
+      "bbox": [
+        288,
+        187,
+        199,
+        97
+      ],
+      "whiteCoreBBox": [
+        297,
+        192,
+        186,
+        84
+      ],
+      "anatomicalBBox": [
+        289,
+        188,
+        198,
+        94
+      ],
+      "anchorY": 364,
+      "contactY": 457,
+      "pawPixels": 9568,
+      "surfacePixels": 325,
+      "cyanPixels": 210,
+      "surfaceGlyphCorePixels": 31,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "0339e68c4db9a0735d782e2daf6c2e16a644bf1c3f6b54acfc84ca44f5a5d57b"
+    },
+    "keyboard/left/Num1": {
+      "key": "Num1",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Num1.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num1.png",
+      "bbox": [
+        385,
+        186,
+        117,
+        139
+      ],
+      "whiteCoreBBox": [
+        394,
+        187,
+        99,
+        130
+      ],
+      "anatomicalBBox": [
+        386,
+        187,
+        115,
+        137
+      ],
+      "anchorY": 363,
+      "contactY": 499,
+      "pawPixels": 9618,
+      "surfacePixels": 379,
+      "cyanPixels": 238,
+      "surfaceGlyphCorePixels": 12,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "70e047f904016b13e55062148e2a6f00adad691db227ffe962d9e849227f6d51"
+    },
+    "keyboard/left/Num2": {
+      "key": "Num2",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Num2.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num2.png",
+      "bbox": [
+        386,
+        180,
+        99,
+        138
+      ],
+      "whiteCoreBBox": [
+        389,
+        182,
+        89,
+        128
+      ],
+      "anatomicalBBox": [
+        387,
+        182,
+        97,
+        136
+      ],
+      "anchorY": 358,
+      "contactY": 493,
+      "pawPixels": 9213,
+      "surfacePixels": 378,
+      "cyanPixels": 235,
+      "surfaceGlyphCorePixels": 26,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "0f703274500af5b8ea3c008c8928db01935df0e7b5cf2760ac77260feec3e166"
+    },
+    "keyboard/left/Num3": {
+      "key": "Num3",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Num3.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num3.png",
+      "bbox": [
+        384,
+        181,
+        101,
+        139
+      ],
+      "whiteCoreBBox": [
+        391,
+        182,
+        86,
+        129
+      ],
+      "anatomicalBBox": [
+        385,
+        182,
+        99,
+        137
+      ],
+      "anchorY": 358,
+      "contactY": 494,
+      "pawPixels": 10020,
+      "surfacePixels": 327,
+      "cyanPixels": 187,
+      "surfaceGlyphCorePixels": 31,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "9d20481313af046d08da8454cfbb80ad9ea7fa73a77c6bc082879cca3154744b"
+    },
+    "keyboard/left/Num4": {
+      "key": "Num4",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Num4.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num4.png",
+      "bbox": [
+        379,
+        181,
+        109,
+        128
+      ],
+      "whiteCoreBBox": [
+        387,
+        182,
+        98,
+        119
+      ],
+      "anatomicalBBox": [
+        380,
+        182,
+        107,
+        126
+      ],
+      "anchorY": 358,
+      "contactY": 483,
+      "pawPixels": 9195,
+      "surfacePixels": 353,
+      "cyanPixels": 233,
+      "surfaceGlyphCorePixels": 33,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "a82c58f6ab6b3a6bf432150ea7cedf2fa2fb852f396d6a4d60cdcdd4d128ea59"
+    },
+    "keyboard/left/Num5": {
+      "key": "Num5",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Num5.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num5.png",
+      "bbox": [
+        375,
+        209,
+        106,
+        95
+      ],
+      "whiteCoreBBox": [
+        383,
+        209,
+        91,
+        86
+      ],
+      "anatomicalBBox": [
+        376,
+        209,
+        105,
+        92
+      ],
+      "anchorY": 385,
+      "contactY": 476,
+      "pawPixels": 6683,
+      "surfacePixels": 369,
+      "cyanPixels": 248,
+      "surfaceGlyphCorePixels": 27,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "e92598d2ead2f6f5737c505b36e9f2a91fc31026af7422511320ac2985d21a44"
+    },
+    "keyboard/left/Num6": {
+      "key": "Num6",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Num6.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num6.png",
+      "bbox": [
+        356,
+        206,
+        129,
+        90
+      ],
+      "whiteCoreBBox": [
+        367,
+        212,
+        110,
+        75
+      ],
+      "anatomicalBBox": [
+        358,
+        207,
+        126,
+        89
+      ],
+      "anchorY": 383,
+      "contactY": 471,
+      "pawPixels": 6809,
+      "surfacePixels": 392,
+      "cyanPixels": 226,
+      "surfaceGlyphCorePixels": 29,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "9460a60037120fc70411b38695937b8bc83e953de454b616444f0488db6bcbaa"
+    },
+    "keyboard/left/Num7": {
+      "key": "Num7",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Num7.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num7.png",
+      "bbox": [
+        333,
+        198,
+        152,
+        100
+      ],
+      "whiteCoreBBox": [
+        342,
+        204,
+        135,
+        86
+      ],
+      "anatomicalBBox": [
+        334,
+        199,
+        150,
+        98
+      ],
+      "anchorY": 375,
+      "contactY": 472,
+      "pawPixels": 8703,
+      "surfacePixels": 251,
+      "cyanPixels": 145,
+      "surfaceGlyphCorePixels": 20,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "111618ade68991f012ec0f81f3226de294b366e76233cd69f7d6622efa0f4051"
+    },
+    "keyboard/left/Num8": {
+      "key": "Num8",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Num8.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num8.png",
+      "bbox": [
+        313,
+        194,
+        166,
+        99
+      ],
+      "whiteCoreBBox": [
+        321,
+        200,
+        151,
+        84
+      ],
+      "anatomicalBBox": [
+        314,
+        195,
+        164,
+        96
+      ],
+      "anchorY": 371,
+      "contactY": 466,
+      "pawPixels": 8681,
+      "surfacePixels": 231,
+      "cyanPixels": 133,
+      "surfaceGlyphCorePixels": 21,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "4e754d7f65b77f567a328635c5529ea7ac74027a4afee5bf48d0dfc3397980ea"
+    },
+    "keyboard/left/Num9": {
+      "key": "Num9",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Num9.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Num9.png",
+      "bbox": [
+        296,
+        192,
+        178,
+        97
+      ],
+      "whiteCoreBBox": [
+        305,
+        198,
+        163,
+        82
+      ],
+      "anatomicalBBox": [
+        298,
+        193,
+        175,
+        94
+      ],
+      "anchorY": 369,
+      "contactY": 462,
+      "pawPixels": 8632,
+      "surfacePixels": 243,
+      "cyanPixels": 144,
+      "surfaceGlyphCorePixels": 21,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "eeba2cf24c07a8db10d4bbdbc7b9bcf35ec646c42775dbf83be8d74f95448f93"
+    },
+    "keyboard/left/Return": {
+      "key": "Return",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Return.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Return.png",
+      "bbox": [
+        294,
+        193,
+        186,
+        71
+      ],
+      "whiteCoreBBox": [
+        300,
+        195,
+        179,
+        60
+      ],
+      "anatomicalBBox": [
+        294,
+        195,
+        185,
+        68
+      ],
+      "anchorY": 371,
+      "contactY": 438,
+      "pawPixels": 8891,
+      "surfacePixels": 317,
+      "cyanPixels": 201,
+      "surfaceGlyphCorePixels": 16,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "27af5d96f3f48025809f7ab5ef1830d86d8c6eb09c760fdc1602f29cdf0af2cf"
+    },
+    "keyboard/left/Shift": {
+      "key": "Shift",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Shift.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Shift.png",
+      "bbox": [
+        377,
+        190,
+        143,
+        90
+      ],
+      "whiteCoreBBox": [
+        378,
+        191,
+        135,
+        82
+      ],
+      "anatomicalBBox": [
+        378,
+        191,
+        142,
+        89
+      ],
+      "anchorY": 367,
+      "contactY": 455,
+      "pawPixels": 6438,
+      "surfacePixels": 1256,
+      "cyanPixels": 818,
+      "surfaceGlyphCorePixels": 76,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "a63bd251abd60d5c935ca9e794c98ecc2484d65e472d9428c21782fad5b92694"
+    },
+    "keyboard/left/ShiftLeft": {
+      "key": "ShiftLeft",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/ShiftLeft.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/ShiftLeft.png",
+      "bbox": [
+        377,
+        190,
+        143,
+        90
+      ],
+      "whiteCoreBBox": [
+        378,
+        191,
+        135,
+        82
+      ],
+      "anatomicalBBox": [
+        378,
+        191,
+        142,
+        89
+      ],
+      "anchorY": 367,
+      "contactY": 455,
+      "pawPixels": 6438,
+      "surfacePixels": 572,
+      "cyanPixels": 343,
+      "surfaceGlyphCorePixels": 52,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "5bd676433ea0b7de3bc5ec40cb9d4aa979ee083bf41c3cc5413b9217f6243786"
+    },
+    "keyboard/left/ShiftRight": {
+      "key": "ShiftRight",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/ShiftRight.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/ShiftRight.png",
+      "bbox": [
+        304,
+        134,
+        234,
+        145
+      ],
+      "whiteCoreBBox": [
+        308,
+        187,
+        133,
+        45
+      ],
+      "anatomicalBBox": [
+        304,
+        187,
+        137,
+        50
+      ],
+      "anchorY": 363,
+      "contactY": 412,
+      "pawPixels": 4948,
+      "surfacePixels": 822,
+      "cyanPixels": 469,
+      "surfaceGlyphCorePixels": 8,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "7b2e3cf141f226bfced1c3413d28cfd895ce75aed17dc45de06d1e603a650ff4"
+    },
+    "keyboard/left/Slash": {
+      "key": "Slash",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Slash.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Slash.png",
+      "bbox": [
+        338,
+        198,
+        147,
+        57
+      ],
+      "whiteCoreBBox": [
+        347,
+        200,
+        132,
+        46
+      ],
+      "anatomicalBBox": [
+        339,
+        199,
+        145,
+        54
+      ],
+      "anchorY": 375,
+      "contactY": 428,
+      "pawPixels": 6047,
+      "surfacePixels": 122,
+      "cyanPixels": 60,
+      "surfaceGlyphCorePixels": 2,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "41fcaa0537dc65b43d063f540a28da075ffb6f5acda92a58b050cfd7defce2d7"
+    },
+    "keyboard/left/Space": {
+      "key": "Space",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Space.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Space.png",
+      "bbox": [
+        375,
+        192,
+        104,
+        49
+      ],
+      "whiteCoreBBox": [
+        382,
+        193,
+        87,
+        41
+      ],
+      "anatomicalBBox": [
+        376,
+        193,
+        101,
+        48
+      ],
+      "anchorY": 369,
+      "contactY": 416,
+      "pawPixels": 3624,
+      "surfacePixels": 1288,
+      "cyanPixels": 1007,
+      "surfaceGlyphCorePixels": 13,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "2319e8ef285b7f24f3dfd94b4a859209606848ce1092d30be19a6e336f8a004a"
+    },
+    "keyboard/left/Tab": {
+      "key": "Tab",
+      "mode": "keyboard",
+      "side": "left",
+      "pawSrc": "/interaction-separated/keyboard/left-paws/Tab.png",
+      "surfaceSrc": "/interaction-separated/keyboard/left-pressed/Tab.png",
+      "bbox": [
+        386,
+        199,
+        130,
+        112
+      ],
+      "whiteCoreBBox": [
+        387,
+        200,
+        121,
+        102
+      ],
+      "anatomicalBBox": [
+        387,
+        200,
+        128,
+        108
+      ],
+      "anchorY": 376,
+      "contactY": 483,
+      "pawPixels": 7867,
+      "surfacePixels": 611,
+      "cyanPixels": 391,
+      "surfaceGlyphCorePixels": 46,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "46fad8582c4b4f5dca76e25b3f7cde5804100d4ee0f174fdb299df9442054c0d"
+    },
+    "keyboard/right/DownArrow": {
+      "key": "DownArrow",
+      "mode": "keyboard",
+      "side": "right",
+      "pawSrc": "/interaction-separated/keyboard/right-paws/DownArrow.png",
+      "surfaceSrc": "/interaction-separated/keyboard/right-pressed/DownArrow.png",
+      "bbox": [
+        140,
+        144,
+        80,
+        89
+      ],
+      "whiteCoreBBox": [
+        147,
+        146,
+        69,
+        83
+      ],
+      "anatomicalBBox": [
+        141,
+        146,
+        78,
+        87
+      ],
+      "anchorY": 322,
+      "contactY": 408,
+      "pawPixels": 5072,
+      "surfacePixels": 938,
+      "cyanPixels": 864,
+      "surfaceGlyphCorePixels": 9,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "c2e2ecb2fc4c3b92d31567d3d8c17e161c5d9a56f295a1702b18eb1817dbaf13"
+    },
+    "keyboard/right/LeftArrow": {
+      "key": "LeftArrow",
+      "mode": "keyboard",
+      "side": "right",
+      "pawSrc": "/interaction-separated/keyboard/right-paws/LeftArrow.png",
+      "surfaceSrc": "/interaction-separated/keyboard/right-pressed/LeftArrow.png",
+      "bbox": [
+        142,
+        149,
+        81,
+        89
+      ],
+      "whiteCoreBBox": [
+        150,
+        151,
+        66,
+        83
+      ],
+      "anatomicalBBox": [
+        143,
+        151,
+        79,
+        87
+      ],
+      "anchorY": 327,
+      "contactY": 413,
+      "pawPixels": 5151,
+      "surfacePixels": 1998,
+      "cyanPixels": 1760,
+      "surfaceGlyphCorePixels": 184,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "be884d5b49b35e9acb5eed46e73cc625738d927ee43f94d889ee42517d5b9706"
+    },
+    "keyboard/right/RightArrow": {
+      "key": "RightArrow",
+      "mode": "keyboard",
+      "side": "right",
+      "pawSrc": "/interaction-separated/keyboard/right-paws/RightArrow.png",
+      "surfaceSrc": "/interaction-separated/keyboard/right-pressed/RightArrow.png",
+      "bbox": [
+        117,
+        143,
+        88,
+        85
+      ],
+      "whiteCoreBBox": [
+        123,
+        146,
+        79,
+        76
+      ],
+      "anatomicalBBox": [
+        117,
+        146,
+        86,
+        81
+      ],
+      "anchorY": 322,
+      "contactY": 402,
+      "pawPixels": 4913,
+      "surfacePixels": 1121,
+      "cyanPixels": 961,
+      "surfaceGlyphCorePixels": 106,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "622607aedd5c39210b5168d253355dd93d33bac3842a2d19cec7600e25e33198"
+    },
+    "keyboard/right/UpArrow": {
+      "key": "UpArrow",
+      "mode": "keyboard",
+      "side": "right",
+      "pawSrc": "/interaction-separated/keyboard/right-paws/UpArrow.png",
+      "surfaceSrc": "/interaction-separated/keyboard/right-pressed/UpArrow.png",
+      "bbox": [
+        117,
+        148,
+        97,
+        105
+      ],
+      "whiteCoreBBox": [
+        124,
+        150,
+        86,
+        98
+      ],
+      "anatomicalBBox": [
+        118,
+        150,
+        94,
+        103
+      ],
+      "anchorY": 326,
+      "contactY": 428,
+      "pawPixels": 6914,
+      "surfacePixels": 2115,
+      "cyanPixels": 1877,
+      "surfaceGlyphCorePixels": 188,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "fa7f4279a9c798c7bb3f675d21fb2b4a041304f64424f57883f0e54b1bd4d1ea"
+    },
+    "gamepad/left/DPadDown": {
+      "key": "DPadDown",
+      "mode": "gamepad",
+      "side": "left",
+      "pawSrc": "/interaction-separated/gamepad/left-paws/DPadDown.png",
+      "surfaceSrc": "/interaction-separated/gamepad/left-pressed/DPadDown.png",
+      "bbox": [
+        344,
+        188,
+        116,
+        76
+      ],
+      "whiteCoreBBox": [
+        351,
+        190,
+        101,
+        68
+      ],
+      "anatomicalBBox": [
+        345,
+        189,
+        113,
+        73
+      ],
+      "anchorY": 365,
+      "contactY": 437,
+      "pawPixels": 5215,
+      "surfacePixels": 157,
+      "cyanPixels": 127,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "8142afbe85c7e2933377fa033b3939191d2b2ab11ac33a5122b25785a4fb35b2"
+    },
+    "gamepad/left/DPadLeft": {
+      "key": "DPadLeft",
+      "mode": "gamepad",
+      "side": "left",
+      "pawSrc": "/interaction-separated/gamepad/left-paws/DPadLeft.png",
+      "surfaceSrc": "/interaction-separated/gamepad/left-pressed/DPadLeft.png",
+      "bbox": [
+        369,
+        197,
+        97,
+        85
+      ],
+      "whiteCoreBBox": [
+        377,
+        204,
+        82,
+        71
+      ],
+      "anatomicalBBox": [
+        370,
+        197,
+        96,
+        84
+      ],
+      "anchorY": 373,
+      "contactY": 456,
+      "pawPixels": 5306,
+      "surfacePixels": 636,
+      "cyanPixels": 590,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "eef23ebc20eed50adddd208b90fe96dd24ea97c08276ce0e1fde6511edee2374"
+    },
+    "gamepad/left/DPadRight": {
+      "key": "DPadRight",
+      "mode": "gamepad",
+      "side": "left",
+      "pawSrc": "/interaction-separated/gamepad/left-paws/DPadRight.png",
+      "surfaceSrc": "/interaction-separated/gamepad/left-pressed/DPadRight.png",
+      "bbox": [
+        328,
+        188,
+        132,
+        79
+      ],
+      "whiteCoreBBox": [
+        336,
+        190,
+        116,
+        70
+      ],
+      "anatomicalBBox": [
+        329,
+        189,
+        129,
+        77
+      ],
+      "anchorY": 365,
+      "contactY": 441,
+      "pawPixels": 6164,
+      "surfacePixels": 999,
+      "cyanPixels": 967,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "6b7bb6032d51373c7ef34eac2f55085b65cac5bf2418a4895c5b595eca2b28e9"
+    },
+    "gamepad/left/DPadUp": {
+      "key": "DPadUp",
+      "mode": "gamepad",
+      "side": "left",
+      "pawSrc": "/interaction-separated/gamepad/left-paws/DPadUp.png",
+      "surfaceSrc": "/interaction-separated/gamepad/left-pressed/DPadUp.png",
+      "bbox": [
+        337,
+        189,
+        123,
+        95
+      ],
+      "whiteCoreBBox": [
+        346,
+        190,
+        108,
+        85
+      ],
+      "anatomicalBBox": [
+        339,
+        190,
+        120,
+        92
+      ],
+      "anchorY": 366,
+      "contactY": 457,
+      "pawPixels": 6729,
+      "surfacePixels": 1101,
+      "cyanPixels": 1060,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "7eca802899a055653a15c7fbc89bb5f453fbacba9ee90762a1698a728911925d"
+    },
+    "gamepad/left/LeftTrigger": {
+      "key": "LeftTrigger",
+      "mode": "gamepad",
+      "side": "left",
+      "pawSrc": "/interaction-separated/gamepad/left-paws/LeftTrigger.png",
+      "surfaceSrc": "/interaction-separated/gamepad/left-pressed/LeftTrigger.png",
+      "bbox": [
+        341,
+        194,
+        125,
+        122
+      ],
+      "whiteCoreBBox": [
+        348,
+        196,
+        110,
+        115
+      ],
+      "anatomicalBBox": [
+        342,
+        196,
+        121,
+        120
+      ],
+      "anchorY": 372,
+      "contactY": 491,
+      "pawPixels": 9357,
+      "surfacePixels": 1751,
+      "cyanPixels": 1696,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "b096c61bfc96bae5f5fc1fd2ab1433af7a018e3c709d7121dfeacc4608f94f2b"
+    },
+    "gamepad/left/LeftTrigger2": {
+      "key": "LeftTrigger2",
+      "mode": "gamepad",
+      "side": "left",
+      "pawSrc": "/interaction-separated/gamepad/left-paws/LeftTrigger2.png",
+      "surfaceSrc": "/interaction-separated/gamepad/left-pressed/LeftTrigger2.png",
+      "bbox": [
+        297,
+        195,
+        174,
+        120
+      ],
+      "whiteCoreBBox": [
+        304,
+        199,
+        164,
+        106
+      ],
+      "anatomicalBBox": [
+        299,
+        199,
+        170,
+        112
+      ],
+      "anchorY": 375,
+      "contactY": 486,
+      "pawPixels": 12098,
+      "surfacePixels": 1246,
+      "cyanPixels": 1212,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "2577a9e810251d45384f8b2ec3747243f89289be70673e914e4f2b01c40211ac"
+    },
+    "gamepad/right/East": {
+      "key": "East",
+      "mode": "gamepad",
+      "side": "right",
+      "pawSrc": "/interaction-separated/gamepad/right-paws/East.png",
+      "surfaceSrc": "/interaction-separated/gamepad/right-pressed/East.png",
+      "bbox": [
+        138,
+        148,
+        81,
+        79
+      ],
+      "whiteCoreBBox": [
+        146,
+        149,
+        69,
+        75
+      ],
+      "anatomicalBBox": [
+        139,
+        149,
+        79,
+        78
+      ],
+      "anchorY": 325,
+      "contactY": 402,
+      "pawPixels": 4861,
+      "surfacePixels": 648,
+      "cyanPixels": 603,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "263983eba71262c0437f3b0a9d8e745302e562ccbf4472640fd702d1368a1569"
+    },
+    "gamepad/right/North": {
+      "key": "North",
+      "mode": "gamepad",
+      "side": "right",
+      "pawSrc": "/interaction-separated/gamepad/right-paws/North.png",
+      "surfaceSrc": "/interaction-separated/gamepad/right-pressed/North.png",
+      "bbox": [
+        137,
+        131,
+        88,
+        122
+      ],
+      "whiteCoreBBox": [
+        145,
+        135,
+        75,
+        113
+      ],
+      "anatomicalBBox": [
+        137,
+        135,
+        86,
+        118
+      ],
+      "anchorY": 311,
+      "contactY": 428,
+      "pawPixels": 7647,
+      "surfacePixels": 803,
+      "cyanPixels": 749,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "1c2e117f8a9e3512072c120f76fbce411431c593061ca009f466997e618de8b4"
+    },
+    "gamepad/right/RightTrigger": {
+      "key": "RightTrigger",
+      "mode": "gamepad",
+      "side": "right",
+      "pawSrc": "/interaction-separated/gamepad/right-paws/RightTrigger.png",
+      "surfaceSrc": "/interaction-separated/gamepad/right-pressed/RightTrigger.png",
+      "bbox": [
+        121,
+        133,
+        103,
+        141
+      ],
+      "whiteCoreBBox": [
+        128,
+        137,
+        91,
+        131
+      ],
+      "anatomicalBBox": [
+        122,
+        137,
+        100,
+        137
+      ],
+      "anchorY": 313,
+      "contactY": 449,
+      "pawPixels": 9650,
+      "surfacePixels": 1549,
+      "cyanPixels": 1501,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "e6717f1d72975ee5d75fe37fe3967d581120e0673669c4dc4cef910b6a3bcc15"
+    },
+    "gamepad/right/RightTrigger2": {
+      "key": "RightTrigger2",
+      "mode": "gamepad",
+      "side": "right",
+      "pawSrc": "/interaction-separated/gamepad/right-paws/RightTrigger2.png",
+      "surfaceSrc": "/interaction-separated/gamepad/right-pressed/RightTrigger2.png",
+      "bbox": [
+        134,
+        149,
+        92,
+        134
+      ],
+      "whiteCoreBBox": [
+        143,
+        155,
+        75,
+        123
+      ],
+      "anatomicalBBox": [
+        136,
+        155,
+        88,
+        128
+      ],
+      "anchorY": 331,
+      "contactY": 458,
+      "pawPixels": 9398,
+      "surfacePixels": 1133,
+      "cyanPixels": 1115,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "f321939a0f0ab989d85abe794371750898f3f45c38dbb18ba77f97f2f7758ce0"
+    },
+    "gamepad/right/South": {
+      "key": "South",
+      "mode": "gamepad",
+      "side": "right",
+      "pawSrc": "/interaction-separated/gamepad/right-paws/South.png",
+      "surfaceSrc": "/interaction-separated/gamepad/right-pressed/South.png",
+      "bbox": [
+        146,
+        149,
+        85,
+        72
+      ],
+      "whiteCoreBBox": [
+        155,
+        150,
+        68,
+        65
+      ],
+      "anatomicalBBox": [
+        146,
+        150,
+        83,
+        69
+      ],
+      "anchorY": 326,
+      "contactY": 394,
+      "pawPixels": 4041,
+      "surfacePixels": 453,
+      "cyanPixels": 398,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "141c08d802ab9680ad4c4ff410db007bf940d39a9a789e1a6e8e019f34f8ce6c"
+    },
+    "gamepad/right/West": {
+      "key": "West",
+      "mode": "gamepad",
+      "side": "right",
+      "pawSrc": "/interaction-separated/gamepad/right-paws/West.png",
+      "surfaceSrc": "/interaction-separated/gamepad/right-pressed/West.png",
+      "bbox": [
+        151,
+        136,
+        93,
+        105
+      ],
+      "whiteCoreBBox": [
+        159,
+        147,
+        77,
+        90
+      ],
+      "anatomicalBBox": [
+        154,
+        147,
+        89,
+        93
+      ],
+      "anchorY": 323,
+      "contactY": 415,
+      "pawPixels": 5642,
+      "surfacePixels": 714,
+      "cyanPixels": 666,
+      "surfaceGlyphCorePixels": 0,
+      "noOverlap": true,
+      "alphaPartitionExact": true,
+      "visibleRGBAExact": true,
+      "allCyanInSurface": true,
+      "pawHasCyan": false,
+      "pawChromaticVisiblePixels": 0,
+      "transparentRGBZero": true,
+      "sourceSHA256": "12be6349b2bc25a85e26b6fa027ce343472c71b612c508b4e22689dc95273a44"
+    }
+  }
+}

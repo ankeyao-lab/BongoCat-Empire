@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>敲敲猫 · 整体角色试装</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#222029;color:#f4eee8;font:15px/1.6 -apple-system,BlinkMacSystemFont,sans-serif}main{max-width:1100px;padding:44px 28px;margin:auto}small{color:#bbaa91;letter-spacing:2px}h1{font-size:32px;margin:8px 0}p{color:#c0b7c8;margin:8px 0 24px}.comparison{display:grid;grid-template-columns:1fr 1fr;gap:22px}.card{padding:24px;background:#2c2834;border:1px solid #49404e;border-radius:22px;overflow:hidden}.card h2{font-size:18px;margin:0 0 12px}.stage,.baseline{display:block;width:100%;aspect-ratio:612/580}.baseline{object-fit:contain}button{font:inherit;padding:9px 18px;border:1px solid #756284;background:#493b55;color:#fff4e3;border-radius:10px;cursor:pointer}footer{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px}#key{color:#ddc39f}.hint{font-size:13px;margin:15px 0 0}@media(max-width:700px){main{padding:24px 16px}.comparison{grid-template-columns:1fr}.card{padding:18px}h1{font-size:26px}}
+</style>
+<main>
+  <small>敲敲猫 / 整体角色试装</small>
+  <h1>让衣服成为猫的一部分</h1>
+  <p>完整绘制猫身、帽子与披肩，原版眼睛和双手独立活动。下方右侧为实际运行组件。</p>
+  <p><label>主题 <select id="theme" aria-label="试装主题"></select></label>　<label>等级 <select id="level" aria-label="试装等级"></select></label>　<span id="coverage"></span></p>
+  <div class="comparison">
+    <section class="card"><h2>原方案参考 · 魔法师 5 级</h2><img class="baseline" src="/preview-v5/baseline.png" alt="1.6.0 魔法师第五级"></section>
+    <section class="card"><h2>整体角色新方案</h2><div class="stage" id="pet"></div></section>
+  </div>
+  <footer><button id="tap">敲一下键盘</button><button id="scroll">滚动触摸板</button><button id="blink">查看眨眼</button><span id="key"></span></footer>
+  <p class="hint">在页面内移动指针、敲键盘或点击，可观察镜像跟随、按键反馈和眨眼。这里只列出已接入的试装素材；新版仍在开发，尚未安装。</p>
+</main>
+<script type="module">
+import { createApp, h, reactive } from '/node_modules/.vite/deps/vue.js'
+import Pet from '/src/components/wizard-pet/WizardPet.vue'
+import { compositeBodyThemes } from '/src/components/wizard-pet/composite-body.ts'
+import { playfulThemes } from '/src/components/wizard-pet/playful-art.ts'
+const input=reactive({pointer:{x:0,y:0},pressedKeys:[],pressedButtons:[],mouseButtons:[],rightTap:false,scrolling:false,scrollDirection:1})
+const selection=reactive({theme:'wizard',level:5})
+const themeSelect=document.getElementById('theme'),levelSelect=document.getElementById('level')
+for(const theme of playfulThemes.filter(t=>compositeBodyThemes[t.id]?.length)){const option=new Option(theme.name,theme.id);themeSelect.add(option)}
+function levels(){levelSelect.replaceChildren();const entries=compositeBodyThemes[selection.theme]??[];for(const entry of entries)levelSelect.add(new Option(String(entry.level),String(entry.level)));if(!entries.some(e=>e.level===selection.level))selection.level=entries[0]?.level??1;levelSelect.value=String(selection.level);document.getElementById('coverage').textContent=`本主题已接入 ${entries.length}/9 套`}
+levels();themeSelect.onchange=()=>{selection.theme=themeSelect.value;levels()};levelSelect.onchange=()=>selection.level=Number(levelSelect.value)
+createApp({render(){return h(Pet,{level:selection.level,growthLevel:selection.level,outfitThemeId:selection.theme,mode:'trackpad',pointerMirror:true,progress:.42,input})}}).mount('#pet')
+const keyLabel=document.getElementById('key')
+addEventListener('pointermove',e=>{input.pointer={x:e.clientX/innerWidth*2-1,y:e.clientY/innerHeight*2-1}})
+addEventListener('keydown',e=>{if(!e.metaKey&&!e.ctrlKey){if(!input.pressedKeys.includes(e.code))input.pressedKeys.push(e.code);keyLabel.textContent=e.code}})
+addEventListener('keyup',e=>{input.pressedKeys=input.pressedKeys.filter(k=>k!==e.code)})
+addEventListener('blur',()=>{input.pressedKeys=[];input.mouseButtons=[];input.rightTap=false})
+addEventListener('pointerdown',()=>{input.mouseButtons=['Left'];input.rightTap=true})
+addEventListener('pointerup',()=>{input.mouseButtons=[];input.rightTap=false})
+let scrollTimer;function scroll(delta=1){input.scrolling=true;input.scrollDirection=delta;clearTimeout(scrollTimer);scrollTimer=setTimeout(()=>input.scrolling=false,650)}
+addEventListener('wheel',e=>scroll(e.deltaY<0?1:-1),{passive:true})
+document.getElementById('tap').onclick=()=>{input.pressedKeys=['KeyA'];keyLabel.textContent='A';setTimeout(()=>input.pressedKeys=[],400)}
+document.getElementById('scroll').onclick=()=>scroll()
+document.getElementById('blink').onclick=()=>{const svg=document.querySelector('.pet-stage');svg.setCurrentTime?.(5.18)}
+</script>
+</html>

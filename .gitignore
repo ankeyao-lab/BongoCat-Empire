@@ -13,6 +13,10 @@ dist-ssr
 *.local
 target
 
+# Browser and TAP output are generated during local verification; release the
+# tests themselves, not the machine-specific screenshots and result logs.
+tests/results/
+
 # Editor directories and files
 .idea
 .DS_Store

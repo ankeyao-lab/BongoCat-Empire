@@ -1,0 +1,1087 @@
+{
+  "schemaVersion": 1,
+  "themes": {
+    "wizard": [
+      {
+        "level": 1,
+        "src": "/wardrobe/v5/wizard/01-body.png",
+        "faceMask": "/wardrobe/v5/wizard/01-face-mask.png",
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.84793630 -16.22981799)"
+      },
+      {
+        "level": 2,
+        "src": "/wardrobe/v5/wizard/02-body.png",
+        "faceMask": "/wardrobe/v5/wizard/02-face-mask.png",
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.84793630 -16.22981799)"
+      },
+      {
+        "level": 3,
+        "src": "/wardrobe/v5/wizard/03-body.png",
+        "faceMask": "/wardrobe/v5/wizard/03-face-mask.png",
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.84793630 -16.22981799)"
+      },
+      {
+        "level": 4,
+        "src": "/wardrobe/v5/wizard/04-body.png",
+        "faceMask": "/wardrobe/v5/wizard/04-face-mask.png",
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.84793630 -16.22981799)"
+      },
+      {
+        "level": 5,
+        "src": "/wardrobe/v5/wizard/05-body.png",
+        "faceMask": "/wardrobe/v5/wizard/05-face-mask.png",
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.84793630 -16.22981799)"
+      },
+      {
+        "level": 6,
+        "src": "/wardrobe/v5/wizard/06-body.png",
+        "faceMask": "/wardrobe/v5/wizard/06-face-mask.png",
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.84793630 -16.22981799)"
+      },
+      {
+        "level": 7,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.472655113624 -0.009616094738 0.009616094738 0.472655113624 1.645655548399 -3.776331988685)",
+        "restPawY": 273,
+        "src": "/wardrobe/v5/wizard/07-body.png",
+        "faceMask": "/wardrobe/v5/wizard/07-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 8,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.475432121833 -0.037456958788 0.037456958788 0.475432121833 -18.998615312513 3.731920580677)",
+        "restPawY": 270,
+        "src": "/wardrobe/v5/wizard/08-body.png",
+        "faceMask": "/wardrobe/v5/wizard/08-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 9,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.461322749414 -0.053298932292 0.053298932292 0.461322749414 -27.290220383982 16.304193657520)",
+        "restPawY": 261,
+        "src": "/wardrobe/v5/wizard/09-body.png",
+        "faceMask": "/wardrobe/v5/wizard/09-face-mask.png",
+        "frameScale": 1.0
+      }
+    ],
+    "astronaut": [
+      {
+        "level": 1,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.47790314681963053 -0.004170597579082502 0.004170597579082502 0.47790314681963053 -0.5327913422917163 -23.858271597774717)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/astronaut/01-body.png",
+        "faceMask": "/wardrobe/v5/astronaut/01-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 2,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.45722130336123634 -0.015966519741394194 0.015966519741394194 0.45722130336123634 -1.148394775415568 -3.8601128486504876)",
+        "restPawY": 271,
+        "src": "/wardrobe/v5/astronaut/02-body.png",
+        "faceMask": "/wardrobe/v5/astronaut/02-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 3,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774590914165884 0.0062502818853169715 -0.0062502818853169715 0.4774590914165884 11.466266364795842 -39.31255405826113)",
+        "restPawY": 278,
+        "src": "/wardrobe/v5/astronaut/03-body.png",
+        "faceMask": "/wardrobe/v5/astronaut/03-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 4,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.47835144119892553 0.03974793960585809 -0.03974793960585809 0.47835144119892553 35.097932435046346 -29.5499158662044)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/astronaut/04-body.png",
+        "faceMask": "/wardrobe/v5/astronaut/04-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 5,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.48453838746720107 0.02115540287218796 -0.02115540287218796 0.48453838746720107 21.071315178872396 -56.400083995273235)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/astronaut/05-body.png",
+        "faceMask": "/wardrobe/v5/astronaut/05-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 6,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.47750000000000004 0.0 -0.0 0.47750000000000004 8.332265859033214 -32.34996932826721)",
+        "restPawY": 279,
+        "src": "/wardrobe/v5/astronaut/06-body.png",
+        "faceMask": "/wardrobe/v5/astronaut/06-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 7,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4747106428340705 -0.01657726093368796 0.01657726093368796 0.4747106428340705 -18.056985944212045 -24.670282821081514)",
+        "restPawY": 271,
+        "src": "/wardrobe/v5/astronaut/07-body.png",
+        "faceMask": "/wardrobe/v5/astronaut/07-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 8,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.47790314681963053 -0.004170597579082502 0.004170597579082502 0.47790314681963053 -0.02360182723845128 -25.010396215055664)",
+        "restPawY": 273,
+        "src": "/wardrobe/v5/astronaut/08-body.png",
+        "faceMask": "/wardrobe/v5/astronaut/08-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 9,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.47227962167034687 -0.014429447491641207 0.014429447491641207 0.47227962167034687 -1.909533023020856 -30.945161259119516)",
+        "restPawY": 272,
+        "src": "/wardrobe/v5/astronaut/09-body.png",
+        "faceMask": "/wardrobe/v5/astronaut/09-face-mask.png",
+        "frameScale": 1.0
+      }
+    ],
+    "baker": [
+      {
+        "level": 1,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.5038045756 0.0296799732 -0.0296799732 0.5038045756 14.2944683420 -42.6790572647)",
+        "src": "/wardrobe/v5/baker/01-body.png",
+        "faceMask": "/wardrobe/v5/baker/01-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 2,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4796717961 0.0229977266 -0.0229977266 0.4796717961 23.1463454006 -23.1976889192)",
+        "src": "/wardrobe/v5/baker/02-body.png",
+        "faceMask": "/wardrobe/v5/baker/02-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 3,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.5032031409 0.0322629794 -0.0322629794 0.5032031409 19.1599592711 -64.7337624530)",
+        "src": "/wardrobe/v5/baker/03-body.png",
+        "faceMask": "/wardrobe/v5/baker/03-face-mask.png",
+        "frameScale": 0.959262
+      },
+      {
+        "level": 4,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4811273496 0.0214052013 -0.0214052013 0.4811273496 31.8262391646 -37.6376643580)",
+        "src": "/wardrobe/v5/baker/04-body.png",
+        "faceMask": "/wardrobe/v5/baker/04-face-mask.png",
+        "frameScale": 0.958445
+      },
+      {
+        "level": 5,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4972744084 0.0271651986 -0.0271651986 0.4972744084 18.0210768377 -57.6268891150)",
+        "src": "/wardrobe/v5/baker/05-body.png",
+        "faceMask": "/wardrobe/v5/baker/05-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 6,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4960233278 0.0249644943 -0.0249644943 0.4960233278 23.2233798965 -43.6951997369)",
+        "restPawY": 276,
+        "src": "/wardrobe/v5/baker/06-body.png",
+        "faceMask": "/wardrobe/v5/baker/06-face-mask.png",
+        "frameScale": 0.978272
+      },
+      {
+        "level": 7,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4917136806 0.0245930487 -0.0245930487 0.4917136806 15.6486097816 -32.6287144352)",
+        "restPawY": 278,
+        "src": "/wardrobe/v5/baker/07-body.png",
+        "faceMask": "/wardrobe/v5/baker/07-face-mask.png",
+        "frameScale": 0.995113
+      },
+      {
+        "level": 8,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4893658377 0.0250801965 -0.0250801965 0.4893658377 19.6504854066 -48.2354372715)",
+        "restPawY": 280,
+        "src": "/wardrobe/v5/baker/08-body.png",
+        "faceMask": "/wardrobe/v5/baker/08-face-mask.png",
+        "frameScale": 0.990983
+      },
+      {
+        "level": 9,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.5049225608 0.0316361825 -0.0316361825 0.5049225608 10.1427519507 -43.9479752066)",
+        "restPawY": 279,
+        "src": "/wardrobe/v5/baker/09-body.png",
+        "faceMask": "/wardrobe/v5/baker/09-face-mask.png",
+        "frameScale": 0.928242
+      }
+    ],
+    "garden": [
+      {
+        "level": 1,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4854283708 0.0233136474 -0.0233136474 0.4854283708 18.7027299184 -22.4725555542)",
+        "src": "/wardrobe/v5/garden/01-body.png",
+        "faceMask": "/wardrobe/v5/garden/01-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 2,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4867118744 0.0250013531 -0.0250013531 0.4867118744 24.8087877845 -44.1408949078)",
+        "src": "/wardrobe/v5/garden/02-body.png",
+        "faceMask": "/wardrobe/v5/garden/02-face-mask.png",
+        "frameScale": 0.973703
+      },
+      {
+        "level": 3,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4740069399 0.0206512132 -0.0206512132 0.4740069399 21.3979233164 -13.4112047275)",
+        "restPawY": 281,
+        "src": "/wardrobe/v5/garden/03-body.png",
+        "faceMask": "/wardrobe/v5/garden/03-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 4,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4796733488 0.0205931548 -0.0205931548 0.4796733488 18.6520291920 -34.0206676569)",
+        "restPawY": 281,
+        "src": "/wardrobe/v5/garden/04-body.png",
+        "faceMask": "/wardrobe/v5/garden/04-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 5,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4850921159 0.0232791948 -0.0232791948 0.4850921159 17.5755929460 -27.1565687491)",
+        "src": "/wardrobe/v5/garden/05-body.png",
+        "faceMask": "/wardrobe/v5/garden/05-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 6,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4875615868 0.0206732720 -0.0206732720 0.4875615868 15.7005055251 -22.9888050112)",
+        "restPawY": 279,
+        "src": "/wardrobe/v5/garden/06-body.png",
+        "faceMask": "/wardrobe/v5/garden/06-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 7,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4914457739 0.0257056815 -0.0257056815 0.4914457739 14.6395396948 -25.5483335548)",
+        "restPawY": 275,
+        "src": "/wardrobe/v5/garden/07-body.png",
+        "faceMask": "/wardrobe/v5/garden/07-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 8,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4989641419 0.0271595970 -0.0271595970 0.4989641419 14.0023207300 -42.0125370841)",
+        "src": "/wardrobe/v5/garden/08-body.png",
+        "faceMask": "/wardrobe/v5/garden/08-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 9,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4734841782 0.0185246037 -0.0185246037 0.4734841782 19.9488243684 -18.9633858548)",
+        "src": "/wardrobe/v5/garden/09-body.png",
+        "faceMask": "/wardrobe/v5/garden/09-face-mask.png",
+        "frameScale": 1.0
+      }
+    ],
+    "hero": [
+      {
+        "level": 1,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.478920083938 0.018059647475 -0.018059647475 0.478920083938 19.399655302480 -16.203373391866)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/hero/01-body.png",
+        "faceMask": "/wardrobe/v5/hero/01-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 2,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.472378861644 -0.003788396072 0.003788396072 0.472378861644 5.656794194513 -5.164110280294)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/hero/02-body.png",
+        "faceMask": "/wardrobe/v5/hero/02-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 3,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.474852654429 0.007714663683 -0.007714663683 0.474852654429 10.626991000145 -12.789394692644)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/hero/03-body.png",
+        "faceMask": "/wardrobe/v5/hero/03-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 4,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.496095427353 0.023287305526 -0.023287305526 0.496095427353 11.147864688103 -33.743938880127)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/hero/04-body.png",
+        "faceMask": "/wardrobe/v5/hero/04-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 5,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.487496719613 -0.061978976543 0.061978976543 0.487496719613 -47.544496866965 1.310494030731)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/hero/05-body.png",
+        "faceMask": "/wardrobe/v5/hero/05-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 6,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.490282135198 0.018143454914 -0.018143454914 0.490282135198 11.742678846057 -28.380075478470)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/hero/06-body.png",
+        "faceMask": "/wardrobe/v5/hero/06-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 7,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.487014194476 -0.036541258277 0.036541258277 0.487014194476 -27.634208222873 -7.905175489224)",
+        "restPawY": 271,
+        "src": "/wardrobe/v5/hero/07-body.png",
+        "faceMask": "/wardrobe/v5/hero/07-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 8,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.495516153776 -0.018707772086 0.018707772086 0.495516153776 -23.642349237682 -22.450566348740)",
+        "restPawY": 267,
+        "src": "/wardrobe/v5/hero/08-body.png",
+        "faceMask": "/wardrobe/v5/hero/08-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 9,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.491365297144 -0.073944963668 0.073944963668 0.491365297144 -61.701431693818 -0.747383393057)",
+        "restPawY": 257,
+        "src": "/wardrobe/v5/hero/09-body.png",
+        "faceMask": "/wardrobe/v5/hero/09-face-mask.png",
+        "frameScale": 0.979704
+      }
+    ],
+    "wuxia": [
+      {
+        "level": 1,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.497442322060 0.044056754688 -0.044056754688 0.497442322060 20.402376347768 -44.517721480456)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/wuxia/01-body.png",
+        "faceMask": "/wardrobe/v5/wuxia/01-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 2,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.495621876619 -0.024415097396 0.024415097396 0.495621876619 -22.984214221059 -17.640158771875)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/wuxia/02-body.png",
+        "faceMask": "/wardrobe/v5/wuxia/02-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 3,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.478972059118 0.019907845954 -0.019907845954 0.478972059118 20.157100311151 -17.380145787835)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/wuxia/03-body.png",
+        "faceMask": "/wardrobe/v5/wuxia/03-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 4,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.477930948398 -0.010538655150 0.010538655150 0.477930948398 -2.747462942344 -7.428374745462)",
+        "restPawY": 272,
+        "src": "/wardrobe/v5/wuxia/04-body.png",
+        "faceMask": "/wardrobe/v5/wuxia/04-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 5,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.473074478615 -0.003119323171 0.003119323171 0.473074478615 6.810179761692 -5.398182406829)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/wuxia/05-body.png",
+        "faceMask": "/wardrobe/v5/wuxia/05-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 6,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.482965884109 0.001855604490 -0.001855604490 0.482965884109 6.205195570222 -14.236603924829)",
+        "restPawY": 278,
+        "src": "/wardrobe/v5/wuxia/06-body.png",
+        "faceMask": "/wardrobe/v5/wuxia/06-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 7,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.474512040915 -0.028233254851 0.028233254851 0.474512040915 -13.480988294765 0.201689895343)",
+        "restPawY": 266,
+        "src": "/wardrobe/v5/wuxia/07-body.png",
+        "faceMask": "/wardrobe/v5/wuxia/07-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 8,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.491650957932 -0.042694613792 0.042694613792 0.491650957932 -35.019282595742 -9.188073704018)",
+        "restPawY": 268,
+        "src": "/wardrobe/v5/wuxia/08-body.png",
+        "faceMask": "/wardrobe/v5/wuxia/08-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 9,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.484723997214 -0.041728556545 0.041728556545 0.484723997214 -28.224419223958 -2.692870316771)",
+        "restPawY": 258,
+        "src": "/wardrobe/v5/wuxia/09-body.png",
+        "faceMask": "/wardrobe/v5/wuxia/09-face-mask.png",
+        "frameScale": 1.0
+      }
+    ],
+    "performer": [
+      {
+        "level": 1,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.476058062292 0.006465593463 -0.006465593463 0.476058062292 7.941954880782 -14.129932568901)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/performer/01-body.png",
+        "faceMask": "/wardrobe/v5/performer/01-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 2,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.475214105215 0.022107819703 -0.022107819703 0.475214105215 23.868729051871 -15.114435720075)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/performer/02-body.png",
+        "faceMask": "/wardrobe/v5/performer/02-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 3,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.467126014153 -0.000511744061 0.000511744061 0.467126014153 9.696412255296 -2.327681303082)",
+        "restPawY": 273,
+        "src": "/wardrobe/v5/performer/03-body.png",
+        "faceMask": "/wardrobe/v5/performer/03-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 4,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.472049960516 0.019367730132 -0.019367730132 0.472049960516 23.608357389595 -12.030608249917)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/performer/04-body.png",
+        "faceMask": "/wardrobe/v5/performer/04-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 5,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.471317113650 0.020693794959 -0.020693794959 0.471317113650 22.473923321463 -13.988622403126)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/performer/05-body.png",
+        "faceMask": "/wardrobe/v5/performer/05-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 6,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.484630711094 -0.018498272614 0.018498272614 0.484630711094 -11.462501329437 -9.552585242936)",
+        "restPawY": 271,
+        "src": "/wardrobe/v5/performer/06-body.png",
+        "faceMask": "/wardrobe/v5/performer/06-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 7,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.481126744991 -0.003269840000 0.003269840000 0.481126744991 4.380369782986 -10.735888078543)",
+        "restPawY": 278,
+        "src": "/wardrobe/v5/performer/07-body.png",
+        "faceMask": "/wardrobe/v5/performer/07-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 8,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.473986564254 0.020124450966 -0.020124450966 0.473986564254 23.443782013475 -13.586084955978)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/performer/08-body.png",
+        "faceMask": "/wardrobe/v5/performer/08-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 9,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.482210923167 -0.010758650515 0.010758650515 0.482210923167 -4.414690870298 -10.226419435121)",
+        "restPawY": 273,
+        "src": "/wardrobe/v5/performer/09-body.png",
+        "faceMask": "/wardrobe/v5/performer/09-face-mask.png",
+        "frameScale": 1.0
+      }
+    ],
+    "shaolin": [
+      {
+        "level": 1,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 23.400971492720828 -14.39866758826895)",
+        "restPawY": 266,
+        "src": "/wardrobe/v5/shaolin/01-body.png",
+        "faceMask": "/wardrobe/v5/shaolin/01-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 2,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 23.650647292049257 -14.057320187142238)",
+        "restPawY": 266,
+        "src": "/wardrobe/v5/shaolin/02-body.png",
+        "faceMask": "/wardrobe/v5/shaolin/02-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 3,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 23.624006030821874 -14.57507229540829)",
+        "restPawY": 264,
+        "src": "/wardrobe/v5/shaolin/03-body.png",
+        "faceMask": "/wardrobe/v5/shaolin/03-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 4,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 23.589838838970763 -14.4497716329289)",
+        "restPawY": 265,
+        "src": "/wardrobe/v5/shaolin/04-body.png",
+        "faceMask": "/wardrobe/v5/shaolin/04-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 5,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 23.564020212856974 -14.185367905445105)",
+        "restPawY": 266,
+        "src": "/wardrobe/v5/shaolin/05-body.png",
+        "faceMask": "/wardrobe/v5/shaolin/05-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 6,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 22.34377050068099 -14.327709899584818)",
+        "restPawY": 266,
+        "src": "/wardrobe/v5/shaolin/06-body.png",
+        "faceMask": "/wardrobe/v5/shaolin/06-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 7,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 23.811833440712064 -14.230834279622286)",
+        "restPawY": 266,
+        "src": "/wardrobe/v5/shaolin/07-body.png",
+        "faceMask": "/wardrobe/v5/shaolin/07-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 8,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 23.58876162985024 -14.458748232394328)",
+        "restPawY": 268,
+        "src": "/wardrobe/v5/shaolin/08-body.png",
+        "faceMask": "/wardrobe/v5/shaolin/08-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 9,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 23.523316183885186 -14.101669876371147)",
+        "restPawY": 265,
+        "src": "/wardrobe/v5/shaolin/09-body.png",
+        "faceMask": "/wardrobe/v5/shaolin/09-face-mask.png",
+        "frameScale": 1.0
+      }
+    ],
+    "cultivation": [
+      {
+        "level": 1,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.401225771419888 -16.536532569232747)",
+        "restPawY": 280,
+        "src": "/wardrobe/v5/cultivation/01-body.png",
+        "faceMask": "/wardrobe/v5/cultivation/01-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 2,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.625350214414993 -16.106037432408073)",
+        "restPawY": 281,
+        "src": "/wardrobe/v5/cultivation/02-body.png",
+        "faceMask": "/wardrobe/v5/cultivation/02-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 3,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.434209640755682 -16.379708975625135)",
+        "restPawY": 281,
+        "src": "/wardrobe/v5/cultivation/03-body.png",
+        "faceMask": "/wardrobe/v5/cultivation/03-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 4,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.575929969452602 -15.886600947539705)",
+        "restPawY": 277,
+        "src": "/wardrobe/v5/cultivation/04-body.png",
+        "faceMask": "/wardrobe/v5/cultivation/04-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 5,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.53523139877217 -16.41079839095852)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/cultivation/05-body.png",
+        "faceMask": "/wardrobe/v5/cultivation/05-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 6,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.85150530605017 -16.018291290322793)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/cultivation/06-body.png",
+        "faceMask": "/wardrobe/v5/cultivation/06-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 7,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.46796727814791 -15.747228684401023)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/cultivation/07-body.png",
+        "faceMask": "/wardrobe/v5/cultivation/07-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 8,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.795076407167073 -16.62622265995276)",
+        "restPawY": 278,
+        "src": "/wardrobe/v5/cultivation/08-body.png",
+        "faceMask": "/wardrobe/v5/cultivation/08-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 9,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.570999044942482 -16.031066088992134)",
+        "restPawY": 280,
+        "src": "/wardrobe/v5/cultivation/09-body.png",
+        "faceMask": "/wardrobe/v5/cultivation/09-face-mask.png",
+        "frameScale": 1.0
+      }
+    ],
+    "emperor": [
+      {
+        "level": 1,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.740215593810603 -15.87765358501889)",
+        "restPawY": 273,
+        "src": "/wardrobe/v5/emperor/01-body.png",
+        "faceMask": "/wardrobe/v5/emperor/01-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 2,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.746306361461393 -16.069239107787155)",
+        "restPawY": 273,
+        "src": "/wardrobe/v5/emperor/02-body.png",
+        "faceMask": "/wardrobe/v5/emperor/02-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 3,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.60990875734973 -15.879067863915566)",
+        "restPawY": 277,
+        "src": "/wardrobe/v5/emperor/03-body.png",
+        "faceMask": "/wardrobe/v5/emperor/03-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 4,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.594675632702717 -16.11592910466925)",
+        "restPawY": 279,
+        "src": "/wardrobe/v5/emperor/04-body.png",
+        "faceMask": "/wardrobe/v5/emperor/04-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 5,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.47957148377509 -16.300987367615846)",
+        "restPawY": 277,
+        "src": "/wardrobe/v5/emperor/05-body.png",
+        "faceMask": "/wardrobe/v5/emperor/05-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 6,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.744135302891436 -15.692869891738724)",
+        "restPawY": 278,
+        "src": "/wardrobe/v5/emperor/06-body.png",
+        "faceMask": "/wardrobe/v5/emperor/06-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 7,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.56450834437004 -16.002541548978513)",
+        "restPawY": 275,
+        "src": "/wardrobe/v5/emperor/07-body.png",
+        "faceMask": "/wardrobe/v5/emperor/07-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 8,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.584024565555296 -14.953520520754466)",
+        "restPawY": 275,
+        "src": "/wardrobe/v5/emperor/08-body.png",
+        "faceMask": "/wardrobe/v5/emperor/08-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 9,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054 0.02047138585 -0.02047138585 0.4774827054 21.587023939976064 -15.96202244737367)",
+        "restPawY": 278,
+        "src": "/wardrobe/v5/emperor/09-body.png",
+        "faceMask": "/wardrobe/v5/emperor/09-face-mask.png",
+        "frameScale": 1.0
+      }
+    ],
+    "pirate": [
+      {
+        "level": 1,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4772772896245304 -0.01458214005769032 0.01458214005769032 0.4772772896245304 -3.967566448999321 4.987459398726401)",
+        "restPawY": 273,
+        "src": "/wardrobe/v5/pirate/01-body.png",
+        "faceMask": "/wardrobe/v5/pirate/01-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 2,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4849261321508498 0.008464417122082504 -0.008464417122082504 0.4849261321508498 9.05434413715659 -26.218384925687815)",
+        "restPawY": 275,
+        "src": "/wardrobe/v5/pirate/02-body.png",
+        "faceMask": "/wardrobe/v5/pirate/02-face-mask.png",
+        "frameScale": 0.995721
+      },
+      {
+        "level": 3,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4767571522247972 0.03333810772634696 -0.03333810772634696 0.4767571522247972 32.56129049034894 -36.34939847462465)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/pirate/03-body.png",
+        "faceMask": "/wardrobe/v5/pirate/03-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 4,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.47746646937864023 0.020846636260269634 -0.020846636260269634 0.47746646937864023 21.823506062855813 -18.136568554759265)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/pirate/04-body.png",
+        "faceMask": "/wardrobe/v5/pirate/04-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 5,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4774827054309651 0.020471385849477917 -0.020471385849477917 0.4774827054309651 21.499556305655233 -16.21469046108109)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/pirate/05-body.png",
+        "faceMask": "/wardrobe/v5/pirate/05-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 6,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.47763020782987226 -0.01667921438992253 0.01667921438992253 0.47763020782987226 -9.233853542296629 -18.7171004017884)",
+        "restPawY": 272,
+        "src": "/wardrobe/v5/pirate/06-body.png",
+        "faceMask": "/wardrobe/v5/pirate/06-face-mask.png",
+        "frameScale": 0.981064
+      },
+      {
+        "level": 7,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4770299249538286 0.029176400100365058 -0.029176400100365058 0.4770299249538286 28.693167859763207 -27.52538326327698)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/pirate/07-body.png",
+        "faceMask": "/wardrobe/v5/pirate/07-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 8,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4773709639204281 0.022929771694312307 -0.022929771694312307 0.4773709639204281 24.065321144947006 -16.541176835103045)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/pirate/08-body.png",
+        "faceMask": "/wardrobe/v5/pirate/08-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 9,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.47790314681963053 0.004170597579082502 -0.004170597579082502 0.47790314681963053 8.04303038365299 -8.288852123723927)",
+        "restPawY": 277,
+        "src": "/wardrobe/v5/pirate/09-body.png",
+        "faceMask": "/wardrobe/v5/pirate/09-face-mask.png",
+        "frameScale": 1.0
+      }
+    ],
+    "ninja": [
+      {
+        "level": 1,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.47790314681963053 0.004170597579082502 -0.004170597579082502 0.47790314681963053 9.054417497986378 -11.226783128523891)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/ninja/01-body.png",
+        "faceMask": "/wardrobe/v5/ninja/01-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 2,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4777575728915575 0.012510522332823432 -0.012510522332823432 0.4777575728915575 17.047997978033322 -11.483467387543442)",
+        "restPawY": 278,
+        "src": "/wardrobe/v5/ninja/02-body.png",
+        "faceMask": "/wardrobe/v5/ninja/02-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 3,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4777575728915575 0.012510522332823432 -0.012510522332823432 0.4777575728915575 15.86518090753026 -21.672466387902205)",
+        "restPawY": 278,
+        "src": "/wardrobe/v5/ninja/03-body.png",
+        "faceMask": "/wardrobe/v5/ninja/03-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 4,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4766071493653451 0.03541802928046112 -0.03541802928046112 0.4766071493653451 36.32013171863116 -67.70671245170712)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/ninja/04-body.png",
+        "faceMask": "/wardrobe/v5/ninja/04-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 5,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4773709639204281 0.022929771694312307 -0.022929771694312307 0.4773709639204281 24.71899275734728 -16.834886961720372)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/ninja/05-body.png",
+        "faceMask": "/wardrobe/v5/ninja/05-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 6,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4776984377055481 0.014595007295323308 -0.014595007295323308 0.4776984377055481 17.403920843197284 -12.327747388017372)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/ninja/06-body.png",
+        "faceMask": "/wardrobe/v5/ninja/06-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 7,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.45722130336123634 -0.015966519741394194 0.015966519741394194 0.45722130336123634 28.055865903265783 10.241997831959168)",
+        "restPawY": 271,
+        "src": "/wardrobe/v5/ninja/07-body.png",
+        "faceMask": "/wardrobe/v5/ninja/07-face-mask.png",
+        "frameScale": 0.97106
+      },
+      {
+        "level": 8,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4591420072740588 0.028082328186034164 -0.028082328186034164 0.4591420072740588 38.48637454739128 -35.22596338527251)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/ninja/08-body.png",
+        "faceMask": "/wardrobe/v5/ninja/08-face-mask.png",
+        "frameScale": 1.0
+      },
+      {
+        "level": 9,
+        "width": 1254,
+        "height": 1254,
+        "transform": "matrix(0.4647831197390715 -0.014200408642567537 0.014200408642567537 0.4647831197390715 8.316992834588063 5.035956831291969)",
+        "restPawY": 282,
+        "src": "/wardrobe/v5/ninja/09-body.png",
+        "faceMask": "/wardrobe/v5/ninja/09-face-mask.png",
+        "frameScale": 1.0
+      }
+    ]
+  }
+}

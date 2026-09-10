@@ -1,0 +1,109 @@
+{
+  "generator": "built-in image_gen",
+  "date": "2026-09-07",
+  "status": "9 RGBA runtime sprites prepared; source RGB originals preserved",
+  "prompts": [
+    {
+      "level": 1,
+      "prompt": "Use case: precise-object-edit. Production asset for a layered 2D desktop pet.\nEdit the supplied approved Level 1 wizard BongoCat concept into a single game-ready TRANSPARENT PNG character-body sprite.\nPreserve the exact cute white wide flat BongoCat face, tiny oval eyes, w mouth, purple patchwork wizard hat, lavender short cape, cream ribbon, floating twig wand and tiny spark. Keep flat cel shading and thick charcoal outlines.\nREMOVE ENTIRELY: both raised front paws, both arms, all pink paw pads, keyboard, arrow keys, desk, tabletop line, ivory background, all shadows outside the character. This asset MUST HAVE NO PAWS OR HANDS: two independent animated paw sprites will be placed over the body at runtime. Seamlessly reconstruct the white cheeks and lavender short shoulder cape where paws were.\nReframe the remaining character on a genuinely transparent alpha canvas, square. Keep whole hat, wand and cape contained, no clipping. Front-ish same slight angle, head/body wide and short. Fixed production alignment: hat top at 10% canvas y; lower cape edge ends on a gently curved almost-horizontal baseline at 84% canvas y; white face center at 54% canvas x, 57% canvas y; main cat+cape body spans x=23%..91%, floating wand x=10%..20%. Below 85% canvas completely transparent. Do not add a human torso or lower legs. Large simple shapes readable at 360px width. No text, no watermark, no checkerboard painted into image. True transparent pixels outside all objects."
+    },
+    {
+      "level": 2,
+      "prompt": "Use case: precise-object-edit. Create a production desktop-pet character BODY sprite by editing the approved wizard costume in image 1. Image 2 is the geometry/template reference: match its no-paws cat body, face center, scale, composition and baseline exactly.\nPreserve image 1's exact unique hat, cape, clasp, floating artifact and restrained magic accents; preserve BongoCat's white flat wide body, tiny black oval eyes and w mouth, thick charcoal line art and cute cel-shading.\nAbsolutely NO PAWS, NO ARMS, NO HANDS, no pink paw pads, no keyboard, no mouse, no trackpad, no tabletop, no ground shadow, no text. Reconstruct the robe seamlessly behind removed paws; animation paws will be separate assets.\nAlignment on square canvas: entire costume is contained; hat/halo top >=6% canvas y, gently curved near-horizontal lower cape edge at 84% y; face center about x54%,y57%; main body x23%..91%, floating artifact at left x6%..22%. Below y85% completely empty. Do not create a tall humanoid torso or legs.\nBackground must be a single completely flat pure WHITE (#ffffff), no checkerboard, no texture, no paper, no noise, no environment; this clean matte will be converted to an alpha mask as a separate separate production operation. DO NOT draw a checkerboard. Preserve all internal whites in the cat. Output one image.\nThis is wizard level 2."
+    },
+    {
+      "level": 3,
+      "prompt": "Use case: precise-object-edit. Create a production desktop-pet character BODY sprite by editing the approved wizard costume in image 1. Image 2 is the geometry/template reference: match its no-paws cat body, face center, scale, composition and baseline exactly.\nPreserve image 1's exact unique hat, cape, clasp, floating artifact and restrained magic accents; preserve BongoCat's white flat wide body, tiny black oval eyes and w mouth, thick charcoal line art and cute cel-shading.\nAbsolutely NO PAWS, NO ARMS, NO HANDS, no pink paw pads, no keyboard, no mouse, no trackpad, no tabletop, no ground shadow, no text. Reconstruct the robe seamlessly behind removed paws; animation paws will be separate assets.\nAlignment on square canvas: entire costume is contained; hat/halo top >=6% canvas y, gently curved near-horizontal lower cape edge at 84% y; face center about x54%,y57%; main body x23%..91%, floating artifact at left x6%..22%. Below y85% completely empty. Do not create a tall humanoid torso or legs.\nBackground must be a single completely flat pure WHITE (#ffffff), no checkerboard, no texture, no paper, no noise, no environment; this clean matte will be converted to an alpha mask as a separate separate production operation. DO NOT draw a checkerboard. Preserve all internal whites in the cat. Output one image.\nThis is wizard level 3."
+    },
+    {
+      "level": 4,
+      "prompt": "Use case: precise-object-edit. Create a production desktop-pet character BODY sprite by editing the approved wizard costume in image 1. Image 2 is the geometry/template reference: match its no-paws cat body, face center, scale, composition and baseline exactly.\nPreserve image 1's exact unique hat, cape, clasp, floating artifact and restrained magic accents; preserve BongoCat's white flat wide body, tiny black oval eyes and w mouth, thick charcoal line art and cute cel-shading.\nAbsolutely NO PAWS, NO ARMS, NO HANDS, no pink paw pads, no keyboard, no mouse, no trackpad, no tabletop, no ground shadow, no text. Reconstruct the robe seamlessly behind removed paws; animation paws will be separate assets.\nAlignment on square canvas: entire costume is contained; hat/halo top >=6% canvas y, gently curved near-horizontal lower cape edge at 84% y; face center about x54%,y57%; main body x23%..91%, floating artifact at left x6%..22%. Below y85% completely empty. Do not create a tall humanoid torso or legs.\nBackground must be a single completely flat pure WHITE (#ffffff), no checkerboard, no texture, no paper, no noise, no environment; this clean matte will be converted to an alpha mask as a separate separate production operation. DO NOT draw a checkerboard. Preserve all internal whites in the cat. Output one image.\nThis is wizard level 4."
+    },
+    {
+      "level": 5,
+      "prompt": "Use case: precise-object-edit. Create a production desktop-pet character BODY sprite by editing the approved wizard costume in image 1. Image 2 is the geometry/template reference: match its no-paws cat body, face center, scale, composition and baseline exactly.\nPreserve image 1's exact unique hat, cape, clasp, floating artifact and restrained magic accents; preserve BongoCat's white flat wide body, tiny black oval eyes and w mouth, thick charcoal line art and cute cel-shading.\nAbsolutely NO PAWS, NO ARMS, NO HANDS, no pink paw pads, no keyboard, no mouse, no trackpad, no tabletop, no ground shadow, no text. Reconstruct the robe seamlessly behind removed paws; animation paws will be separate assets.\nAlignment on square canvas: entire costume is contained; hat/halo top >=6% canvas y, gently curved near-horizontal lower cape edge at 84% y; face center about x54%,y57%; main body x23%..91%, floating artifact at left x6%..22%. Below y85% completely empty. Do not create a tall humanoid torso or legs.\nBackground must be a single completely flat pure WHITE (#ffffff), no checkerboard, no texture, no paper, no noise, no environment; this clean matte will be converted to an alpha mask as a separate separate production operation. DO NOT draw a checkerboard. Preserve all internal whites in the cat. Output one image.\nThis is wizard level 5."
+    },
+    {
+      "level": 6,
+      "prompt": "Use case: precise-object-edit. Create a production desktop-pet character BODY sprite by editing the approved wizard costume in image 1. Image 2 is the geometry/template reference: match its no-paws cat body, face center, scale, composition and baseline exactly.\nPreserve image 1's exact unique hat, cape, clasp, floating artifact and restrained magic accents; preserve BongoCat's white flat wide body, tiny black oval eyes and w mouth, thick charcoal line art and cute cel-shading.\nAbsolutely NO PAWS, NO ARMS, NO HANDS, no pink paw pads, no keyboard, no mouse, no trackpad, no tabletop, no ground shadow, no text. Reconstruct the robe seamlessly behind removed paws; animation paws will be separate assets.\nAlignment on square canvas: entire costume is contained; hat/halo top >=6% canvas y, gently curved near-horizontal lower cape edge at 84% y; face center about x54%,y57%; main body x23%..91%, floating artifact at left x6%..22%. Below y85% completely empty. Do not create a tall humanoid torso or legs.\nBackground must be a single completely flat pure WHITE (#ffffff), no checkerboard, no texture, no paper, no noise, no environment; this clean matte will be converted to an alpha mask as a separate separate production operation. DO NOT draw a checkerboard. Preserve all internal whites in the cat. Output one image.\nThis is wizard level 6."
+    },
+    {
+      "level": 7,
+      "prompt": "Use case: precise-object-edit. Create a production desktop-pet character BODY sprite by editing the approved wizard costume in image 1. Image 2 is the geometry/template reference: match its no-paws cat body, face center, scale, composition and baseline exactly.\nPreserve image 1's exact unique hat, cape, clasp, floating artifact and restrained magic accents; preserve BongoCat's white flat wide body, tiny black oval eyes and w mouth, thick charcoal line art and cute cel-shading.\nAbsolutely NO PAWS, NO ARMS, NO HANDS, no pink paw pads, no keyboard, no mouse, no trackpad, no tabletop, no ground shadow, no text. Reconstruct the robe seamlessly behind removed paws; animation paws will be separate assets.\nAlignment on square canvas: entire costume is contained; hat/halo top >=6% canvas y, gently curved near-horizontal lower cape edge at 84% y; face center about x54%,y57%; main body x23%..91%, floating artifact at left x6%..22%. Below y85% completely empty. Do not create a tall humanoid torso or legs.\nBackground must be a single completely flat pure WHITE (#ffffff), no checkerboard, no texture, no paper, no noise, no environment; this clean matte will be converted to an alpha mask as a separate separate production operation. DO NOT draw a checkerboard. Preserve all internal whites in the cat. Output one image.\nThis is wizard level 7."
+    },
+    {
+      "level": 8,
+      "prompt": "Use case: precise-object-edit. Create a production desktop-pet character BODY sprite by editing the approved wizard costume in image 1. Image 2 is the geometry/template reference: match its no-paws cat body, face center, scale, composition and baseline exactly.\nPreserve image 1's exact unique hat, cape, clasp, floating artifact and restrained magic accents; preserve BongoCat's white flat wide body, tiny black oval eyes and w mouth, thick charcoal line art and cute cel-shading.\nAbsolutely NO PAWS, NO ARMS, NO HANDS, no pink paw pads, no keyboard, no mouse, no trackpad, no tabletop, no ground shadow, no text. Reconstruct the robe seamlessly behind removed paws; animation paws will be separate assets.\nAlignment on square canvas: entire costume is contained; hat/halo top >=6% canvas y, gently curved near-horizontal lower cape edge at 84% y; face center about x54%,y57%; main body x23%..91%, floating artifact at left x6%..22%. Below y85% completely empty. Do not create a tall humanoid torso or legs.\nBackground must be a single completely flat pure WHITE (#ffffff), no checkerboard, no texture, no paper, no noise, no environment; this clean matte will be converted to an alpha mask as a separate separate production operation. DO NOT draw a checkerboard. Preserve all internal whites in the cat. Output one image.\nThis is wizard level 8."
+    },
+    {
+      "level": 9,
+      "prompt": "Use case: precise-object-edit. Create a production desktop-pet character BODY sprite by editing the approved wizard costume in image 1. Image 2 is the geometry/template reference: match its no-paws cat body, face center, scale, composition and baseline exactly.\nPreserve image 1's exact unique hat, cape, clasp, floating artifact and restrained magic accents; preserve BongoCat's white flat wide body, tiny black oval eyes and w mouth, thick charcoal line art and cute cel-shading.\nAbsolutely NO PAWS, NO ARMS, NO HANDS, no pink paw pads, no keyboard, no mouse, no trackpad, no tabletop, no ground shadow, no text. Reconstruct the robe seamlessly behind removed paws; animation paws will be separate assets.\nAlignment on square canvas: entire costume is contained; hat/halo top >=6% canvas y, gently curved near-horizontal lower cape edge at 84% y; face center about x54%,y57%; main body x23%..91%, floating artifact at left x6%..22%. Below y85% completely empty. Do not create a tall humanoid torso or legs.\nBackground must be a single completely flat pure WHITE (#ffffff), no checkerboard, no texture, no paper, no noise, no environment; this clean matte will be converted to an alpha mask as a separate separate production operation. DO NOT draw a checkerboard. Preserve all internal whites in the cat. Output one image.\nThis is wizard level 9."
+    }
+  ],
+  "manifest": [
+    {
+      "level": 1,
+      "source": "/Users/Harry/.codex/generated_images/01a07aef-4464-7202-8cf9-b14dfd077c0e/exec-ae9e81ad-9f01-4802-936f-5b1f29c3bc2b.png",
+      "raw": "app/art/source/01.png",
+      "target": "app/public/wizard/sprites/01.png"
+    },
+    {
+      "level": 2,
+      "source": "/Users/Harry/.codex/generated_images/01a07aef-4464-7202-8cf9-b14dfd077c0e/exec-0ae66d72-a9d4-4749-bffa-51a0797adecb.png",
+      "raw": "app/art/source/02.png",
+      "target": "app/public/wizard/sprites/02.png"
+    },
+    {
+      "level": 3,
+      "source": "/Users/Harry/.codex/generated_images/01a07aef-4464-7202-8cf9-b14dfd077c0e/exec-4d4d0bb9-77a4-4a84-9632-a6faeaa20038.png",
+      "raw": "app/art/source/03.png",
+      "target": "app/public/wizard/sprites/03.png"
+    },
+    {
+      "level": 4,
+      "source": "/Users/Harry/.codex/generated_images/01a07aef-4464-7202-8cf9-b14dfd077c0e/exec-3f223d2f-19a5-464b-b15e-e54649a388b4.png",
+      "raw": "app/art/source/04.png",
+      "target": "app/public/wizard/sprites/04.png"
+    },
+    {
+      "level": 5,
+      "source": "/Users/Harry/.codex/generated_images/01a07aef-4464-7202-8cf9-b14dfd077c0e/exec-f1c6d61d-ea07-46c3-89f6-a0209e33ed99.png",
+      "raw": "app/art/source/05.png",
+      "target": "app/public/wizard/sprites/05.png"
+    },
+    {
+      "level": 6,
+      "source": "/Users/Harry/.codex/generated_images/01a07aef-4464-7202-8cf9-b14dfd077c0e/exec-011fec7e-8aff-4ff5-9448-23f74b605ec0.png",
+      "raw": "app/art/source/06.png",
+      "target": "app/public/wizard/sprites/06.png"
+    },
+    {
+      "level": 7,
+      "source": "/Users/Harry/.codex/generated_images/01a07aef-4464-7202-8cf9-b14dfd077c0e/exec-a0783293-2bed-443e-993a-6de573be9b88.png",
+      "raw": "app/art/source/07.png",
+      "target": "app/public/wizard/sprites/07.png"
+    },
+    {
+      "level": 8,
+      "source": "/Users/Harry/.codex/generated_images/01a07aef-4464-7202-8cf9-b14dfd077c0e/exec-4a4a4827-4bc8-4929-a418-c827c11da087.png",
+      "raw": "app/art/source/08.png",
+      "target": "app/public/wizard/sprites/08.png"
+    },
+    {
+      "level": 9,
+      "source": "/Users/Harry/.codex/generated_images/01a07aef-4464-7202-8cf9-b14dfd077c0e/exec-cc9fe80b-b899-463a-b71c-6815b6e969a1.png",
+      "raw": "app/art/source/09.png",
+      "target": "app/public/wizard/sprites/09.png"
+    }
+  ],
+  "preprocessing": {
+    "authorization": "Harry explicitly allowed local programmatic matting in this conversation on 2026-09-07",
+    "script": "art/prepare_sprites.py",
+    "report": "art/alpha-report.json",
+    "baselineY": 1044,
+    "canvas": [
+      1254,
+      1254
+    ]
+  }
+}

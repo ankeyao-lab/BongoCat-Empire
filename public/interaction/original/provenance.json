@@ -1,0 +1,58 @@
+{
+  "source": "src-tauri/assets/models/standard/demomodel.1024/texture_00.png",
+  "parts": {
+    "face": [
+      485,
+      22,
+      854,
+      250
+    ],
+    "eye-left": [
+      405,
+      29,
+      430,
+      56
+    ],
+    "eye-right": [
+      466,
+      35,
+      491,
+      65
+    ],
+    "paw-down": [
+      321,
+      61,
+      433,
+      202
+    ],
+    "paw-up": [
+      852,
+      111,
+      951,
+      217
+    ],
+    "mouse": [
+      254,
+      201,
+      349,
+      289
+    ],
+    "mouse-left-glow": [
+      348,
+      220,
+      418,
+      277
+    ],
+    "mouse-right-glow": [
+      423,
+      220,
+      469,
+      286
+    ]
+  },
+  "faceCleanup": "Keep the largest connected alpha island; discard neighboring UV fragment.",
+  "pawUpCleanup": "Clip atlas UV region to its paw mesh contour.",
+  "glows": "Keep original cyan RGBA where g>100, b>100, r<170 and min(g-r,b-r)>45.",
+  "originalResources": "Backgrounds, covers and complete per-key PNGs are copied byte-for-byte.",
+  "reproduce": "app/scripts/prepare-interaction-assets.py"
+}
