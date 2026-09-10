@@ -1,23 +1,59 @@
 # BongoCat Empire
 
-macOS desktop companion with twelve wardrobe themes, nine collectible levels per theme, local growth tracking, and Chinese / English settings. This is an independent macOS-focused distribution built from [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) under its MIT license.
+<p align="center">
+  <img src="docs/images/hero-astronaut-idle.png" width="430" alt="BongoCat Empire：航天主题的桌面猫咪">
+</p>
 
-## BongoCat Empire 1.8.3
+<p align="center">
+  <strong>把 MacBook 的每一次输入，变成一只会成长、会换装的桌面猫咪。</strong><br>
+  A desktop BongoCat for Mac with touchpad feedback, collectible growth, and 108 outfits.
+</p>
 
-- 12 themes × 9 levels: 108 outfits with full Chinese and English copy.
-- New "Road to the Throne" Emperor logo and the BongoCat Empire product name.
-- Compact desktop surface aligned to the cat's chest and input devices.
-- Keyboard, mouse, trackpad, and gamepad interaction modes; only valid non-modifier key presses add local growth.
-- Language selection persists across app restart. No account or network connection is required.
-- New idle-paw setting: default **A** raises both paws; **B** keeps the pointer paw on the trackpad or mouse. Find it in **Settings → More settings → Interaction & Window → Idle paw pose**. The choice applies immediately and persists after restart.
+<p align="center">
+  <a href="https://github.com/ankeyao-lab/BongoCat-Empire/releases/tag/v1.8.3">下载 v1.8.3</a> ·
+  <a href="#安装">安装</a> ·
+  <a href="#为什么用它">功能</a> ·
+  <a href="#致谢与许可">致谢</a>
+</p>
 
-### Download and install
+## 为什么用它
 
-The [`v1.8.3` GitHub Release](https://github.com/ankeyao-lab/BongoCat-Empire/releases/tag/v1.8.3) provides `BongoCat-Empire-1.8.3-macos-arm64.zip` for Apple Silicon Macs. Unzip it, move **BongoCat Empire.app** to Applications, then enable **BongoCat Empire** in **System Settings → Privacy & Security → Input Monitoring**.
+| MacBook 触摸板联动                                                                       | 养成与收藏                                                                                |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| ![触摸板联动：右爪贴合触摸板](docs/images/macbook-trackpad.png)                          | ![成长页：等级、进度与永久收藏](docs/images/growth-collection.png)                        |
+| 鼠标、触摸板移动、点击、拖拽和滚动会让右爪即时回到设备上。停止操作后，默认双爪自然举起。 | 有效按键会积累本地成长进度。每个主题都有 9 个等级，可查看下一阶段、已收藏装扮和养成轮次。 |
 
-The app bundle is ad-hoc signed and is not notarized. macOS may require you to open it from Finder with Control-click → Open on the first launch. The release asset's SHA-256 is published alongside the download.
+| 12 个主题，108 套装扮                                                     | 中英文与可配置动作                                                                                    |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| ![主题衣橱：多套主题装扮](docs/images/theme-wardrobe.png)                 | ![闲置举爪设置：A 双爪与 B 单爪](docs/images/idle-paw-setting.png)                                    |
+| 从原始外观、星际宇航、航海海盗到“称帝之路”，每个主题都有完整的 9 级换装。 | 界面可在简体中文与 English 间即时切换。闲置时默认 A「举双爪」，也可选 B「仅举左爪」，设置会自动保存。 |
 
-See [RELEASE_NOTES.md](RELEASE_NOTES.md) for the 1.8.3 scope and validation record. The original upstream documentation follows.
+### 输入不止是按键动画
+
+- **为 MacBook 触摸板设计**：右爪跟随触摸板/鼠标输入；点击、拖拽、滚动时保持接触，停止约 600 ms 后回到闲置姿态。
+- **四种输入模式**：键盘＋触摸板、键盘＋鼠标、双手键盘、手柄。不同模式保留各自的爪位与按键反馈。
+- **不遮脸、不挡装扮**：闲置举爪使用原版肉垫爪型，并固定在袖口前侧；表情与主题装扮始终完整可见。
+- **离线、本地保存**：无需账号和网络连接。成长进度、衣橱、阈值和偏好都保存在本机。
+
+## 安装
+
+适用于 Apple Silicon Mac（macOS 12 或更高版本）。
+
+1. 在 [v1.8.3 Release](https://github.com/ankeyao-lab/BongoCat-Empire/releases/tag/v1.8.3) 下载 `BongoCat-Empire-1.8.3-macos-arm64.zip` 与 `SHA256SUMS.txt`。
+2. 解压后将 **BongoCat Empire.app** 移至“应用程序”。
+3. 首次打开时，前往「系统设置 → 隐私与安全性 → 输入监控」，允许 **BongoCat Empire** 读取输入事件，以启用键盘、触摸板、鼠标和滚动反馈。
+
+安装包为本地 ad-hoc 签名，尚未公证。若 macOS 拦截首次启动，请在 Finder 中按住 Control 点击应用，再选择“打开”。下载页提供 SHA-256 校验文件。
+
+## 版本与验证
+
+当前版本为 **1.8.3**。已通过 TypeScript、32 项单元测试、5 项真实 Vue 输入回归、11 项中英文设置检查，以及 324 帧主题/姿态渲染检查。详见 [RELEASE_NOTES.md](RELEASE_NOTES.md)。
+
+## 致谢与许可
+
+BongoCat Empire 的核心代码基于 [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) 改造，并遵循其 [MIT License](LICENSE)。
+
+项目中的猫咪模型与创作生态也受到 [ayangweb/Awesome-BongoCat](https://github.com/ayangweb/Awesome-BongoCat) 的启发；该仓库是 BongoCat 相关模型、工具与资源的重要目录。这里明确致谢两位上游项目及其贡献者。
 
 ---
 
